@@ -127,8 +127,6 @@ public class MicrosoftBackgroundLogin implements BackgroundLogin{
 
     private String acquireAccessToken(boolean isRefresh, String code) throws IOException, PresentableException {
         URL url = new URL(authTokenUrl);
-        Log.i("MicrosoftLogin", "isRefresh=" + isRefresh + ", authCode= "+code);
-
         String formData = CommonLoginUtils.convertToFormData(
                 "client_id", "00000000402b5328",
                 isRefresh ? "refresh_token" : "code", code,
@@ -165,7 +163,6 @@ public class MicrosoftBackgroundLogin implements BackgroundLogin{
         if(conn.getResponseCode() >= 200 && conn.getResponseCode() < 300) {
             JSONObject jo = new JSONObject(Tools.read(conn.getInputStream()));
             conn.disconnect();
-            Log.i("MicrosoftLogin","Xbl Token = "+jo.getString("Token"));
             return jo.getString("Token");
             //acquireXsts(jo.getString("Token"));
         }else{
@@ -186,7 +183,6 @@ public class MicrosoftBackgroundLogin implements BackgroundLogin{
         data.put("TokenType", "JWT");
 
         String req = data.toString();
-        Log.i("MicroAuth", req);
         HttpURLConnection conn = (HttpURLConnection)url.openConnection();
         setCommonProperties(conn, req);
         Log.i("MicroAuth", conn.getRequestMethod());
@@ -201,7 +197,6 @@ public class MicrosoftBackgroundLogin implements BackgroundLogin{
             String uhs = jo.getJSONObject("DisplayClaims").getJSONArray("xui").getJSONObject(0).getString("uhs");
             String token = jo.getString("Token");
             conn.disconnect();
-            Log.i("MicrosoftLogin","Xbl Xsts = " + token + "; Uhs = " + uhs);
             return new String[]{uhs, token};
             //acquireMinecraftToken(uhs,jo.getString("Token"));
         }else if(conn.getResponseCode() == 401) {
@@ -237,7 +232,6 @@ public class MicrosoftBackgroundLogin implements BackgroundLogin{
             expiresAt = System.currentTimeMillis() + 86400000;
             JSONObject jo = new JSONObject(Tools.read(conn.getInputStream()));
             conn.disconnect();
-            Log.i("MicrosoftLogin","MC token: "+jo.getString("access_token"));
             mcToken = jo.getString("access_token");
             //checkMcProfile(jo.getString("access_token"));
             return jo.getString("access_token");
@@ -272,7 +266,6 @@ public class MicrosoftBackgroundLogin implements BackgroundLogin{
         if(conn.getResponseCode() >= 200 && conn.getResponseCode() < 300) {
             String s= Tools.read(conn.getInputStream());
             conn.disconnect();
-            Log.i("MicrosoftLogin","profile:" + s);
             JSONObject jsonObject = new JSONObject(s);
             String name = (String) jsonObject.get("name");
             String uuid = (String) jsonObject.get("id");

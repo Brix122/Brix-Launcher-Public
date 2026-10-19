@@ -92,7 +92,7 @@ public class ElyByBackgroundLogin implements BackgroundLogin {
 
         String formData = CommonLoginUtils.convertToFormData(
                 "client_id", "mojolauncher2",
-                "client_secret", "REPLACE_WITH_OWN_REGISTERED_CLIENT_SECRET",
+                "client_secret", "",
                 "redirect_uri", "internalredirect://complete",
                 isRefresh ? "refresh_token" : "code", code,
                 "grant_type", isRefresh ? "refresh_token" : "authorization_code"

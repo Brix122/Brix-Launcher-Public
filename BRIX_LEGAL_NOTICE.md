@@ -24,7 +24,7 @@ Do not embed or redistribute official Minecraft game assets, proprietary logos, 
 
 Do not bundle Mojang/Microsoft game JARs, paid content, credentials, or account tokens in the launcher APK. Download game components only through permitted official sources and follow Minecraft's EULA and usage guidelines.
 
-Project homepage: https://github.com/Brix122/Brix-Launcher
+Project homepage: https://github.com/Brix122/Brix-Launcher-Public
 Upstream provenance: [UPSTREAM.md](UPSTREAM.md)
 License: [LICENSE](LICENSE)
 

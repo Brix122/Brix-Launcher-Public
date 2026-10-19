@@ -24,7 +24,7 @@ The Android project includes Gradle build variants. Example development build:
 Release builds require a separate private signing key; **never upload keystores, passwords or access tokens**. The actual Play Store application ID may differ from the version checked into this branch until the developer's local changes have been committed. Always inspect the built AAB and merged manifest before publishing.
 
 ## Downloads and release status
-There is **no verified public release linked here yet**. Do not download unofficial binaries from people claiming to represent this repository. A passing build does not mean the launcher is approved for distribution or tested on all devices.
+Public release downloads: https://github.com/Brix122/Brix-Launcher-Public/releases
 
 See [release checklist](RELEASE_SAFETY_CHECKLIST.md) before publishing and [security guidance](SECURITY.md) for reporting issues.
 
