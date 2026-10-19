@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_username_hint">Ù†Ø§Ù… Ú©Ø§Ø±Ø¨Ø±ÛŒ</string>
+    <string name="login_online_login_label">ÙˆØ±ÙˆØ¯</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Ø§ÛŒÙ† Ø§Ú©Ø§Ù†Øª Ø­Ø°Ù Ø®ÙˆØ§Ù‡Ø¯ Ø´Ø¯!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">ÛŒÚ© Ù†ØµØ¨ Ú©Ù†Ù†Ø¯Ù‡ Ù…Ø§Ø¯ Ø±Ø§ Ø§Ù†ØªØ®Ø§Ø¨ Ú©Ù†ÛŒØ¯</string>
+    <!-- Error messages -->
+    <string name="error_fatal">Ù¾ÙˆØ¬Ø§Ùˆ Ù„Ø§Ù†Ú†Ø± Ø¨ØµÙˆØ±Øª ØºÛŒØ±Ù…Ù†ØªØ¸Ø±Ù‡ Ú©Ø±Ø´ Ø®ÙˆØ±Ø¯</string>
+    <string name="error_no_version">Ø¨Ø¯ÙˆÙ† ÙˆØ±Ú˜Ù†!</string>
+    <string name="error_show_more">Ù†Ù…Ø§ÛŒØ´ Ø¨ÛŒØ´ØªØ±</string>
+    <string name="error_show_less">Ù†Ù…Ø§ÛŒØ´ Ú©Ù…ØªØ±</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">Ø¯Ø³ØªØ±Ø³ÛŒ Ø®ÙˆØ§Ù†Ø¯Ù†/Ù†ÙˆØ´ØªÙ† Ø­Ø§ÙØ¸Ù‡ Ù…ÙˆØ±Ø¯ Ù†ÛŒØ§Ø² Ø§Ø³Øª!</string>
+    <string name="toast_optifine_success">Ù†ØµØ¨ Ù…ÙˆÙÙ‚ÛŒØª Ø¢Ù…ÛŒØ² Ø¨ÙˆØ¯</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">ÙˆÛŒÚ©ÛŒ</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">Ù¾Ø§Ú©Ø³Ø§Ø²ÛŒ ÙØ§ÛŒÙ„â€ŒÙ‡Ø§ÛŒ Ú©ÙŽØ´</string>
+    <string name="mcl_launch_downloading">Ø¯Ø± Ø­Ø§Ù„ Ø¯Ø§Ù†Ù„ÙˆØ¯ %s</string>
+    <string name="mcl_launch_downloading_progress">"Ø¯Ø±Ø­Ø§Ù„ Ø¯Ø§Ù†Ù„ÙˆØ¯ %s (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">Ø¢Ù…Ø§Ø¯Ù‡â€ŒØ³Ø§Ø²ÛŒ Ø¨Ø±Ø§ÛŒ Ø¯Ø§Ù†Ù„ÙˆØ¯ Ù…Ù†Ø§Ø¨Ø¹</string>
+    <string name="mcl_options">Ú¯Ø²ÛŒÙ†Ù‡â€ŒÙ‡Ø§</string>
+    <string name="mcl_option_customcontrol">Ú©Ù†ØªØ±Ù„â€ŒÙ‡Ø§ÛŒ Ø´Ø®ØµÛŒ</string>
+    <string name="mcl_setting_title_use_surface_view">Ø§Ø² Ø±Ù†Ø¯Ø± Ú¯ÛŒØ± Ø³Ø·ÙˆØ­ Ø¬Ø§ÛŒÚ¯Ø²ÛŒÙ† Ø§Ø³ØªÙØ§Ø¯Ù‡ Ú©Ù†ÛŒØ¯</string>
+    <string name="mcl_setting_subtitle_use_surface_view">Ù…Ù…Ú©Ù† Ø§Ø³Øª Ø¯Ø± ÙØ¹Ø§Ù„ÛŒØª Ù‡Ø§ÛŒ GPU Ù…Ø­ÙˆØ± Ù…Ø¤Ø«Ø± Ø¨Ø§Ø´Ø¯.</string>
+    <string name="mcl_setting_title_ignore_notch">Ø­ÙØ±Ù‡ Ø¯ÙˆØ±Ø¨ÛŒÙ† Ø±Ø§ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ø¨Ú¯ÛŒØ±</string>
+    <string name="mcl_setting_subtitle_ignore_notch">Ø­ÙØ±Ù‡ Ø¯ÙˆØ±Ø¨ÛŒÙ† Ú¯ÙˆØ´ÛŒ Ø±Ø§ Ù†Ø§Ø¯ÛŒØ¯Ù‡ Ù…ÛŒÚ¯ÛŒØ±Ø¯ Ùˆ ØµÙØ­Ù‡ Ø±Ø§ Ø¯Ø± Ø²ÛŒØ± Ø¢Ù† Ú¯Ø³ØªØ±Ø´ Ù…ÛŒØ¯Ù‡Ø¯.\nÙ…ÛŒØªÙˆØ§Ù†Ø¯ ØªØ¬Ø±Ø¨Ù‡ Ú©Ø§Ù…Ù„â€ŒØªØ±ÛŒ Ø§Ø² Ù…Ø­ØªÙˆØ§ÛŒ ØµÙØ­Ù‡ Ø§Ø±Ø§Ø¦Ù‡ Ø¨Ø¯Ù‡Ø¯.</string>
+    <string name="mcl_setting_title_resolution_scaler">ØªØºÛŒÛŒØ± Ù…Ù‚ÛŒØ§Ø³ ÙˆØ¶ÙˆØ­ (Ø±Ø²ÙˆÙ„ÙˆØ´Ù†)</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">Ø¨Ù‡ Ø´Ù…Ø§ Ø§Ø¬Ø§Ø²Ù‡ Ú©Ù…ØªØ± Ú©Ø±Ø¯Ù† Ø±Ø²ÙˆÙ„ÙˆØ´Ù† Ø¨Ø§Ø²ÛŒ Ø±Ø§ Ù…ÛŒØ¯Ù‡Ø¯.
+Û±Û°Û°Ùª Ø±Ø²ÙˆÙ„ÙˆØ´Ù† Ú©Ø§Ù…Ù„ Ø§Ø³Øª.</string>
+    <string name="mcl_setting_title_longpresstrigger">ØªØ§Ø®ÛŒØ± Ù„Ù…Ø³ Ø¨Ù„Ù†Ø¯ Ù…Ø¯Øª Ø±Ø§ Ø§Ø¹Ù…Ø§Ù„ Ú©Ù†ÛŒØ¯</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">ØªØ§Ø®ÛŒØ± Ù„Ù…Ø³ Ø¨Ù„Ù†Ø¯ Ù…Ø¯Øª Ø±Ø§ Ø¨Ø±Ø§ÛŒ Ú©Ù†Ø¯Ù† Ùˆ Ú¯Ø°Ø§Ø´ØªÙ† Ø¨Ù„Ø§Ú© Ù‡Ø§ Ùˆ Ø§Ù†Ø¯Ø§Ø®ØªÙ† Ø¢ÛŒØªÙ… Ù‡Ø§ ØªØºÛŒÛŒØ± Ø¯Ù‡ÛŒØ¯.</string>
+    <string name="mcl_setting_title_buttonscale">ØªØºÛŒÛŒØ± Ù…Ù‚ÛŒØ§Ø³ Ø¯Ú©Ù…Ù‡ Ù‡Ø§ÛŒ Ú©Ù†ØªØ±Ù„</string>
+    <string name="mcl_setting_subtitle_buttonscale">Ø§Ú¯Ø± Ø¯Ú©Ù…Ù‡ Ù‡Ø§ Ú©ÙˆÚ†Ú© Ù‡Ø³ØªÙ†Ø¯ Ø¢Ù†Ù‡Ø§ Ø±Ø§ Ø¨Ø²Ø±Ú¯ØªØ± Ú©Ù†ÛŒØ¯.</string>
+    <string name="mcl_setting_title_mousescale">ØªØºÛŒÛŒØ± Ù…Ù‚ÛŒØ§Ø³ Ù…ÙˆØ³</string>
+    <string name="mcl_setting_subtitle_mousescale">Ø§Ù†Ø¯Ø§Ø²Ù‡ Ù†Ø´Ø§Ù†Ú¯Ø± Ù…ÙˆØ³ Ù…Ø¬Ø§Ø²ÛŒ Ø±Ø§ ØªØºÛŒÛŒØ± Ø¯Ù‡ÛŒØ¯.</string>
+    <string name="mcl_setting_title_javaargs">Ø¢Ø±Ú¯ÙˆÙ…Ø§Ù†â€ŒÙ‡Ø§ÛŒ Ø¬Ø§ÙˆØ§ Ø¯Ø± Ù‡Ù†Ú¯Ø§Ù… Ø§Ø¬Ø±Ø§</string>
+    <string name="mcl_setting_subtitle_javaargs">Ù…Ø±Ø§Ù‚Ø¨ Ø¨Ø§Ø´ÛŒØ¯ØŒ Ø§ÛŒÙ† Ù…Ù…Ú©Ù† Ø§Ø³Øª Ø¨Ø§Ø¹Ø« Ø§Ø² Ú©Ø§Ø± Ø§ÙØªØ§Ø¯Ù† Ø¨Ø§Ø²ÛŒ Ø¯Ø± ØµÙˆØ±Øª Ø§ØµÙ„Ø§Ø­ Ø¨Ø¯ÙˆÙ† Ø§Ø·Ù„Ø§Ø¹ Ø´ÙˆØ¯.</string>
+    <string name="mcl_setting_category_renderer">Ø±Ù†Ø¯Ø± Ú©Ù†Ù†Ø¯Ù‡</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (Ù‡Ù…Ù‡ ÛŒ Ù†Ø³Ø®Ù‡ Ù‡Ø§ØŒ Ø³Ø±ÛŒØ¹)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">(Ù‡Ù…Ù‡ Ù†Ø³Ø®Ù‡ Ù‡Ø§ØŒ Ù…ØªÙˆØ³Ø·) - Zink (Vulkan)</string>
+    <string name="mcl_setting_veroption_release">Ø±ÛŒÙ„ÛŒØ²</string>
+    <string name="mcl_setting_veroption_snapshot">Ø§Ø³Ù†Ù¾â€ŒØ´Ø§Øª</string>
+    <string name="mcl_setting_veroption_oldalpha">Ø¢Ù„ÙØ§ÛŒ-Ù‚Ø¯ÛŒÙ…ÛŒ</string>
+    <string name="mcl_setting_veroption_oldbeta">Ø¨ØªØ§ÛŒ-Ù‚Ø¯ÛŒÙ…ÛŒ</string>
+    <string name="mcl_setting_java_sandbox">Ø§Ø¬Ø±Ø§ÛŒ jar. Ø³Ù†Ø¯Ø¨Ø§Ú©Ø³</string>
+    <string name="mcl_setting_java_sandbox_subtitle">ÙˆØ¬ÙˆØ¯ Ù†Ø¸Ø§Ø±Ù‡â€ŒÚ¯Ø± Ø§Ù…Ù†ÛŒØª Ø³Ù†Ø¯ Ø¨Ø§Ú©Ø³ Ù‡Ù†Ú¯Ø§Ù… Ø§Ø¬Ø±Ø§ÛŒ jar. Ø±Ø§ Ú©Ù†ØªØ±Ù„ Ú©Ù†ÛŒØ¯.</string>
+    <string name="mcl_version_clone">Ø´Ø¨ÛŒÙ‡â€ŒØ³Ø§Ø²ÛŒ</string>
+    <!-- Global strings -->
+    <string name="global_edit">ÙˆÛŒØ±Ø§ÛŒØ´</string>
+    <string name="global_error">Ø®Ø·Ø§</string>
+    <string name="global_load">Ø¨Ø§Ø±Ú¯Ø°Ø§Ø±ÛŒ</string>
+    <string name="global_name">Ù†Ø§Ù…</string>
+    <string name="global_remove">Ø­Ø°Ù</string>
+    <string name="global_clone">Ø´Ø¨ÛŒÙ‡â€ŒØ³Ø§Ø²ÛŒ</string>
+    <string name="global_restart">Ø±Ø§Ù‡â€ŒØ§Ù†Ø¯Ø§Ø²ÛŒ Ù…Ø¬Ø¯Ø¯</string>
+    <string name="global_save">Ø°Ø®ÛŒØ±Ù‡</string>
+    <string name="global_unpacking">Ø¯Ø± Ø­Ø§Ù„ Ø¨Ø§Ø² Ú©Ø±Ø¯Ù† %s</string>
+    <string name="global_error_field_empty">Ø§ÛŒÙ† ÙÛŒÙ„Ø¯ Ù†Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ Ø®Ø§Ù„ÛŒ Ø¨Ø§Ø´Ø¯</string>
+    <string name="global_waiting">ØµØ¨Ø± Ú©Ù†ÛŒØ¯</string>
+    <string name="global_select">Ø§Ù†ØªØ®Ø§Ø¨</string>
+    <string name="global_retry">Ø¯ÙˆØ¨Ø§Ø±Ù‡ Ø§Ù…ØªØ­Ø§Ù† Ú©Ù†ÛŒØ¯</string>
+    <string name="global_default">Ù¾ÛŒØ´â€ŒÙØ±Ø¶</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">Ø¨Ø±Ù†Ø§Ù…Ù‡ ÛŒØ§ Ø¨Ø§Ø²ÛŒ Ø¨Ø§ Ú©Ø¯ Ù…Ø±Ø¬ÙˆØ¹ÛŒ %d Ø®Ø§Ø±Ø¬ Ø´Ø¯. Ø¨Ø±Ø§ÛŒ Ø¬Ø²Ø¦ÛŒØ§Øª Ø¨ÛŒØ´ØªØ± Ø¨Ù‡ lastlog.text Ù…Ø±Ø§Ø¬Ø¹Øª Ú©Ù†ÛŒØ¯.</string>
+    <string name="mcn_exit_confirm">Ø¢ÛŒØ§ Ø§Ø² Ø®Ø±ÙˆØ¬ Ø§Ø¬Ø¨Ø§Ø±ÛŒ Ø§Ø·Ù…ÛŒÙ†Ø§Ù† Ø¯Ø§Ø±ÛŒØ¯ØŸ</string>
+    <string name="mcn_check_fail_vulkan_support">Ù¾Ø±Ø¯Ø§Ø²Ø´Ú¯Ø± Zink (Vulkan) ØªÙˆØ³Ø· Ø§ÛŒÙ† Ø¯Ø³ØªÚ¯Ø§Ù‡ Ù¾Ø´ØªÛŒØ¨Ø§Ù†ÛŒ Ù†Ù…ÛŒØ´ÙˆØ¯!</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Ú†Øª</string>
+    <string name="control_debug">Ø¯ÛŒØ¨Ø§Ú¯</string>
+    <string name="control_primary">LMB</string>
+    <string name="control_secondary">RMB</string>
+    <string name="control_inventory">Inv</string>
+    <string name="control_thirdperson">3rd</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Ù…Ø§ÙˆØ³</string>
+    <string name="control_mouseoff">Ù…Ø§ÙˆØ³: Ø®Ø§Ù…ÙˆØ´</string>
+    <string name="control_mouseon">Ù…Ø§ÙˆØ³: Ø±ÙˆØ´Ù† </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">ØªÙˆÙ‚Ù Ø§Ø¬Ø¨Ø§Ø±ÛŒ</string>
+    <string name="control_viewout">Ø®Ø±ÙˆØ¬ÛŒ Ú¯Ø²Ø§Ø±Ø´ (Ù„Ø§Ú¯)</string>
+    <string name="control_adebug">ÙˆØ±ÙˆØ¯ÛŒ Ø¯ÛŒØ¨Ø§Ú¯</string>
+    <string name="control_customkey">Ø§Ø±Ø³Ø§Ù„ keycode Ø´Ø®ØµÛŒ</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">Ú©Ù†Ù†ØªØ±Ù„Ø± Ù‡Ø§ Ø±Ø§ ÙˆØ§Ø±Ø¯ Ú©Ù†ÛŒØ¯</string>
+    <string name="import_control_invalid_file">ÙØ§ÛŒÙ„ Ù†Ø§Ù…Ø¹ØªØ¨Ø± ÛŒØ§ Ø¢Ø³ÛŒØ¨ Ø¯ÛŒØ¯Ù‡ Ù‡Ø³Øª</string>
+    <string name="import_control_import_button">Ú©Ù†ØªØ±Ù„Ø± Ù‡Ø§ Ø±Ø§ ÙˆØ§Ø±Ø¯ Ù†Ù…Ø§ÛŒÛŒØ¯</string>
+    <string name="import_control_verifying_file">ÙØ§ÛŒÙ„ Ø¯Ø± Ø­Ø§Ù„ ØªØ£ÛŒÛŒØ¯ Ø§Ø³ØªØŒ Ù„Ø·ÙØ§Ù‹ ØµØ¨Ø± Ú©Ù†ÛŒØ¯ Ùˆ Ø¯ÙˆØ¨Ø§Ø±Ù‡ Ø§Ù…ØªØ­Ø§Ù† Ú©Ù†ÛŒØ¯â€¦</string>
+    <string name="import_control_invalid_name">Ø§Ø³Ù… Ù†Ø§Ù…Ø¹ØªØ¨Ø± Ø§Ø³Øª ÛŒØ§ Ù†Ø§Ù… ÙØ§ÛŒÙ„ Ø§Ø² Ù‚Ø¨Ù„ ÙˆØ¬ÙˆØ¯ Ø¯Ø§Ø±Ø¯</string>
+    <string name="import_control_done">ÙˆØ§Ø±Ø¯ Ú©Ø±Ø¯Ù† Ø§Ù†Ø¬Ø§Ù… Ø´Ø¯</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">Ø­Ø§Ù„Øª ÙØ¹Ø§Ù„/ØºÛŒØ±ÙØ¹Ø§Ù„</string>
+    <string name="customctrl_size">Ø§Ù†Ø¯Ø§Ø²Ù‡</string>
+    <string name="customctrl_mapping">Ù†Ù‚Ø´Ù‡â€ŒØ¨Ø±Ø¯Ø§Ø±ÛŒ</string>
+    <string name="customctrl_orientation">Ø¬Ù‡Øª</string>
+    <string name="customctrl_background_color">Ø±Ù†Ú¯ Ù¾Ø³â€ŒØ²Ù…ÛŒÙ†Ù‡</string>
+    <string name="customctrl_corner_radius">Ø´Ø¹Ø§Ø¹ Ú¯ÙˆØ´Ù‡</string>
+    <string name="customctrl_stroke_width">Ø¶Ø®Ø§Ù…Øª Ø­Ø§Ø´ÛŒÙ‡</string>
+    <string name="customctrl_stroke_color">Ø±Ù†Ú¯ Ø­Ø§Ø´ÛŒÙ‡</string>
+    <string name="customctrl_button_opacity">Ø´ÙØ§ÙÛŒØª Ø¯Ú©Ù…Ù‡</string>
+    <string name="customctrl_addbutton">Ø§Ø¶Ø§ÙÙ‡ Ú©Ø±Ø¯Ù† Ø¯Ú©Ù…Ù‡</string>
+    <string name="customctrl_addbutton_drawer">Ø§ÙØ²ÙˆØ¯Ù† Ø¯Ú©Ù…Ù‡ Ú©Ø´ÙˆÛŒÛŒ</string>
+    <string name="customctrl_addbutton_joystick">Ø§Ø¶Ø§ÙÙ‡ Ú©Ø±Ø¯Ù† Ø¬ÙˆÛŒØ³ØªÛŒÚ©</string>
+    <string name="customctrl_addsubbutton">Ø§ÙØ²ÙˆØ¯Ù† Ø²ÛŒØ±-Ø¯Ú©Ù…Ù‡</string>
+    <string name="customctrl_selectdefault">Ú©Ù†ØªØ±Ù„Ø± Ù¾ÛŒØ´ÙØ±Ø¶ Ø±Ø§ Ø§Ù†ØªØ®Ø§Ø¨ Ú©Ù†ÛŒØ¯</string>
+    <string name="customctrl_export">Ú©Ù†ØªØ±Ù„Ø± Ø±Ø§ Ø§Ø³ØªØ®Ø±Ø§Ø¬ Ú©Ù†ÛŒØ¯</string>
+    <string name="main_share_logs">Ø§Ø´ØªØ±Ø§Ú© Ú¯Ø°Ø§Ø±ÛŒ ÙØ§ÛŒÙ„ log</string>
+    <string name="main_install_jar_file">Jar. Ø±Ø§ Ø§Ø¬Ø±Ø§ Ú©Ù†ÛŒØ¯</string>
+    <string name="main_play">Ø´Ø±ÙˆØ¹ Ø¨Ø§Ø²ÛŒ</string>
+    <string name="autoram_info_msg">Ù…Ù…ÙˆØ±ÛŒ ØªÙ†Ø¸ÛŒÙ… Ø´Ø¯ Ø±ÙˆÛŒ %d Ù…Ú¯Ø§Ø¨Ø§ÛŒØª</string>
+    <string name="mcl_setting_check_libraries">Ø¨Ø±Ø±Ø³ÛŒ Ú©ØªØ§Ø¨Ø®Ø§Ù†Ù‡â€ŒÙ‡Ø§ Ù¾Ø³ Ø§Ø² Ø¯Ø§Ù†Ù„ÙˆØ¯</string>
+    <string name="mcl_setting_check_libraries_subtitle">Ø§ÛŒÙ† Ú¯Ø²ÛŒÙ†Ù‡ Ù„Ø§Ù†Ú†Ø± Ø±Ø§ Ù…Ø¬Ø¨ÙˆØ± Ø¨Ù‡ Ú†Ú© Ú©Ø±Ø¯Ù† Ø§Ø´Ú©Ø§Ù„Ø§Øª Ú©ØªØ§Ø¨Ø®Ø§Ù†Ù‡ Ù…ÛŒÚ©Ù†Ø¯. Ø§Ø² Ø¯Ø§Ù†Ù„ÙˆØ¯ Ù‡Ø§ÛŒ Ø®Ø±Ø§Ø¨ Ø¬Ù„ÙˆÚ¯ÛŒØ±ÛŒ Ù…ÛŒÚ©Ù†Ø¯.</string>
+    <string name="dl_library_sha_fail">Ú©ØªØ§Ø¨Ø®Ø§Ù†Ù‡ %s Ø¢Ø³ÛŒØ¨ Ø¯ÛŒØ¯Ù‡ Ø§Ø³Øª Ùˆ Ù†ÛŒØ§Ø² Ø¨Ù‡ Ø¯Ø§Ù†Ù„ÙˆØ¯ Ù…Ø¬Ø¯Ø¯ Ø¯Ø§Ø±Ø¯</string>
+    <string name="dl_library_sha_unknown">Ú©ØªØ§Ø¨Ø®Ø§Ù†Ù‡ %s Ù†Ù…ÛŒâ€ŒØªÙˆØ§Ù†Ø¯ Ø¨Ø±Ø±Ø³ÛŒ Ø´ÙˆØ¯ØŒ Ø¨Ø§ÛŒØ¯ ÙØ±Ø¶ Ú©Ø±Ø¯ Ú©Ù‡ Ø³Ø§Ù„Ù… Ø§Ø³Øª</string>
+    <string name="dl_library_sha_pass">Ú©ØªØ§Ø¨Ø®Ø§Ù†Ù‡ %s Ø³Ø§Ù„Ù… Ùˆ Ù‚Ø§Ø¨Ù„ Ø§Ø³ØªÙØ§Ø¯Ù‡ Ø§Ø³Øª</string>
+    <string name="mcl_disable_gestures">ØºÛŒØ±ÙØ¹Ø§Ù„ Ú©Ø±Ø¯Ù† Ø­Ø³Ú¯Ø± Ù‡Ø§</string>
+    <string name="mcl_disable_gestures_subtitle">Ø­Ø³Ú¯Ø± Ù‡Ø§ Ø±Ø§ ØºÛŒØ±ÙØ¹Ø§Ù„ Ù…ÛŒâ€ŒÚ©Ù†Ø¯ØŒ Ù…Ø§Ù†Ù†Ø¯ Ù†Ú¯Ù‡ Ø¯Ø§Ø±ÛŒØ¯ ØªØ§ Ø¨Ù„Ø§Ú© Ú©ÙŽÙ†Ø¯Ù‡ Ø´ÙˆØ¯ Ùˆ Ø±ÙˆÛŒ ØµÙØ­Ù‡ Ø¨Ø²Ù†ÛŒØ¯ ØªØ§ Ø¨Ù„Ø§Ú© Ù‚Ø±Ø§Ø± Ø¯Ø§Ø¯Ù‡ Ø´ÙˆØ¯.</string>
+    <string name="mcl_disable_swap_hand">Ø¯ÙˆØ¨Ø§Ø± Ú©Ù„ÛŒÚ© Ø¨Ø±Ø§ÛŒ Ø¯Ø³Øª Ø¨Ù‡ Ø¯Ø³Øª Ø±Ø§ Ø®Ø§Ù…ÙˆØ´ Ú©Ù†ÛŒØ¯</string>
+    <string name="mcl_disable_swap_hand_subtitle">Ø¯ÙˆØ¨Ø§Ø± Ú©Ù„ÛŒÚ© Ø±ÙˆÛŒ Ù†ÙˆØ§Ø± Ø§ÛŒØªÙ… Ø¨Ø±Ø§ Ú¯Ø°Ø§Ø´ØªÙ† Ø¯Ø± Ø¯Ø³Øª Ø¯ÙˆÙ… Ø±Ø§ Ø®Ø§Ù…ÙˆØ´ Ù…ÛŒÚ©Ù†Ø¯.</string>
+    <string name="mcl_setting_title_mousespeed">Ø³Ø±Ø¹Øª Ù…Ø§ÙˆØ³</string>
+    <string name="mcl_setting_subtitle_mousespeed">Ø³Ø±Ø¹Øª Ø¬Ø§Ø¨Ù‡â€ŒØ¬Ø§ÛŒÛŒ Ù…ÙˆØ³ Ù…Ø¬Ø§Ø²ÛŒ Ø±Ø§ ØªØºÛŒÛŒØ± Ù…ÛŒØ¯Ù‡Ø¯.</string>
+    <string name="customctrl_passthru">Ù…Ø§ÙˆØ³ Ø§Ø² Ø¢Ù† Ø±Ø¯ Ø´ÙˆØ¯</string>
+    <string name="customctrl_swipeable">Ù‚Ø§Ø¨Ù„ Ø³ÙˆØ§ÛŒÙ¾</string>
+    <string name="customctrl_forward_lock">Ù‚ÙÙ„ Ø­Ø±Ú©Øª Ø¨Ù‡ Ø¬Ù„Ùˆ</string>
+    <string name="customctrl_absolute_tracking">ØªØ´Ø®ÛŒØµ Ø¯Ù‚ÛŒÙ‚ Ø§Ù†Ú¯Ø´Øª</string>
+    <string name="memory_warning_msg">Ù…ÛŒØ²Ø§Ù† Ø±Ù… Ø¢Ø²Ø§Ø¯ ÙØ¹Ù„ÛŒ (%d) Ø§Ø² Ù…ÛŒØ²Ø§Ù† Ø±Ù… Ø§Ø®ØªØµØ§Øµ ÛŒØ§ÙØªÙ‡ (%d) Ú©Ù…ØªØ± Ø§Ø³ØªØŒ Ú©Ù‡ Ù…Ù…Ú©Ù† Ø§Ø³Øª Ø¨Ø§Ø¹Ø« Ú©Ø±Ø´ Ø´ÙˆØ¯. Ø±Ù… Ø§Ø®ØªØµØ§Øµ ÛŒØ§ÙØªÙ‡ Ø±Ø§ ØªØºÛŒÛŒØ± Ø¯Ù‡ÛŒØ¯ Ø§Ú¯Ø± Ø¨Ø§Ø²ÛŒ Ú©Ø±Ø´ Ø®ÙˆØ±Ø¯.</string>
+    <string name="mcl_memory_allocation">Ù…ÛŒØ²Ø§Ù† Ø±Ù… Ø§Ø®ØªØµØ§Øµ ÛŒØ§ÙØªÙ‡</string>
+    <string name="mcl_memory_allocation_subtitle">Ù…Ù‚Ø¯Ø§Ø± Ø­Ø§ÙØ¸Ù‡ Ø±Ù… Ø¯Ø§Ø¯Ù‡ Ø´Ø¯Ù‡ Ø¨Ù‡ Ù…Ø§ÛŒÙ†Ú©Ø±ÙØª Ø±Ø§ Ú©Ù†ØªØ±Ù„ Ù…ÛŒÚ©Ù†Ø¯.</string>
+    <string name="multirt_runtime_corrupt">Ø¬Ø§ÙˆØ§ Ø±Ø§Ù†â€Œ ØªØ§ÛŒÙ… Ø®Ø±Ø§Ø¨</string>
+    <string name="multirt_runtime_incompatiblearch">Ù…Ø¹Ù…Ø§Ø±ÛŒ Ù†Ø§Ø³Ø§Ø²Ú¯Ø§Ø±: %s</string>
+    <string name="multirt_config_title">Ø¬Ø§ÙˆØ§ Ù‡Ø§</string>
+    <string name="multirt_config_add">Ø§ÙØ²ÙˆØ¯Ù† Ø¬Ø¯ÛŒØ¯</string>
+    <string name="multirt_title">Ù…Ø¯ÛŒØ±ÛŒØª Ø±Ø§Ù† ØªØ§ÛŒÙ…</string>
+    <string name="multirt_subtitle">Ø¬Ø§ÙˆØ§ Ù‡Ø§ÛŒ Ù†ØµØ¨ Ø´Ø¯Ù‡ Ø±Ø§ Ú©Ù†ØªØ±Ù„ Ú©Ù†ÛŒØ¯.</string>
+    <string name="multirt_progress_caching">Ø¯Ø± Ø­Ø§Ù„ Ø§Ø¹Ù…Ø§Ù„ Ú©ÙŽØ´...</string>
+    <string name="multirt_config_setdefault">ØªÙ†Ø¸ÛŒÙ… Ù¾ÛŒØ´â€ŒÙØ±Ø¶</string>
+    <string name="multirt_config_setdefault_already">Ù¾ÛŒØ´â€ŒÙØ±Ø¶</string>
+    <string name="multirt_config_removeerror_last">Ø´Ù…Ø§ Ø¨Ø§ÛŒØ¯ Ø­Ø¯Ø§Ù‚Ù„ ÛŒÚ© Ø¬Ø§ÙˆØ§ÛŒ Ù†ØµØ¨ Ø´Ø¯Ù‡ Ø¯Ø§Ø´ØªÙ‡ Ø¨Ø§Ø´ÛŒØ¯.</string>
+    <string name="multirt_nojava8rt">Ø¬Ø§ÙˆØ§ 8 Ø±Ø§ Ù†Ù…ÛŒ ØªÙˆØ§Ù† Ù¾ÛŒØ¯Ø§ Ú©Ø±Ø¯. Ø¨Ø±Ø§ÛŒ Ø§Ø³ØªÙØ§Ø¯Ù‡ Ø§Ø² Ø§ÛŒÙ† Ù‚Ø§Ø¨Ù„ÛŒØª Ø¨Ø§ÛŒØ¯ Ø¬Ø§ÙˆØ§ 8 Ø±Ø§ Ù†ØµØ¨ Ú©Ù†ÛŒØ¯.</string>
+    <string name="multirt_delete_runtime">Ø­Ø°Ù Ø¬Ø§ÙˆØ§</string>
+    <string name="pvc_gameDirectory">Ù¾ÙˆØ´Ù‡ Ø¨Ø§Ø²ÛŒ</string>
+    <string name="pvc_jvmArgs">Ø¢Ø±Ú¯ÙˆÙ…Ø§Ù†â€ŒÙ‡Ø§ÛŒ JVM</string>
+    <string name="preference_mouse_start_title">Ø´Ø±ÙˆØ¹ Ø¨Ø§ Ù…ÙˆØ³Ù Ù…Ø¬Ø§Ø²ÛŒÙ Ø±ÙˆØ´Ù†</string>
+    <string name="preference_mouse_start_description">Ø§Ú¯Ø± Ø§ÛŒÙ† Ú¯Ø²ÛŒÙ†Ù‡ Ø±ÙˆØ´Ù† Ø¨Ø§Ø´Ø¯ Ù…ÙˆØ³ Ù…Ø¬Ø§Ø²ÛŒ Ù‡Ù†Ú¯Ø§Ù… Ø´Ø±ÙˆØ¹ Ø¨Ø§Ø²ÛŒ Ø¸Ø§Ù‡Ø± Ù…ÛŒØ´ÙˆØ¯.</string>
+    <string name="preference_video_title">ÙˆÛŒØ¯Ø¦Ùˆ Ùˆ Ø±Ù†Ø¯Ø± Ú©Ù†Ù†Ø¯Ù‡</string>
+    <string name="preference_video_description">Ø±Ø²ÙˆÙ„ÙˆØ´Ù†ØŒ Ù¾Ø±Ø¯Ø§Ø²Ø´Ú¯Ø± Ùˆ Ø¹Ù…Ù„Ú©Ø±Ø¯</string>
+    <string name="preference_control_title">Ø´Ø®ØµÛŒ Ø³Ø§Ø²ÛŒ Ú©Ù†ØªØ±Ù„Ø±</string>
+    <string name="preference_control_description">Ù„Ù…Ø³ØŒ Ø¯Ú©Ù…Ù‡ Ù‡Ø§ Ùˆ Ø§Ù†Ø¯Ø§Ø²Ù‡ Ù‡Ø§</string>
+    <string name="preference_java_title">ØªØ±ÙÙ†Ø¯ Ù‡Ø§ÛŒ Ø¬Ø§ÙˆØ§</string>
+    <string name="preference_java_description">Ø¬Ø§ÙˆØ§ØŒ Ù‚Ø§Ø¹Ø¯Ù‡ JVMØŒ Ù…Ù‚Ø¯Ø§Ø± Ø±Ù… Ùˆ Ø³Ù†Ø¯ Ø¨Ø§Ú©Ø³</string>
+    <string name="preference_misc_title">ØªÙ†Ø¸ÛŒÙ…Ø§Øª Ù…ØªÙØ±Ù‚Ù‡</string>
+    <string name="preference_misc_description">Ú†Ú© Ú©Ø±Ø¯Ù† Ù„ÛŒØ³Øª Ù†Ø³Ø®Ù‡ Ù‡Ø§ Ùˆ Ú©ØªØ§Ø¨Ø®Ø§Ù†Ù‡</string>
+    <string name="preference_experimental_title">Ú†ÛŒØ² Ù‡Ø§ÛŒ ØªØ³ØªÛŒ</string>
+    <string name="preference_experimental_description">Ø§Ø² Ù…ÙˆØ§Ø±Ø¯ Ø§ÛŒÙ†Ø¬Ø§ Ø¨Ø§ Ø¢Ú¯Ø§Ù‡ÛŒ Ø§Ø³ØªÙØ§Ø¯Ù‡ Ú©Ù†ÛŒØ¯ØŒ Ù…Ø§ Ù¾Ø§Ø³Ø® Ú¯Ùˆ Ù†ÛŒØ³ØªÛŒÙ…</string>
+    <string name="preference_sustained_performance_title">Ø­Ø§Ù„Øª Ø¹Ù…Ù„Ú©Ø±Ø¯ Ù¾Ø§ÛŒØ¯Ø§Ø± Ø±Ø§ ÙØ¹Ø§Ù„ Ú©Ù†ÛŒØ¯</string>
+    <string name="preference_sustained_performance_description">Ø¨Ø§ Ù…Ø­Ø¯ÙˆØ¯ Ú©Ø±Ø¯Ù† Ø§ÙˆØ¬ Ø¹Ù…Ù„Ú©Ø±Ø¯ ÙØ´Ø§Ø± Ø­Ø±Ø§Ø±ØªÛŒ Ø±Ø§ Ù…Ø­Ø¯ÙˆØ¯ Ú©Ù†ÛŒØ¯.</string>
+    <string name="preference_force_vsync_title">Ø±ÙˆØ´Ù† Ú©Ø±Ø¯Ù† VSync Ø§Ø¬Ø¨Ø§Ø±ÛŒ</string>
+    <string name="preference_force_vsync_description">Ø¨Ø§ Ù…Ø­Ø¯ÙˆØ¯ Ú©Ø±Ø¯Ù† Ø§ÙˆØ¬ Ø¹Ù…Ù„Ú©Ø±Ø¯ ÙØ´Ø§Ø± Ø­Ø±Ø§Ø±ØªÛŒ Ø±Ø§ Ù…Ø­Ø¯ÙˆØ¯ Ú©Ù†ÛŒØ¯.</string>
+    <string name="preference_force_english_title">Ø§Ø¬Ø¨Ø§Ø± Ø²Ø¨Ø§Ù† Ø¨Ù‡ Ø§Ù†Ú¯Ù„ÛŒØ³ÛŒ</string>
+    <string name="preference_force_english_description">Ø¨Ù‡ Ø´Ù…Ø§ Ø§Ø¬Ø§Ø²Ù‡ Ù…ÛŒØ¯Ù‡Ø¯ Ù…ØªÙˆÙ† Ø§ØµÙ„ÛŒ Ø§Ø±Ø§Ø¦Ù‡ Ø´Ø¯Ù‡ ØªÙˆØ³Ø· ØªÙˆØ³Ø¹Ù‡ Ø¯Ù‡Ù†Ø¯Ú¯Ø§Ù† Ø±Ø§ Ø¨Ø¨ÛŒÙ†ÛŒØ¯. Ù†ÛŒØ§Ø² Ø¨Ù‡ Ø§Ø¬Ø±Ø§ÛŒ Ø¨Ø±Ù†Ø§Ù…Ù‡.</string>
+    <string name="preference_edit_controls_title">ÙˆÛŒØ±Ø§ÛŒØ´ Ú©Ù†ØªØ±Ù„ Ù‡Ø§ÛŒ Ø´Ø®ØµÛŒ</string>
+    <string name="preference_edit_controls_summary">Ø·Ø±Ø­ Ú©Ù†ØªØ±Ù„ Ø±Ø§ Ù…ØªÙ†Ø§Ø³Ø¨ Ø¨Ø§ Ù†ÛŒØ§Ø²Ù‡Ø§ÛŒ Ø®ÙˆØ¯ ØªØºÛŒÛŒØ± Ø¯Ù‡ÛŒØ¯.</string>
+    <string name="preference_category_gyro_controls">Ú©Ù†ØªØ±Ù„ Ø¨Ø§ Ú˜ÛŒØ±ÙˆØ³Ú©ÙˆÙ¾</string>
+    <string name="preference_category_virtual_mouse">Ù…Ø§ÙˆØ³ Ù…Ø¬Ø§Ø²ÛŒ</string>
+    <string name="preference_gyro_invert_x_axis">Ù…Ø­ÙˆØ± X Ø±Ø§ Ù…Ø¹Ú©ÙˆØ³ Ú©Ù†ÛŒØ¯</string>
+    <string name="preference_gyro_invert_y_axis">Ù…Ø­ÙˆØ± Y Ø±Ø§ Ù…Ø¹Ú©ÙˆØ³ Ú©Ù†ÛŒØ¯</string>
+    <string name="preference_gyro_invert_x_axis_description">Ù…Ø­ÙˆØ± Ø§ÙÙ‚ÛŒ Ø±Ø§ Ù…Ø¹Ú©ÙˆØ³ Ú©Ù†ÛŒØ¯.</string>
+    <string name="preference_back_title">Ø¨Ø§Ø²Ú¯Ø´Øª Ø¨Ù‡ ØµÙØ­Ù‡ Ø¢Ø®Ø±</string>
+    <string name="unnamed">Ø¨ÛŒ Ù†Ø§Ù…</string>
+    <string name="profiles_latest_snapshot">Ø¬Ø¯ÛŒØ¯ØªØ±ÛŒÙ† Ø§Ø³Ù†Ù¾ Ø´Ø§Øª</string>
+    <string name="profiles_latest_release">Ø¬Ø¯ÛŒØ¯ØªØ±ÛŒÙ† Ù†Ø³Ø®Ù‡</string>
+    <string name="profiles_profile_name">Ù†Ø§Ù…</string>
+    <string name="profiles_profile_version">Ù†Ø³Ø®Ù‡</string>
+    <string name="global_delete">Ø­Ø°Ù</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">Ø±Ù†Ø¯Ø± Ú©Ù†Ù†Ø¯Ù‡</string>
+    <string name="notif_channel_name">Ø¹Ù…ÙˆÙ…ÛŒ</string>
+    <string name="lazy_service_default_title">Brix Launcher Service</string>
+    <string name="mcl_setting_veroption_installed">Ù†ØµØ¨ Ø´Ø¯</string>
+    <string name="use_global_default">(Ø§Ø² Ù¾ÛŒØ´â€ŒÙØ±Ø¶ Ø§Ø³ØªÙØ§Ø¯Ù‡ Ú©Ù†ÛŒØ¯)</string>
+    <string name="progresslayout_tasks_in_progress">%d ÙˆØ¸ÛŒÙÙ‡ Ø¯Ø± Ø­Ø§Ù„ Ø§Ù†Ø¬Ø§Ù…</string>
+    <string name="notification_terminate">Ø®Ø§ØªÙ…Ù‡</string>
+    <string name="notification_game_runs">Ø¨Ø§Ø²ÛŒ Ø¯Ø± Ø­Ø§Ù„ Ø§Ø¬Ø±Ø§Ø³Øª!</string>
+    <string name="folder_dialog_create">Ø§ÛŒØ¬Ø§Ø¯</string>
+    <string name="folder_dialog_insert_name">Ù†Ø§Ù… Ù¾ÙˆØ´Ù‡ Ø±Ø§ Ø¨Ù†ÙˆÛŒØ³ÛŒØ¯</string>
+    <string name="main_login_done">ÙˆØ±ÙˆØ¯ Ø§Ù†Ø¬Ø§Ù… Ø´Ø¯</string>
+    <string name="main_add_account">Ø§Ø¶Ø§ÙÙ‡ Ú©Ø±Ø¯Ù† Ø­Ø³Ø§Ø¨ Ú©Ø§Ø±Ø¨Ø±ÛŒ</string>
+    <string name="tasks_ongoing">ÙˆØ¸Ø§ÛŒÙ Ø¯Ø±Ø­Ø§Ù„ Ø§Ù†Ø¬Ø§Ù… Ø§Ø³ØªØŒ Ù„Ø·ÙØ§ ØµØ¨Ø± Ú©Ù†ÛŒØ¯</string>
+    <string name="no_saved_accounts">Ù‡ÛŒÚ† Ø­Ø³Ø§Ø¨ Ø°Ø®ÛŒØ±Ù‡ Ø´Ø¯Ù‡ Ø§ÛŒ ÙˆØ¬ÙˆØ¯ Ù†Ø¯Ø§Ø±Ø¯</string>
+
+    <string name="xerr_unknown">Ø®Ø·Ø§ÛŒ Ù†Ø§Ø´Ù†Ø§Ø®ØªÙ‡ API Ø§ÛŒÚ©Ø³ Ø¨Ø§Ú©Ø³ Ù„Ø§ÛŒÙˆ %d</string>
+
+    <string name="xerr_adult_verification">ÛŒÚ© Ø¨Ø²Ø±Ú¯Ø³Ø§Ù„ Ø¨Ø§ÛŒØ¯ Ø­Ø³Ø§Ø¨ Ø´Ù…Ø§ Ø±Ø§ ØªØ£ÛŒÛŒØ¯ Ú©Ù†Ø¯.</string>
+    <string name="xerr_child">Ø­Ø³Ø§Ø¨ Ø´Ù…Ø§ ÛŒÚ© Ø­Ø³Ø§Ø¨ Ú©ÙˆØ¯Ú© Ø§Ø³Øª Ùˆ Ø¨Ø±Ø§ÛŒ ÙˆØ±ÙˆØ¯ Ø¨Ù‡ Ø³ÛŒØ³ØªÙ… Ø¨Ø§ÛŒØ¯ Ø¨Ù‡ Ø­Ø³Ø§Ø¨ Ø®Ø§Ù†ÙˆØ§Ø¯Ù‡ Ø§Ø¶Ø§ÙÙ‡ Ø´ÙˆØ¯.</string>
+
+    <string name="xerr_not_available">Ù…Ø§ ØªÙˆ Ø§ÛŒØ±Ø§Ù†ÛŒÙ…. ØªØ­Ø±ÛŒÙ…ÛŒÙ…. Ø¨Ø§ ÙÛŒÙ„ØªØ±Ø´Ú©Ù† Ø¯ÙˆØ¨Ø§Ø±Ù‡ ÙˆØ§Ø±Ø¯ Ø´Ùˆ</string>
+    <string name="preference_enable_gyro_title">ÙØ¹Ø§Ù„ Ú©Ø±Ø¯Ù† Ú©Ù†ØªØ±Ù„ Ù‡Ø§ÛŒ Ú˜ÛŒØ±ÙˆØ³Ú©ÙˆÙ¾</string>
+    <string name="preference_gyro_sensitivity_title">Ø­Ø³Ø§Ø³ÛŒØª Ú©Ù†ØªØ±Ù„Ø± Ù‡Ø§ÛŒ Ú˜ÛŒØ±ÙˆØ³Ú©ÙˆÙ¾</string>
+    <string name="preference_gyro_sample_rate_title">Ù†Ø±Ø® Ù†Ù…ÙˆÙ†Ù‡ Ø¨Ø±Ø¯Ø§Ø±ÛŒ Ú˜ÛŒØ±ÙˆØ³Ú©ÙˆÙ¾</string>
+    <string name="forge_dl_no_installer">Ù…ØªØ£Ø³ÙØ§Ù†Ù‡ Ø§ÛŒÙ† Ù†Ø³Ø®Ù‡ Forge Ù†ØµØ¨ Ú©Ù†Ù†Ø¯Ù‡â€ŒØ§ÛŒ Ú©Ù‡ Ù¾Ø´ØªÛŒØ¨Ø§Ù†ÛŒ Ø¨Ø´ÙˆØ¯ Ù†Ø¯Ø§Ø±Ø¯.</string>
+    <string name="forge_dl_select_version">Ù†Ø³Ø®Ù‡ Forge Ø±Ø§ Ø§Ù†ØªØ®Ø§Ø¨ Ú©Ù†ÛŒØ¯</string>
+    <string name="fabric_dl_progress">Ø¯Ø± Ø­Ø§Ù„ Ø¯Ø§Ù†Ù„ÙˆØ¯ %s Ù„ÙˆØ¯Ø± metadata</string>
+    <string name="fabric_dl_loader_version">%s Ù†Ø³Ø®Ù‡ Ù„ÙˆØ¯Ø±</string>
+    <string name="fabric_dl_game_version">ÙˆØ±Ú˜Ù† Ù…Ø§ÛŒÙ†Ú©Ø±ÙØª</string>
+    <string name="fabric_dl_install">Ù†ØµØ¨</string>
+    <string name="fabric_dl_cant_read_meta">Ù…ÙˆÙÙ‚ Ø¨Ù‡ Ø®ÙˆØ§Ù†Ø¯Ù† %s Ù„ÙˆØ¯Ø± metadata Ù†Ø´Ø¯ÛŒÙ…. Ù„Ø·ÙØ§Ù‹ Ø¯ÙˆØ¨Ø§Ø±Ù‡ ØªÙ„Ø§Ø´ Ú©Ù†ÛŒØ¯.</string>
+    <string name="create_profile_vanilla_like_versions">Ù†Ø³Ø®Ù‡ Ù‡Ø§ÛŒ Ø´Ø¨ÛŒÙ‡ Vanilla</string>
+    <string name="create_profile_modded_versions">Ù†Ø³Ø®Ù‡ Ù‡Ø§ÛŒ Ø³ÙØ§Ø±Ø´ÛŒ</string>
+    <string name="fabric_dl_loader_title">Ø§Ù†ØªØ®Ø§Ø¨ Ù†Ø³Ø®Ù‡ Ù‡Ø§</string>
+    <string name="of_dl_select_version">Ù†Ø³Ø®Ù‡ OptiFine Ø±Ø§ Ø§Ù†ØªØ®Ø§Ø¨ Ú©Ù†ÛŒØ¯</string>
+    <string name="of_dl_failed_to_scrape">Ù†Ø§Ù…ÙˆÙÙ‚ Ø¯Ø± Ø¯Ø±ÛŒØ§ÙØª Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ø¨Ø±Ø§ÛŒ Ù†ØµØ¨ OptiFine</string>
+    <string name="of_dl_progress">Ø¯Ø± Ø­Ø§Ù„ Ø¯Ø§Ù†Ù„ÙˆØ¯ %s</string>
+    <string name="hint_search_modpack">Ú¯Ø´ØªÙ† Ø¨Ù‡ Ø¯Ù†Ø¨Ø§Ù„ Ù…Ø§Ø¯Ù¾Ú© Ù‡Ø§</string>
+    <string name="preference_vulkan_driver_system_title">Ø§Ø³ØªÙØ§Ø¯Ù‡ Ø§Ø² Vulkan Ø¯Ø±Ø§ÛŒÙˆØ± Ø¯Ø³ØªÚ¯Ø§Ù‡</string>
+    <string name="preference_vulkan_driver_system_description">Ø§Ø¬Ø¨Ø§Ø± Ù„Ø§Ù†Ú†Ø± Ø¨Ø±Ø§ÛŒ Ø§Ø³ØªÙØ§Ø¯Ù‡ Ø§Ø² Vulkan Ø¯Ø±Ø§ÛŒÙˆØ± Ø¯Ø³ØªÚ¯Ø§Ù‡ Ø¨Ù‡ Ø¬Ø§ÛŒ Turnip Ø¯Ø± GPU Ù‡Ø§ÛŒ Adreno. ÙÙ‚Ø· Ø¨Ø± Zink Ùˆ Ù…Ø§Ø¯ Ù‡Ø§ÛŒÛŒ Ú©Ù‡ Ø§Ø² Vulkan Ø§Ø³ØªÙØ§Ø¯Ù‡ Ù…ÛŒÚ©Ù†Ù†Ø¯ Ø§Ø«Ø± Ø¯Ø§Ø±Ø¯.</string>
+    <string name="generic_install">Ù†ØµØ¨</string>
+    <string name="generic_apply">Ø§Ø¹Ù…Ø§Ù„</string>
+    <string name="generic_debug">Ø¯ÛŒØ¨Ø§Ú¯</string>
+    <string name="search_modpack_no_result">Ù‡ÛŒÚ† Ù…Ø§Ø¯Ù¾Ú©ÛŒ ÛŒØ§ÙØª Ù†Ø´Ø¯</string>
+    <string name="search_modpack_error">Ù†Ø§Ù…ÙˆÙÙ‚ Ø¯Ø± ÛŒØ§ÙØªÙ† Ù…Ø§Ø¯Ù¾Ú© Ù‡Ø§</string>
+    <string name="search_modpack_download_error">Ù†Ø§Ù…ÙˆÙÙ‚ Ø¯Ø± Ø¯Ø§Ù†Ù„ÙˆØ¯ metadata Ù…Ø§Ø¯Ù¾Ú©</string>
+    <string name="modpack_download_downloading_metadata">Ø¯Ø± Ø­Ø§Ù„ Ø¯Ø§Ù†Ù„ÙˆØ¯ metadata Ù…Ø§Ø¯Ù¾Ú© (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods">Ø¯Ø±Ø­Ø§Ù„ Ø¯Ø§Ù†Ù„ÙˆØ¯ Ù…Ø§Ø¯Ù‡Ø§ (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods_fc">Ø¯Ø±Ø­Ø§Ù„ Ø¯Ø§Ù†Ù„ÙˆØ¯ Ù…Ø§Ø¯ Ù‡Ø§ (File %d out of %d)</string>
+    <string name="modpack_download_applying_overrides">Ø§Ø¹Ù…Ø§Ù„ Ø¬Ø§ÛŒÚ¯Ø²ÛŒÙ† Ù‡Ø§ (%d/%d)</string>
+    <string name="modpack_install_notification_title">Brix Modpack Installer</string>
+    <string name="modpack_install_notification_success">Ø¨Ø±Ø§ÛŒ Ø§ØªÙ…Ø§Ù… Ù†ØµØ¨ Ù…Ø§Ø¯Ù¾Ú© Ø§ÛŒÙ†Ø¬Ø§ Ú©Ù„ÛŒÚ© Ú©Ù†ÛŒØ¯</string>
+    <string name="modpack_install_notification_data_not_available">Ù†Ø§Ù…ÙˆÙÙ‚ Ø¯Ø± Ø¯Ø§Ù†Ù„ÙˆØ¯ Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ø§Ø¬Ø±Ø§ Ú©Ù†Ù†Ø¯Ù‡ Ù…Ø§Ø¯</string>
+    <string name="modpack_install_modloader_download_failed">Ù†Ø§Ù…ÙˆÙÙ‚ Ø¯Ø± Ø¯Ø§Ù†Ù„ÙˆØ¯ ÙØ§ÛŒÙ„â€ŒÙ‡Ø§ÛŒ Ø§Ø¬Ø±Ø§Ú©Ù†Ù†Ø¯Ù‡ Ù…Ø§Ø¯</string>
+    <string name="modpack_install_download_failed">Ù†Ø§Ù…ÙˆÙÙ‚ Ø¯Ø± Ø¯Ø§Ù†Ù„ÙˆØ¯ ÙØ§ÛŒÙ„â€ŒÙ‡Ø§ÛŒ Ù…Ø§Ø¯Ù¾Ú©</string>
+    <string name="notif_error_occured">Ù…Ø´Ú©Ù„ÛŒ Ù¾ÛŒØ´ Ø¢Ù…Ø¯</string>
+    <string name="notif_error_occured_desc">Ø¨Ø±Ø§ÛŒ Ø§Ø·Ù„Ø§Ø¹Ø§Øª Ø¨ÛŒØ´ØªØ± Ú©Ù„ÛŒÚ© Ú©Ù†ÛŒØ¯</string>
+    <string name="fabric_dl_only_stable">ÙÙ‚Ø· Ù†Ø³Ø®Ù‡ Ù‡Ø§ÛŒ Ù¾Ø§ÛŒØ¯Ø§Ø± Ø±Ø§ Ù†Ø´Ø§Ù† Ø¨Ø¯Ù‡</string>
+    <string name="dl_tampered_manifest_title">Ø®Ø·Ø§ÛŒ ØªØ§ÛŒÛŒØ¯ ÙØ§ÛŒÙ„</string>
+    <string name="preference_category_java_tweaks">ØªØ±ÙÙ†Ø¯ Ù‡Ø§ÛŒ Ø¬Ø§ÙˆØ§</string>
+    <string name="preference_category_miscellaneous">ØªÙ†Ø¸ÛŒÙ…Ø§Øª Ù…ØªÙØ±Ù‚Ù‡</string>
+    <string name="controller_button_select">Ø§Ù†ØªØ®Ø§Ø¨</string>
+</resources>
+

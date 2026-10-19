@@ -1,0 +1,19 @@
+﻿# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.idea/
+captures/
+# Signing
+*.jks
+*.keystore
+keystore.properties
+# Build outputs
+*.apk
+*.apks
+*.aab
+# Logs / temp
+*.log
+*.tmp
+# Release folders
+**/release/

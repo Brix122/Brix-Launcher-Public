@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_login_label">ÐšÐµÑ€ÐµÑ€Ð³Ó™</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Ð‘Ñ‹Ð» Ñ…Ð¸ÑÐ°Ð¿ ÑÒ™Ð¼Ð° ÑŽÐ¹Ñ‹Ð»Ð°!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">ÐœÐ¾Ð´Ð° Ò¡ÑƒÐ¹Ñ‹ÑƒÑÑ‹Ò»Ñ‹Ð½ Ò»Ð°Ð¹Ð»Ð°Ò“Ñ‹Ò™</string>
+    <!-- Error messages -->
+    <string name="error_fatal">ÐšÓ©Ñ‚Ð¼Ó™Ð³Ó™Ð½Ð´Ó™ Brix Launcher Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð°Ò»Ñ‹Ð½Ñ‹Ò£ ÑÑˆÐµ Ð±Ð¾Ò™Ð¾Ð»Ð¾Ð¿ ÐºÐ¸Ñ‚Ó™</string>
+    <string name="error_no_version">Ð’ÐµÑ€ÑÐ¸ÑÐ»Ð°Ñ€ ÑŽÒ¡!</string>
+    <string name="error_show_more">ÐšÒ¯Ð±ÐµÑ€Ó™Ðº</string>
+    <string name="error_show_less">Ó˜Ò™ÐµÑ€Ó™Ðº</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">Ð£Ò¡Ñ‹Ñƒ/ÑÒ™Ñ‹Ñƒ Ó©ÑÓ©Ð½ Ò»Ð°Ò¡Ð»Ð°Ò“Ñ‹ÑÑ‚Ð° Ñ€Ó©Ñ…ÑÓ™Ñ‚ Ñ‚Ð°Ð»Ð°Ð¿ Ð¸Ñ‚ÐµÐ»Ó™!</string>
+    <string name="toast_optifine_success">Ð£Ñ€Ñ‹Ð½Ð»Ð°ÑˆÑ‚Ñ‹Ñ€Ñ‹Ð»Ð´Ñ‹</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Ð’Ð¸ÐºÐ¸</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">ÐšÑÑˆ Ñ„Ð°Ð¹Ð»Ð´Ð°Ñ€Ñ‹Ð½ Ñ‚Ð°Ò™Ð°Ñ€Ñ‚Ñ‹Ñƒ</string>
+    <string name="mcl_launch_downloading">Ð™Ó©ÐºÐ»Ó™Ò¯ %s</string>
+    <string name="mcl_launch_downloading_progress">"Ð™Ó©ÐºÐ»Ó™Ò¯ %s (%.2f ÐœÐ‘/%.2f ÐœÐ‘)"</string>
+    <string name="mcl_launch_download_assets">Ð ÐµÑÑƒÑ€ÑÑ‚Ð°Ñ€Ò™Ñ‹ Ð¹Ó©ÐºÐ»Ó™Ò¯Ð³Ó™ Ó™Ò™ÐµÑ€Ð»ÐµÐº</string>
+    <string name="mcl_options">ÐžÐ¿Ñ†Ð¸ÑÐ»Ð°Ñ€</string>
+    <string name="mcl_option_customcontrol">Ò ÑƒÐ»Ð»Ð°Ð½Ñ‹ÑƒÑÑ‹ Ð¸Ð´Ð°Ñ€Ð° Ð¸Ñ‚ÐµÒ¯ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ñ‚Ð°Ñ€Ñ‹</string>
+    <string name="mcl_setting_title_use_surface_view">Ó¨Ò«ÐºÓ© Ð¹Ó©Ò™Ò™Ó©Ò£ Ð°Ð»ÑŒÑ‚ÐµÑ€Ð½Ð°Ñ‚Ð¸Ð² Ñ€ÐµÐ½Ð´ÐµÑ€Ñ‹Ð½ Ò¡ÑƒÐ»Ð»Ð°Ð½Ñ‹Ò“Ñ‹Ò™</string>
+    <string name="mcl_setting_subtitle_use_surface_view">Ð“Ñ€Ð°Ñ„Ð¸Ðº Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ñ€ Ð¼ÐµÐ½Ó™Ð½ Ð±Ó™Ð¹Ð»Ðµ ÑÑ†ÐµÐ½Ð°Ñ€Ð¸Ð¹Ò™Ð°Ñ€Ò™Ð° ÐµÑ‚ÐµÑˆÑ‚ÐµÑ€ÐµÒ¯ÑÓ™Ð½Ð»ÐµÐºÑ‚Ðµ Ð°Ñ€Ñ‚Ñ‚Ñ‹Ñ€Ð° Ð°Ð»Ð°.</string>
+    <string name="mcl_setting_title_ignore_notch">Ð—Ð°Ð·ÑƒÐ±Ñ€Ð¸Ð½Ð°Ð½Ñ‹ Ò»Ð°Ð½Ò“Ð° Ò»ÑƒÒ¡Ð¼Ð°Ñƒ</string>
+    <string name="mcl_setting_subtitle_ignore_notch">Ð­ÐºÑ€Ð°Ð½Ð´Ñ‹ ÑƒÐ½Ñ‹Ò£ Ð°Ò«Ñ‚Ñ‹Ð½Ð° ÑÑ‹Ò“Ð°Ñ€Ð°.\nÐ‘Ñ‹Ð» Ò»ÐµÒ™Ð³Ó™ Ñ‚Ð°Ò“Ñ‹ Ð»Ð° Ð¼Ð°ÑƒÑ‹Ò¡Ñ‚Ñ‹Ñ€Ò“Ñ‹Ñ Ñ‚Ó™Ð¶Ñ€Ð¸Ð±Ó™ Ð±Ð¸Ñ€Ó™.</string>
+    <string name="mcl_setting_title_resolution_scaler">Ð ÐµÐ·Ð¾Ð»ÑŽÑ†Ð¸ÑÐ½Ñ‹ Ð°Ñ€Ñ‚Ñ‚Ñ‹Ñ€Ñ‹Ñƒ Ó©ÑÓ©Ð½ Ò¡Ð¾Ñ€Ð¾Ð»Ð¼Ð°</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">Ð£Ð¹Ñ‹Ð½Ð´Ñ‹Ò£ Ñ€Ó©Ñ…ÑÓ™Ñ‚ÐµÐ½ ÐºÓ™Ð¼ÐµÑ‚ÐµÑ€Ð³Ó™ Ð¼Ó©Ð¼ÐºÐ¸Ð½Ð»ÐµÐº Ð±Ð¸Ñ€Ó™. 100% - Ñ‚ÑƒÐ»Ñ‹ Ñ€ÐµÐ·Ð¾Ð»ÑŽÑ†Ð¸Ñ.</string>
+    <string name="mcl_setting_title_longpresstrigger">ÐÑÑ‹Ñƒ Ñ‹Ñ€Ò“Ð°Ò“Ñ‹Ð½Ð° Ð±Ð°Ò«Ñ‹Ð¿ Ñ‚Ð¾Ñ€Ð¾ÑƒÒ™Ñ‹Ò£ Ð¾Ò™Ð°Ð¹Ð»Ñ‹ Ñ‚Ð¾Ñ‚Ò¡Ð°Ñ€Ð»Ñ‹Ò“Ñ‹</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">Ð‘Ð»Ð¾ÐºÑ‚Ð°Ñ€Ò™Ñ‹ ÑŽÒ¡ Ð¸Ñ‚ÐµÒ¯ Ò»Ó™Ð¼ Ó™Ð¹Ð±ÐµÑ€Ò™Ó™Ñ€Ò™ÐµÒ£ Ñ‚Ó©ÑˆÓ©Ò¯Ðµ Ó©ÑÓ©Ð½ Ð¾Ò™Ð°Ò¡ Ð±Ð°Ò«Ò¡Ð°Ð½Ð´Ð° ÑÑˆÐ»Ó™Ñ‚ÐµÒ¯ Ñ‚Ð¾Ñ‚Ò¡Ð°Ñ€Ð»Ñ‹Ò“Ñ‹Ð½ Ò¯Ò™Ð³Ó™Ñ€Ñ‚ÐµÐ³ÐµÒ™.</string>
+    <string name="mcl_setting_title_buttonscale">ÐœÐ°ÑÑˆÑ‚Ð°Ð±Ð»Ð°ÑƒÒ™Ñ‹ Ð¸Ð´Ð°Ñ€Ð° Ð¸Ñ‚ÐµÒ¯ Ñ‚Ó©Ð¹Ð¼Ó™Ð»Ó™Ñ€Ðµ</string>
+    <string name="mcl_setting_subtitle_buttonscale">Ð¢Ó©Ð¹Ð¼Ó™Ð»Ó™Ñ€Ðµ Ð±Ð¸Ðº Ð±Ó™Ð»Ó™ÐºÓ™Ð¹ Ð±ÑƒÐ»Ò»Ð°, ÑƒÐ»Ð°Ñ€Ò™Ñ‹Ò£ Ò™ÑƒÑ€Ð»Ñ‹Ò“Ñ‹Ð½ Ð°Ñ€Ñ‚Ñ‚Ñ‹Ñ€Ñ‹Ò“Ñ‹Ò™.</string>
+    <string name="mcl_setting_title_mousescale">Ð¡Ñ‹ÑÒ¡Ð°Ð½ ÑÑ€Ò™Ð°Ð¼Ñ‹Ð½Ð´Ð° Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ð»Ð°Ñƒ</string>
+    <string name="mcl_setting_subtitle_mousescale">Ð’Ð¸Ñ€Ñ‚ÑƒÐ°Ð»ÑŒ ÑÑ‹ÑÒ¡Ð°Ð½Ð´Ñ‹Ò£ Ò™ÑƒÑ€Ð»Ñ‹Ò“Ñ‹Ð½ Ò¯Ò™Ð³Ó™Ñ€Ñ‚ÐµÐ³ÐµÒ™.</string>
+    <string name="mcl_setting_title_javaargs">JVM-Ð´Ñ‹ ÑÑˆÐ»Ó™Ñ‚ÐµÐ¿ ÐµÐ±Ó™Ñ€ÐµÒ¯ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚Ñ‚Ð°Ñ€Ñ‹</string>
+    <string name="mcl_setting_subtitle_javaargs">ÒºÐ°Ò¡ Ð±ÑƒÐ»Ñ‹Ò“Ñ‹Ò™, Ó™Ð³Ó™Ñ€ Ò¡ÑƒÐ»Ð»Ð°Ð½Ñ‹ÑƒÑÑ‹ Ð±ÐµÐ»Ð¼Ó™Ò»Ó™, Ò¯Ò™Ð³Ó™Ñ€ÐµÑˆÑ‚Ó™Ñ€ Ð¸Ð½Ð´ÐµÑ€Ò»Ó™Ð³ÐµÒ™, ÑƒÐ¹Ñ‹Ð½Ð´Ñ‹Ò£ Ð±Ð¾Ò™Ð¾Ð»Ð¾ÑƒÑ‹Ð½Ð° ÐºÐ¸Ð»Ñ‚ÐµÑ€ÐµÒ¯Ðµ Ð¸Ñ…Ñ‚Ð¸Ð¼Ð°Ð».</string>
+    <string name="mcl_setting_category_renderer">Ð ÐµÐ½Ð´ÐµÑ€ÐµÑ€</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES (Ð±Ó©Ñ‚Ó™ Ð²ÐµÑ€ÑÐ¸ÑÐ»Ð°Ñ€, Ñ‚Ð¸Ò™)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) (Ð±Ó©Ñ‚Ó™ Ð²ÐµÑ€ÑÐ¸ÑÐ»Ð°Ñ€, ÑƒÑ€Ñ‚Ð°ÑÐ°)</string>
+    <string name="mcl_setting_veroption_release">Ð ÐµÐ»Ð¸Ð·Ð´Ð°Ñ€</string>
+    <string name="mcl_setting_veroption_snapshot">Ð¡Ð½Ð°Ð¿ÑˆÐ¾Ñ‚Ñ‚Ñ‚Ð°Ñ€</string>
+    <string name="mcl_setting_veroption_oldalpha">Ð˜Ò«ÐºÐµ Ð°Ð»ÑŒÑ„Ð°Ð»Ð°Ñ€</string>
+    <string name="mcl_setting_veroption_oldbeta">Ð˜Ò«ÐºÐµ Ð±ÐµÑ‚Ð°Ð»Ð°Ñ€</string>
+    <string name="mcl_setting_java_sandbox">Sandbox Ð‘Ð°ÑˆÒ¡Ð°Ñ€Ñ‹ÑƒÑ‹ .jar</string>
+    <string name="mcl_setting_java_sandbox_subtitle">Jar-Ñ„Ð°Ð¹Ð» ÑÑˆÐ»Ó™Ð³Ó™Ð½Ð´Ó™ sandbox security manager-Ñ‚Ñ‹Ò£ Ð°ÑÑ‹Ò¡Ð»Ñ‹Ò“Ñ‹Ð½ ÐºÐ¾Ð½Ñ‚Ñ€Ð¾Ð»Ð´Ó™ Ñ‚Ð¾Ñ‚Ð¾Ò“Ð¾Ò™.</string>
+    <!-- Global strings -->
+    <string name="global_edit">Ò®Ò™Ð³Ó™Ñ€Ñ‚ÐµÑ€Ð³Ó™</string>
+    <string name="global_error">Ð¥Ð°Ñ‚Ð°</string>
+    <string name="global_load">Ð™Ó©ÐºÐ»Ó™Ò¯</string>
+    <string name="global_name">Ð˜ÑÐµÐ¼</string>
+    <string name="global_remove">Ð®Ð¹Ñ‹Ñ€Ò“Ð°</string>
+    <string name="global_save">ÒºÐ°Ò¡Ð»Ð°Ñ€Ò“Ð°</string>
+    <string name="global_waiting">ÐšÓ©Ñ‚Ó©Ð¿ Ñ‚Ð¾Ñ€Ð¾Ò“Ð¾Ò™</string>
+    <!-- MainActivity: strings -->
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Ð¡Ò¯Ð±Ñ…Ó™Ñ‚</string>
+    <string name="control_primary">ÒºÐ¡Ð¢</string>
+    <string name="control_secondary">Ð£Ð¡Ð¢</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">F5</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Ð¡Ñ‹ÑÒ¡Ð°Ð½</string>
+    <string name="control_mouseoff">Ð¡Ñ‹ÑÒ¡Ð°Ð½: ÒºÒ¯Ð½</string>
+    <string name="control_mouseon">Ð¡Ñ‹ÑÒ¡Ð°Ð½: Ò Ð°Ð± </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_viewout">Ð–ÑƒÑ€Ð½Ð°Ð»</string>
+    <!-- ImportControlActivity Strings -->
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_addbutton">Ð¢Ó©Ð¹Ð¼Ó™Ð½Ðµ Ð±ÑƒÐ»Ð´Ñ‹Ñ€Ñ‹Ñ€Ò“Ð°</string>
+    <string name="main_play">Ð£Ð¹Ð½Ð°Ñ€Ò“Ð°</string>
+    <string name="profiles_profile_name">Ð˜ÑÐµÐ¼</string>
+    <string name="pedit_renderer">Ð ÐµÐ½Ð´ÐµÑ€ÐµÑ€</string>
+    <string name="of_dl_progress">Ð™Ó©ÐºÐ»Ó™Ò¯ %s</string>
+</resources>
+

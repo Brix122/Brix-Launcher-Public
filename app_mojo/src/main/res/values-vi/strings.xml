@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+
+    <!-- Action bar part -->
+
+    <!-- Languages list part -->
+
+    <!-- Login strings -->
+    <string name="login_online_username_hint">TÃªn ngÆ°á»i dÃ¹ng</string>
+    <string name="login_online_login_label">ÄÄƒng nháº­p</string>
+
+    <!-- Hint -->
+
+    <!-- Warnings -->
+    <string name="warning_remove_account">TÃ i khoáº£n nÃ y sáº½ bá»‹ xoÃ¡!</string>
+
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">Chá»n má»™t trÃ¬nh cÃ i Ä‘áº·t mod</string>
+
+    <!-- Error messages -->
+    <string name="error_fatal">Brix Launcher Ä‘Ã£ báº¥t ngá» bá»‹ sáº­p</string>
+    <string name="error_no_version">KhÃ´ng cÃ³ phiÃªn báº£n nÃ o!</string>
+    <string name="error_show_more">Hiá»ƒn thá»‹ thÃªm</string>
+    <string name="error_show_less">Hiá»ƒn thá»‹ Ã­t hÆ¡n</string>
+
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">YÃªu cáº§u quyá»n Ä‘á»c/ghi bá»™ nhá»›!</string>
+    <string name="toast_optifine_success">CÃ i Ä‘áº·t thÃ nh cÃ´ng</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Wiki</string>
+
+    <!-- MCLauncherActivity: Account status -->
+
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">Äang lÃ m sáº¡ch bá»™ nhá»› Ä‘á»‡m</string>
+    <string name="mcl_launch_downloading">Äang táº£i xuá»‘ng %s</string>
+    <string name="mcl_launch_downloading_progress">"Äang táº£i %s (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">Chuáº©n bá»‹ Ä‘á»ƒ táº£i xuá»‘ng gÃ³i tÃ i nguyÃªn</string>
+
+    <string name="mcl_options">TÃ¹y chá»n</string>
+    <string name="mcl_option_customcontrol">TÃ¹y chá»‰nh Ä‘iá»u khiá»ƒn</string>
+    <string name="mcl_setting_title_use_surface_view">DÃ¹ng káº¿t xuáº¥t bá» máº·t thay tháº¿</string>
+    <string name="mcl_setting_subtitle_use_surface_view">CÃ³ thá»ƒ cáº£i thiá»‡n hiá»‡u nÄƒng náº¿u GPU bá»‹ ngháº½n cá»• chai.</string>
+    <string name="mcl_setting_title_ignore_notch">Bá» qua pháº§n khuyáº¿t mÃ n hÃ¬nh</string>
+    <string name="mcl_setting_subtitle_ignore_notch">Bá» qua pháº§n khuyáº¿t mÃ n hÃ¬nh vÃ  má»Ÿ rá»™ng mÃ n hÃ¬nh bÃªn dÆ°á»›i.\nMang Ä‘áº¿n cho báº¡n tráº£i nghiá»‡m phong phÃº hÆ¡n.</string>
+    <string name="mcl_setting_title_resolution_scaler">Äá»™ phÃ¢n giáº£i</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">Cho phÃ©p báº¡n giáº£m Ä‘á»™ phÃ¢n giáº£i cá»§a trÃ² chÆ¡i. 100% lÃ  Ä‘á»™ phÃ¢n giáº£i tá»‘i Ä‘a.</string>
+    <string name="mcl_setting_title_longpresstrigger">KÃ­ch hoáº¡t Ä‘á»™ trá»… cháº¡m cao</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">Thay Ä‘á»•i khoáº£ng thá»i gian cháº¡m giá»¯ Ä‘á»ƒ phÃ¡ khá»‘i vÃ  nÃ©m Ä‘á»“ váº­t.</string>
+    <string name="mcl_setting_title_buttonscale">Äá»™ rá»™ng nÃºt Ä‘iá»u khiá»ƒn</string>
+    <string name="mcl_setting_subtitle_buttonscale">TÄƒng Ä‘á»™ rá»™ng náº¿u nÃºt quÃ¡ nhá».</string>
+    <string name="mcl_setting_title_mousescale">Äá»™ lá»›n cá»§a chuá»™t</string>
+    <string name="mcl_setting_subtitle_mousescale">Thay Ä‘á»•i kÃ­ch thÆ°á»›c cá»§a chuá»™t áº£o.</string>
+    <string name="mcl_setting_title_javaargs">CÃ¡c chá»‰ sá»‘ cháº¡y JVM</string>
+    <string name="mcl_setting_subtitle_javaargs">Cáº©n tháº­n, viá»‡c nÃ y sáº½ lÃ m trÃ² chÆ¡i gáº·p sá»± cá»‘ náº¿u sá»­a Ä‘á»•i mÃ  khÃ´ng cÃ³ nhiá»u kiáº¿n thá»©c.</string>
+    <string name="mcl_setting_category_renderer">TrÃ¬nh káº¿t xuáº¥t</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (tÃ¢Ìt caÌ‰ phiÃªn baÌ‰n, hiá»‡u suáº¥t nhanh)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (táº¥t cáº£ phiÃªn báº£n, Hiá»‡u suáº¥t cho: trung bÃ¬nh)</string>
+    <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - chá»‰ 1.17 trá»Ÿ lÃªn</string>
+    <string name="mcl_setting_veroption_release">Báº£n phÃ¡t hÃ nh</string>
+    <string name="mcl_setting_veroption_snapshot">Snapshot</string>
+    <string name="mcl_setting_veroption_oldalpha">Báº£n Alpha cÅ©</string>
+    <string name="mcl_setting_veroption_oldbeta">Báº£n Beta cÅ©</string>
+    <string name="mcl_setting_java_sandbox">Thá»±c thi tá»‡p .jar trong mÃ´i trÆ°á»ng thá»­ nghiá»‡m (sandbox)</string>
+    <string name="mcl_setting_java_sandbox_subtitle">Äiá»u khiá»ƒn tÃ­nh kháº£ dá»¥ng cá»§a trÃ¬nh quáº£n lÃ½ báº£o máº­t mÃ´i trÆ°á»ng thá»­ nghiá»‡m (sandbox) khi thá»±c thi tá»‡p .jar.</string>
+    <string name="mcl_version_clone">NhÃ¢n báº£n</string>
+
+    <!-- Global strings -->
+    <string name="global_edit">Chá»‰nh sá»­a</string>
+    <string name="global_error">Lá»—i</string>
+    <string name="global_load">Táº£i</string>
+    <string name="global_name">TÃªn</string>
+    <string name="global_remove">LoaÌ£i boÌ‰</string>
+    <string name="global_clone">NhÃ¢n báº£n</string>
+    <string name="global_restart">Khá»Ÿi Ä‘á»™ng láº¡i</string>
+    <string name="global_save">LÆ°u</string>
+    <string name="global_unpacking">Äang giáº£i nÃ©n %s</string>
+    <string name="global_error_field_empty">TrÆ°á»ng nÃ y khÃ´ng Ä‘Æ°á»£c Ä‘á»ƒ trá»‘ng</string>
+    <string name="global_waiting">Vui lÃ²ng Ä‘á»£i</string>
+    <string name="global_select">Chá»n</string>
+    <string name="global_retry">Thá»­ láº¡i</string>
+    <string name="global_default">Máº·c Ä‘á»‹nh</string>
+
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">á»¨ng dá»¥ng/TrÃ² chÆ¡i Ä‘Ã£ thoÃ¡t vá»›i mÃ£ %d, kiá»ƒm tra nháº­t kÃ­ trÃ¬nh khá»Ÿi cháº¡y (latestlog.txt) Ä‘á»ƒ biáº¿t thÃªm chi tiáº¿t.</string>
+    <string name="mcn_exit_confirm">Báº¡n cÃ³ cháº¯c muá»‘n báº¯t buá»™c thoÃ¡t chÆ°Æ¡ng trÃ¬nh?</string>
+    <string name="mcn_check_fail_vulkan_support">TrÃ¬nh káº¿t xuáº¥t Zink (Vulkan) khÃ´ng Ä‘Æ°á»£c há»— trá»£ trÃªn thiáº¿t bá»‹ nÃ y!</string>
+
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">TrÃ² chuyá»‡n</string>
+    <string name="control_debug">Gá»¡ lá»—i</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Sec</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_inventory">TÃºi Ä‘á»“</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">GÃ³c nhÃ¬n thá»© ba</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Chuá»™t</string>
+    <string name="control_mouseoff">Chuá»™t: táº¯t</string>
+    <string name="control_mouseon">Chuá»™t: báº­t </string>
+
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">ÄÃ³ng chÆ°Æ¡ng trÃ¬nh</string>
+    <string name="control_viewout">Nháº­t kÃ½ ra </string>
+    <string name="control_adebug">Gá»¡ lá»—i Ä‘áº§u vÃ o</string>
+    <string name="control_customkey">Gá»­i phÃ­m tÃ¹y chá»n</string>
+
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">Nháº­p vÃ o bá»™ Ä‘iá»u khiá»ƒn</string>
+    <string name="import_control_invalid_file">Tá»‡p khÃ´ng há»£p lá»‡ hoáº·c Ä‘Ã£ bá»‹ há»ng</string>
+    <string name="import_control_import_button">nháº­p vÃ o bá»™ Ä‘iá»u khiá»ƒn</string>
+    <string name="import_control_verifying_file">Tá»‡p Ä‘ang Ä‘Æ°á»£c xÃ¡c minh, vui lÃ²ng Ä‘á»£i vÃ  thá»­ láº¡iâ€¦</string>
+    <string name="import_control_invalid_name">TÃªn khÃ´ng há»£p lá»‡ hoáº·c tá»‡p Ä‘Ã£ tá»“n táº¡i</string>
+    <string name="import_control_done">QuÃ¡ trÃ¬nh nháº­p vÃ o hoÃ n táº¥t</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+
+    <string name="customctrl_toggle">Chuyá»ƒn Ä‘á»•i</string>
+    <string name="customctrl_size">KÃ­ch thÆ°á»›c</string>
+
+    <string name="customctrl_mapping">SÆ¡ Ä‘á»“ phÃ­m</string>
+    <string name="customctrl_orientation">HÆ°á»›ng</string>
+    <string name="customctrl_background_bitmap">áº¢nh ná»n</string>
+    <string name="customctrl_background_color">MÃ u ná»n</string>
+    <string name="customctrl_background_color_warning">Thay Ä‘á»•i mÃ u ná»n sáº½ thiáº¿t láº­p láº¡i hÃ¬nh ná»n</string>
+    <string name="customctrl_corner_radius">BÃ¡n kÃ­nh gÃ³c trÃ²n</string>
+    <string name="customctrl_stroke_width">Äá»™ rá»™ng viá»n phÃ­m</string>
+    <string name="customctrl_stroke_color">MÃ u viá»n phÃ­m</string>
+    <string name="customctrl_button_opacity">Äá»™ trong suá»‘t cá»§a nÃºt</string>
+    <string name="customctrl_addbutton">ThÃªm nÃºt</string>
+    <string name="customctrl_addbutton_drawer">ThÃªm bá»™ phÃ­m</string>
+    <string name="customctrl_addbutton_joystick">ThÃªm cáº§n Ä‘iá»u khiá»ƒn</string>
+    <string name="customctrl_addsubbutton">ThÃªm phÃ­m phá»¥</string>
+
+    <string name="customctrl_selectdefault">Chá»n bá»‘ cá»¥c Ä‘iá»u khiá»ƒn máº·c Ä‘á»‹nh</string>
+    <string name="customctrl_export">Xuáº¥t bá»‘ cá»¥c Ä‘iá»u khiá»ƒn</string>
+
+    <string name="main_share_logs">Chia sáº» tá»‡p nháº­t kÃ½</string>
+    <string name="main_install_jar_file">Thá»±c thi tá»‡p .jar</string>
+    <string name="main_play">ChÆ¡i</string>
+    <string name="autoram_info_msg">Bá»™ nhá»› Ä‘Æ°á»£c Ä‘áº·t thÃ nh %d MB</string>
+    <string name="mcl_setting_check_libraries">Kiá»ƒm tra cÃ¡c thÆ° viá»‡n sau khi táº£i</string>
+    <string name="mcl_setting_check_libraries_subtitle">TÃ¹y chá»n nÃ y buá»™c trÃ¬nh khá»Ÿi Ä‘á»™ng kiá»ƒm tra hÃ m bÄƒm thÆ° viá»‡n náº¿u cÃ³ sáºµn, ngÄƒn cháº·n viá»‡c táº£i xuá»‘ng lá»—i.</string>
+    <string name="dl_library_sha_fail">ThÆ° viá»‡n %s bá»‹ há»ng vÃ  sáº½ Ä‘Æ°á»£c táº£i láº¡i</string>
+    <string name="dl_library_sha_unknown">ThÆ° viá»‡n %s khÃ´ng thá»ƒ kiá»ƒm tra, cho ráº±ng nÃ³ tá»‘t</string>
+    <string name="dl_library_sha_pass">Library %s tá»‘t vÃ  cÃ³ thá»ƒ sá»­ dá»¥ng Ä‘Æ°á»£c</string>
+    <string name="mcl_disable_gestures">Táº¯t cá»­ chá»‰</string>
+    <string name="mcl_disable_gestures_subtitle">Táº¯t cá»­ chá»‰, vÃ­ dá»¥ nhÆ° giá»¯ Ä‘á»ƒ phÃ¡ khá»‘i, vÃ  cháº¡m Ä‘á»ƒ Ä‘áº·t khá»‘i.</string>
+    <string name="mcl_disable_swap_hand">Táº¯t nháº¥n Ä‘Ãºp Ä‘á»ƒ Ä‘á»•i tay</string>
+    <string name="mcl_disable_swap_hand_subtitle">Táº¯t viá»‡c nháº¥n Ä‘Ãºp vÃ o váº­t pháº©m trÃªn thanh cÃ´ng cá»¥ Ä‘á»ƒ Ä‘á»•i nÃ³ vÃ o tay phá»¥.</string>
+    <string name="mcl_setting_title_mousespeed">Tá»‘c Ä‘á»™ chuá»™t</string>
+    <string name="mcl_setting_subtitle_mousespeed">Thay Ä‘á»•i tá»‘c Ä‘á»™ cá»§a chuá»™t áº£o.</string>
+    <string name="customctrl_passthru">Di chuyá»ƒn chuá»™t</string>
+    <string name="customctrl_swipeable">CÃ³ thá»ƒ vuá»‘t</string>
+    <string name="customctrl_forward_lock">KhoÃ¡ di chuyá»ƒn lÃªn</string>
+    <string name="customctrl_absolute_tracking">Theo dÃµi chuyá»ƒn Ä‘á»™ng tuyá»‡t Ä‘á»‘i cá»§a ngÃ³n tay</string>
+    <string name="memory_warning_msg">Sá»‘ lÆ°á»£ng RAM trá»‘ng hiá»‡n táº¡i (%d) tháº¥p hÆ¡n sá»‘ lÆ°á»£ng RAM Ä‘Æ°á»£c phÃ¢n bá»• (%d), cÃ³ thá»ƒ dáº«n Ä‘áº¿n sá»± cá»‘. Thay Ä‘á»•i sá»‘ lÆ°á»£ng phÃ¢n bá»• náº¿u trÃ² chÆ¡i bá»‹ sáº­p.</string>
+    <string name="address_memory_warning_msg">Bá»™ nhá»› trá»‘ng hiá»‡n cÃ³ (%d) tháº¥p hÆ¡n bá»™ nhá»› Ä‘Æ°á»£c phÃ¢n bá»• (%d), Ä‘iá»u nÃ y cÃ³ thá»ƒ gÃ¢y ra sá»± cá»‘. Thay Ä‘á»•i lÆ°á»£ng bá»™ nhá»› Ä‘Æ°á»£c phÃ¢n bá»• náº¿u trÃ² chÆ¡i bá»‹ vÄƒng.</string>
+    <string name="mcl_memory_allocation">PhÃ¢n bá»• bá»™ nhá»›</string>
+
+    <string name="multirt_runtime_corrupt">Java Ä‘Ã£ gáº·p xung Ä‘á»™t</string>
+    <string name="multirt_runtime_incompatiblearch">Kiáº¿n trÃºc khÃ´ng tÆ°Æ¡ng thÃ­ch: %s</string>
+    <string name="multirt_config_title">CÃ¡c há»‡ thá»‘ng thá»i gian cháº¡y Java</string>
+    <string name="multirt_config_add">ThÃªm má»›i</string>
+    <string name="multirt_title">Quáº£n lÃ­ Java Runtime</string>
+    <string name="multirt_subtitle">Quáº£n lÃ½ cÃ¡c há»‡ thá»‘ng thá»i gian cháº¡y Java.</string>
+    <string name="multirt_progress_caching">Äang lÆ°u vÃ o bá»™ nhá»› Ä‘á»‡mâ€¦</string>
+    <string name="multirt_config_setdefault">Äáº·t lÃ m máº·c Ä‘á»‹nh</string>
+    <string name="multirt_config_setdefault_already">Máº·c Ä‘á»‹nh</string>
+    <string name="multirt_config_removeerror_last">Báº¡n pháº£i cÃ³ Ã­t nháº¥t má»™t há»‡ thá»‘ng thá»i gian cháº¡y Java Ä‘Ã£ Ä‘Æ°á»£c cÃ i Ä‘áº·t.</string>
+    <string name="multirt_nocompatiblert">KhÃ´ng thá»ƒ tÃ¬m tháº¥y Java Runtime tÆ°Æ¡ng thÃ­ch. PhiÃªn báº£n nÃ y yÃªu cáº§u Java %d trá»Ÿ lÃªn.</string>
+    <string name="multirt_nojava8rt">KhÃ´ng thá»ƒ tÃ¬m tháº¥y Java 8. Äá»ƒ sá»­ dá»¥ng tÃ¹y chá»n nÃ y, báº¡n cáº§n cÃ i Ä‘áº·t Java 8.</string>
+    <string name="multirt_delete_runtime">XÃ³a runtime</string>
+    <string name="pvc_gameDirectory">ÄÆ°á»ng dáº«n thÆ° má»¥c cá»§a trÃ² chÆ¡i</string>
+    <string name="pvc_jvmArgs">CÃ¡c chá»‰ sá»‘ JVM</string>
+
+    <string name="preference_mouse_start_title">Khá»Ÿi Ä‘á»™ng vá»›i chuá»™t áº£o báº­t</string>
+    <string name="preference_mouse_start_description">Chuá»™t áº£o xuáº¥t hiá»‡n khi khá»Ÿi Ä‘á»™ng khi cÃ i Ä‘áº·t nÃ y Ä‘Æ°á»£c má»Ÿ.</string>
+    <string name="preference_video_title">HÃ¬nh áº£nh vÃ  trÃ¬nh káº¿t xuáº¥t</string>
+    <string name="preference_video_description">Äá»™ phÃ¢n giáº£i, trÃ¬nh káº¿t xuáº¥t, hiá»‡u suáº¥t</string>
+    <string name="preference_control_title">Tuá»³ chá»‰nh bá»™ Ä‘iá»u khiá»ƒn</string>
+    <string name="preference_control_description">Cá»­ chá»‰, nÃºt báº¥m vÃ  kÃ­ch cá»¡</string>
+    <string name="preference_java_title">Äiá»u chá»‰nh Java</string>
+    <string name="preference_java_description">CÃ¡c Java Runtime, chá»‰ sá»‘ JVM, lÆ°á»£ng RAM phÃ¢n bá»• vÃ  mÃ´i trÆ°á»ng thá»­ nghiá»‡m (sandbox)</string>
+    <string name="preference_misc_title">CÃ¡c cÃ i Ä‘áº·t khÃ¡c</string>
+    <string name="preference_misc_description">Kiá»ƒm tra danh sÃ¡ch phiÃªn báº£n vÃ  thÆ° viá»‡n</string>
+    <string name="preference_experimental_title">Nhá»¯ng cÃ i Ä‘áº·t thá»­ nghiá»‡m</string>
+    <string name="preference_experimental_description">CÃ¢n nháº¯c sá»­ dá»¥ng cÃ¡c tuá»³ chá»n nÃ y, khÃ´ng há»— trá»£</string>
+    <string name="preference_sustained_performance_title">Báº­t cháº¿ Ä‘á»™ duy trÃ¬ hiá»‡u suáº¥t</string>
+    <string name="preference_sustained_performance_description">Háº¡n cháº¿ giáº£m hiá»‡u suáº¥t vÃ¬ quÃ¡ nhiá»‡t báº±ng cÃ¡ch giáº£m hiá»‡u suáº¥t tá»‘i Ä‘a.</string>
+    <string name="preference_force_vsync_title">Báº¯t buá»™c kÃ­ch hoáº¡t VSync</string>
+    <string name="preference_force_vsync_description">Háº¡n cháº¿ giáº£m hiá»‡u suáº¥t vÃ¬ quÃ¡ nhiá»‡t báº±ng cÃ¡ch giáº£m hiá»‡u suáº¥t tá»‘i Ä‘a.</string>
+    <string name="preference_force_english_title">Buá»™c ngÃ´n ngá»¯ Tiáº¿ng Anh</string>
+    <string name="preference_force_english_description">Cho phÃ©p hiá»ƒn thá»‹ cÃ¡c dÃ²ng chá»¯ ban Ä‘áº§u, nhÆ° theo Ã½ Ä‘á»‹nh cá»§a nhÃ  phÃ¡t triá»ƒn. YÃªu cáº§u khá»Ÿi Ä‘á»™ng láº¡i.</string>
+    <string name="preference_edit_controls_title">TÃ¹y chá»‰nh Ä‘iá»u khiá»ƒn</string>
+    <string name="preference_edit_controls_summary">Äiá»u chá»‰nh sÆ¡ Ä‘á»“ Ä‘iá»u khiá»ƒn Ä‘á»ƒ phÃ¹ há»£p vá»›i nhu cáº§u cá»§a báº¡n</string>
+    <string name="preference_category_gyro_controls">Äiá»u khiá»ƒn con quay há»“i chuyá»ƒn</string>
+    <string name="preference_category_virtual_mouse">Chuá»™t áº£o</string>
+    <string name="preference_gyro_invert_x_axis">Äáº£o ngÆ°á»£c trá»¥c X</string>
+    <string name="preference_gyro_invert_y_axis">Äáº£o ngÆ°á»£c trá»¥c Y</string>
+    <string name="preference_gyro_invert_x_axis_description">Äáº£o ngÆ°á»£c trá»¥c hoÃ nh.</string>
+    <string name="preference_gyro_invert_y_axis_description">Äáº£o ngÆ°á»£c trá»¥c tung.</string>
+    <string name="preference_gyro_smoothing_title">Báº­t lÃ m má»‹n con quay há»“i chuyá»ƒn</string>
+    <string name="preference_gyro_smoothing_description">Reduce jitter in exchange of latency.</string>
+
+    <string name="preference_back_title">Quay vá» mÃ n hÃ¬nh trÆ°á»›c Ä‘Ã³</string>
+    <string name="unnamed">ChÆ°a Ä‘áº·t tÃªn</string>
+    <string name="profiles_latest_snapshot">Báº£n thá»­ nghiá»‡m má»›i nháº¥t</string>
+    <string name="profiles_latest_release">PhiÃªn báº£n má»›i nháº¥t</string>
+    <string name="profiles_profile_name">TÃªn</string>
+    <string name="profiles_profile_version">PhiÃªn báº£n</string>
+    <string name="instance_shared_data">Dá»¯ liá»‡u Ä‘Æ°á»£c chia sáº» (báº¥m Ä‘á»ƒ chuyá»ƒn Ä‘á»•i)</string>
+    <string name="instance_shared_data_on">LÆ°u trá»¯ dá»¯ liá»‡u trÃ² chÆ¡i trong má»™t thÆ° má»¥c chia sáº»</string>
+    <string name="instance_shared_data_off">LÆ°u dá»¯ liá»‡u game trong trong thÆ° má»¥c phiÃªn báº£n</string>
+    <string name="global_delete">XÃ³a</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">TrÃ¬nh káº¿t xuáº¥t</string>
+    <string name="color_default_hex" translatable="false">FFFF0000</string>
+    <string name="notif_channel_name">Chung</string>
+    <string name="notif_channel_id" translatable="false">channel_id</string>
+    <string name="lazy_service_default_title">Brix Launcher Service</string>
+    <string name="mcl_setting_veroption_installed">ÄÃ£ cÃ i Ä‘áº·t</string>
+    <string name="use_global_default">(Sá»­ dá»¥ng máº·c Ä‘á»‹nh chung)</string>
+    <string name="default_control">Bá»‘ cá»¥c bá»‘ cá»¥c Ä‘iá»u khiá»ƒn máº·c Ä‘á»‹nh</string>
+    <string name="progresslayout_tasks_in_progress">%d tÃ¡c vá»¥ Ä‘ang diá»…n ra</string>
+    <string name="notification_terminate">Cháº¥m dá»©t</string>
+    <string name="notification_game_runs">TrÃ² chÆ¡i Ä‘ang cháº¡y!</string>
+    <string name="folder_dialog_create">Táº¡o</string>
+    <string name="folder_dialog_insert_name">Nháº­p tÃªn thÆ° má»¥c</string>
+    <string name="folder_fragment_create">Táº¡o thÆ° má»¥c</string>
+    <string name="folder_fragment_select">Chá»n thÆ° má»¥c</string>
+    <string name="main_login_done">HoÃ n táº¥t Ä‘Äƒng nháº­p</string>
+    <string name="main_add_account">ThÃªm tÃ i khoáº£n</string>
+    <string name="tasks_ongoing">CÃ¡c tÃ¡c vá»¥ Ä‘ang cháº¡y, vui lÃ²ng chá»</string>
+    <string name="no_saved_accounts">KhÃ´ng cÃ³ tÃ i khoáº£n nÃ o Ä‘Æ°á»£c lÆ°u</string>
+
+    <string name="xerr_unknown">Lá»—i API Xbox Live chÆ°a rÃµ, mÃ£ %d</string>
+
+    <string name="xerr_adult_verification">TÃ i khoáº£n cá»§a báº¡n cáº§n Ä‘Æ°á»£c xÃ¡c thá»±c bá»Ÿi ngÆ°á»i lá»›n.</string>
+    <string name="xerr_child">TÃ i khoáº£n cá»§a báº¡n lÃ  tÃ i khoáº£n tráº» em, vÃ  pháº£i Ä‘Æ°á»£c thÃªm vÃ o má»™t Gia Ä‘Ã¬nh Ä‘á»ƒ cÃ³ thá»ƒ Ä‘Äƒng nháº­p.</string>
+
+    <string name="xerr_not_available">Xbox Live khÃ´ng cÃ³ sáºµn á»Ÿ quá»‘c gia cá»§a báº¡n</string>
+    <string name="preference_enable_gyro_title">Báº­t con quay há»“i chuyá»ƒn</string>
+    <string name="preference_enable_gyro_description">Báº­t cÃ¡i nÃ y sáº½ cho phÃ©p báº¡n quay trong trÃ² chÆ¡i báº±ng cÃ¡ch quay Ä‘iá»‡n thoáº¡i cá»§a báº¡n.</string>
+    <string name="preference_gyro_sensitivity_title">Äá»™ nháº¡y con quay há»“i chuyá»ƒn</string>
+    <string name="preference_gyro_sensitivity_description">Äiá»u chá»‰nh Ä‘á»™ nháº¡y khi Ä‘iá»u khiá»ƒn con quay há»“i chuyá»ƒn.</string>
+    <string name="toast_turn_on_gyro">Báº­t cháº¿ Ä‘á»™ con quay há»“i chuyá»ƒn trÆ°á»›c khi sá»­ dá»¥ng tÃ­nh nÄƒng nÃ y!</string>
+    <string name="preference_gyro_sample_rate_title">Tá»‘c Ä‘á»™ láº¥y máº«u con quay há»“i chuyá»ƒn</string>
+    <string name="preference_gyro_sample_rate_description">..</string>
+    <string name="microsoft_login_retry_later">CÃ³ quÃ¡ nhiá»u yÃªu cáº§u, vui lÃ²ng thá»­ láº¡i sau.</string>
+    <string name="storage_required">Brix Launcher cáº§n kho dá»¯ liá»‡u bÃªn ngoÃ i Ä‘á»ƒ gáº¯n vÃ o. Vui lÃ²ng káº¿t ná»‘i láº¡i vÃ  khá»Ÿi Ä‘á»™ng láº¡i á»©ng dá»¥ng.</string>
+    <string name="mcl_setting_title_buttonallcaps">Chá»‰ Ä‘Æ°á»£c dÃ¹ng nhá»¯ng chá»¯ cÃ¡i in hoa trong cÃ¡c nhÃ£n nÃºt</string>
+    <string name="mcl_setting_subtitle_buttonallcaps">Táº¯t Ä‘i náº¿u báº¡n muá»‘n sá»­ dá»¥ng chá»¯ cÃ¡i thÆ°á»ng trong má»¥c Ä‘iá»u khiá»ƒn.</string>
+    <string name="preference_shader_dump_title">KÃ­ch hoáº¡t Ä‘á»• bÃ³ng</string>
+    <string name="preference_shader_dump_description">Ghi cÃ¡c trÃ¬nh Ä‘á»• bÃ³ng Ä‘Ã£ chuyá»ƒn Ä‘á»•i vÃ o tá»‡p nháº­t kÃ½.</string>
+    <string name="percent_format">%d%%</string>
+    <string name="millisecond_format">%d ms</string>
+    <string name="customctrl_editor_exit_title">Rá»i Ä‘i?</string>
+    <string name="customctrl_editor_exit_msg">Báº¡n cÃ³ cháº¯c báº¡n muá»‘n thoÃ¡t ra khÃ´ng?</string>
+    <string name="customctrl_editor_exit">Rá»i khá»i trÃ¬nh chá»‰nh sá»­a</string>
+    <string name="global_save_and_exit">LÆ°u vÃ  thoÃ¡t</string>
+    <string name="global_yes">Äá»“ng Ã½</string>
+    <string name="global_no">KhÃ´ng</string>
+
+    <string name="preference_controller_map_wiped">Cáº¥u hÃ¬nh Ä‘iá»u khiá»ƒn Ä‘Ã£ bá»‹ xÃ³a.</string>
+    <string name="preference_category_controller_settings">CÃ i Ä‘áº·t Ä‘iá»u khiá»ƒn</string>
+    <string name="preference_wipe_controller_title">Thiáº¿t Ä‘áº·t láº¡i cáº¥u hÃ¬nh Ä‘iá»u khiá»ƒn</string>
+    <string name="preference_wipe_controller_description">Cho phÃ©p báº¡n thay Ä‘á»•i cÃ¡c cáº¥u hÃ¬nh tay cáº§m.</string>
+    <string name="preference_deadzone_scale_title">Äá»™ rá»™ng vÃ¹ng cháº¿t cáº§n Ä‘iá»u khiá»ƒn</string>
+    <string name="preference_deadzone_scale_description">TÄƒng náº¿u cáº§n Ä‘iá»ƒu khiá»ƒn bá»‹ lá»‡ch.</string>
+
+
+    <string name="preference_force_big_core_title">Buá»™c trÃ¬nh káº¿t xuáº¥t cháº¡y trÃªn lÃµi lá»›n</string>
+
+    <string name="version_select_hint">Chá»n phiÃªn báº£n</string>
+    <string name="forge_dl_progress">Äang táº£i xuá»‘ng %s</string>
+    <string name="forge_dl_searching">Äang tÃ¬m sá»‘ phiÃªn báº£n cá»§a Forge</string>
+    <string name="modloader_dl_failed_to_load_list">Táº£i xuá»‘ng tháº¥t báº¡i!</string>
+    <string name="forge_dl_no_installer">Xin lá»—i, nhÆ°ng phiÃªn báº£n Forge nÃ y khÃ´ng cÃ³ trÃ¬nh cÃ i Ä‘áº·t tá»‡p .jar, chÆ°a há»— trá»£.</string>
+    <string name="forge_dl_select_version">Chá»n phiÃªn báº£n Forge</string>
+    <string name="fabric_dl_progress">Äang táº£i siÃªu dá»¯ liá»‡u cho trÃ¬nh %s</string>
+    <string name="fabric_dl_loader_version">PhiÃªn báº£n trÃ¬nh %s</string>
+
+    <string name="fabric_dl_install">CÃ i Ä‘áº·t</string>
+    <string name="fabric_dl_cant_read_meta">KhÃ´ng Ä‘á»c Ä‘Æ°á»£c siÃªu dá»¯ liá»‡u trÃ¬nh %s. Vui lÃ²ng thá»­ láº¡i sau.</string>
+    <string name="modloader_dl_install_fabric_instance">Táº¡o phiÃªn báº£n Fabric má»›i</string>
+    <string name="modloader_dl_install_quilt_instance">Táº¡o phiÃªn báº£n Quilt má»›i</string>
+    <string name="modloader_dl_install_forge_instance">Táº¡o phiÃªn báº£n Forge má»›i</string>
+    <string name="create_instance_vanilla">Táº¡o phiÃªn báº£n vanilla má»›i</string>
+    <string name="create_profile_vanilla_like_versions">Táº¡o nhá»¯ng phiÃªn báº£n giá»‘ng vanilla</string>
+    <string name="create_profile_modded_versions">PhiÃªn báº£n Ä‘Ã£ Ä‘Æ°á»£c sá»­a Ä‘á»•i</string>
+    <string name="fabric_dl_loader_title">Chá»n phiÃªn báº£n</string>
+    <string name="of_dl_select_version">Chá»n phiÃªn báº£n OptiFine</string>
+    <string name="of_dl_failed_to_scrape">KhÃ´ng thá»ƒ thu tháº­p dá»¯ liá»‡u Ä‘á»ƒ cÃ i Ä‘áº·t OptiFine</string>
+    <string name="of_dl_progress">Äang táº£i xuá»‘ng %s</string>
+    <string name="mod_dl_install_optifine">CÃ i Ä‘áº·t OptiFine</string>
+
+
+    <string name="hint_search_modpack">TÃ¬m kiáº¿m modpack</string>
+
+    <string name="preference_vulkan_driver_system_title">Sá»­ dá»¥ng trÃ¬nh Ä‘iá»u khiá»ƒn há»‡ thá»‘ng cho Vulkan</string>
+    <string name="preference_vulkan_driver_system_description">Buá»™c sá»­ dá»¥ng trÃ¬nh Ä‘á»“ hoáº¡ Vulkan há»‡ thá»‘ng thay vÃ¬ Turnip trÃªn vi xá»­ lÃ­ Ä‘á»“ hoáº¡ Qualcomm Adreno. Chá»‰ áº£nh hÆ°á»Ÿng tá»›i Zink vÃ  mod sá»­ dá»¥ng Vulkan.</string>
+
+    <string name="generic_install">CÃ i Ä‘áº·t</string>
+    <string name="generic_apply">Ãp dá»¥ng</string>
+    <string name="generic_debug">Gá»¡ lá»—i</string>
+
+    <string name="search_modpack_no_result">KhÃ´ng cÃ³ modpack Ä‘Æ°á»£c tÃ¬m tháº¥y</string>
+    <string name="search_modpack_error">KhÃ´ng thá»ƒ tÃ¬m modpack</string>
+    <string name="search_modpack_download_error">KhÃ´ng thá»ƒ táº£i dá»¯ liá»‡u modpack</string>
+
+    <string name="modpack_download_downloading_metadata">Äang táº£i dá»¯ liá»‡u modpack (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods">Äang táº£i mod (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods_fc">Äang táº£i mod (Tá»‡p %d trÃªn %d)</string>
+    <string name="modpack_download_applying_overrides">Ãp dá»¥ng cÃ¡c thay Ä‘á»•i (%d/%d)</string>
+    <string name="modpack_install_notification_title">Brix Modpack Installer</string>
+    <string name="modpack_install_notification_success">Nháº¥n Ä‘á»ƒ hoÃ n thÃ nh cÃ i Ä‘áº·t modpack</string>
+    <string name="modpack_install_notification_data_not_available">KhÃ´ng thá»ƒ táº£i thÃ´ng tin trÃ¬nh cÃ i Ä‘áº·t mod</string>
+    <string name="modpack_install_modloader_download_failed">KhÃ´ng thá»ƒ táº£i cÃ¡c tá»‡p cá»§a trÃ¬nh cÃ i Ä‘áº·t mod</string>
+    <string name="modpack_install_download_failed">KhÃ´ng thá»ƒ táº£i cÃ¡c tá»‡p cá»§a modpack</string>
+    <string name="modpack_install_instance_button">Táº¡o thÆ° má»¥c modpack má»›i</string>
+
+    <string name="notif_error_occured">ÄÃ£ xáº£y ra lá»—i</string>
+    <string name="notif_error_occured_desc">Nháº¥n Ä‘á»ƒ xem chi tiáº¿t</string>
+    <string name="fabric_dl_only_stable">Chá»‰ hiá»‡n phiÃªn báº£n á»•n dá»‹nh</string>
+    <string name="dl_tampered_manifest_title">Cáº£nh bÃ¡o xÃ¡c minh táº­p tin</string>
+    <string name="dl_tampered_manifest"><![CDATA[Danh sÃ¡ch phiÃªn báº£n game trÃªn nguá»“n báº£n sao nÃ y khÃ´ng khá»›p vá»›i danh sÃ¡ch phiÃªn báº£n chÃ­nh thá»©c cá»§a Mojang, Ä‘iá»u nÃ y cÃ³ nghÄ©a lÃ  nÃ³ cÃ³ thá»ƒ bá»‹ can thiá»‡p.<br/>
+    <b>Äiá»u nÃ y khÃ´ng an toÃ n. Náº¿u báº¡n tiáº¿p tá»¥c, thÃ´ng tin cÃ¡ nhÃ¢n cá»§a báº¡n cÃ³ thá»ƒ gáº·p nguy hiá»ƒm!</b><br/>
+    Náº¿u báº¡n váº«n muá»‘n sá»­ dá»¥ng nguá»“n báº£n sao nÃ y, nháº¥n vÃ o "Táº¯t kiá»ƒm tra danh sÃ¡ch phiÃªn báº£n game" Ä‘á»ƒ báº¯t Ä‘áº§u táº£i xuá»‘ng láº¡i.<br/>
+    Náº¿u báº¡n muá»‘n sá»­ dá»¥ng nguá»“n táº£i xuá»‘ng chÃ­nh thá»©c, nháº¥n vÃ o "Chuyá»ƒn sang nguá»“n chÃ­nh thá»©c" Ä‘á»ƒ báº¯t Ä‘áº§u táº£i xuá»‘ng láº¡i.<br/>]]></string>
+    
+    <string name="dl_turn_off_manifest_checks">Táº¯t kiá»ƒm tra danh sÃ¡ch phiÃªn báº£n</string>
+    <string name="dl_switch_to_official_site">Chuyá»ƒn sang nguá»“n chÃ­nh thá»©c</string>
+    <string name="preference_download_source_title">Nguá»“n táº£i trÃ² chÆ¡i</string>
+    <string name="preference_download_source_description">Chá»n nguá»“n báº£n sao Ä‘á»ƒ táº£i xuá»‘ng thay vÃ¬ sá»­ dá»¥ng mÃ¡y chá»§ táº£i xuá»‘ng chÃ­nh thá»©c</string>
+    <string name="preference_verify_manifest_title">Kiá»ƒm tra danh sÃ¡ch phiÃªn báº£n trÃ² chÆ¡i</string>
+    <string name="preference_verify_manifest_description">Khi báº­t, trÃ¬nh khá»Ÿi cháº¡y sáº½ kiá»ƒm tra danh sÃ¡ch phiÃªn báº£n trÃ² chÆ¡i vÃ  thÆ° viá»‡n.</string>
+    <string name="notif_download_finished">TrÃ² chÆ¡i Ä‘Ã£ sáºµn sÃ ng Ä‘á»ƒ cháº¡y</string>
+    <string name="notif_download_finished_desc">Nháº¥n vÃ o Ä‘Ã¢y Ä‘á»ƒ báº¯t Ä‘áº§u!</string>
+    <string name="preference_category_gestures">Nhá»¯ng cá»­ chá»‰</string>
+    <string name="preference_category_buttons">PhÃ­m</string>
+    <string name="preference_category_experimental_settings">Nhá»¯ng cÃ i Ä‘áº·t thá»­ nghiá»‡m</string>
+    <string name="preference_category_java_tweaks">Äiá»u chá»‰nh Java</string>
+    <string name="preference_category_main_categories">Danh má»¥c</string>
+    <string name="preference_category_miscellaneous">CÃ¡c cÃ i Ä‘áº·t khÃ¡c</string>
+    <string name="preference_category_video">CÃ i Äáº·t Äá»“ Há»a</string>
+    <string name="notification_permission_dialog_title">YÃªu Cáº§u Quyá»n Truy Cáº­p</string>
+    <string name="notification_permission_dialog_text">Brix Launcher yÃªu cáº§u quyá»n Ä‘á»ƒ gá»­i thÃ´ng bÃ¡o Ä‘á»ƒ ngÄƒn cháº·n viá»‡c táº£i xuá»‘ng trÃ² chÆ¡i/modpacks dá»«ng láº¡i khi báº¡n rá»i khá»i á»©ng dá»¥ng. Náº¿u khÃ´ng cáº¥p quyá»n, Android cÃ³ thá»ƒ ngáº¯t quÃ¡ trÃ¬nh táº£i khi báº¡n Ä‘á»ƒ Brix Launcher á»Ÿ cháº¿ Ä‘á»™ ná»n.</string>
+    <string name="notification_permission_toast">Báº¡n luÃ´n cÃ³ thá»ƒ thay Ä‘á»•i Ã½ Ä‘á»‹nh cá»§a mÃ¬nh báº±ng cÃ¡ch vÃ o CÃ i Ä‘áº·t</string>
+    <string name="preference_ask_for_notification_title">Cho phÃ©p Gá»­i thÃ´ng bÃ¡o</string>
+    <string name="preference_ask_for_notification_description">Nháº¥p Ä‘á»ƒ yÃªu cáº§u láº¡i quyá»n thÃ´ng bÃ¡o, Ä‘iá»u nÃ y lÃ  cáº§n thiáº¿t Ä‘á»ƒ trÃ² chÆ¡i/gÃ³i tÃ­ch há»£p táº£i xuá»‘ng bÃ¬nh thÆ°á»ng á»Ÿ cháº¿ Ä‘á»™ ná»n.</string>
+    <string name="preference_vsync_in_zink_title">Cho phÃ©p V-Sync vá»›i trÃ¬nh káº¿t xuáº¥t Zink</string>
+    <string name="preference_vsync_in_zink_description">Cho phÃ©p trÃ¬nh khá»Ÿi cháº¡y sá»­ dá»¥ng API há»‡ thá»‘ng ná»™i bá»™ Ä‘á»ƒ kÃ­ch hoáº¡t Ä‘á»“ng bá»™ dá»c cho trÃ¬nh káº¿t xuáº¥t Zink. Táº¯t cÃ i Ä‘áº·t nÃ y náº¿u trÃ¬nh khá»Ÿi cháº¡y báº¥t ngá» bá»‹ vÄƒng vá»›i Zink sau má»™t báº£n cáº­p nháº­t há»‡ thá»‘ng.</string>
+    <string name="exception_failed_to_unpack_jre17">CÃ i Äáº·t tháº¥t báº¡i JRE 17</string>
+    <string name="newdl_starting">Äang Ä‘á»c siÃªu dá»¯ liá»‡u trÃ² chÆ¡iâ€¦</string>
+    <string name="newdl_downloading_metadata">Äang táº£i xuá»‘ng siÃªu dá»¯ liá»‡u trÃ² chÆ¡i (%s)</string>
+    <string name="newdl_downloading_game_files">Äang táº£i xuá»‘ng trÃ² chÆ¡iâ€¦ (%d/%d, %.2f MB)</string>
+    <string name="newdl_downloading_game_files_size">Äang táº£i xuá»‘ng trÃ² chÆ¡iâ€¦ (%.2f/%.2f MB, %.2f MB)</string>
+    <string name="cropper_title">Chá»n vÃ¹ng hÃ¬nh áº£nh</string>
+    <string name="cropper_lock_vertical">KhÃ³a trá»¥c dá»c</string>
+    <string name="cropper_lock_horizontal">KhÃ³a trá»¥c ngang</string>
+    <string name="cropper_reset">Äáº·t láº¡i</string>
+    <string name="cropper_select_cancelled">Lá»±a chá»n Ä‘Ã£ bá»‹ há»§y</string>
+    <string name="log_view_button_scroll_off">Tá»± Ä‘á»™ng cuá»™n\nTáº¯t</string>
+    <string name="log_view_button_scroll_on">Tá»± Ä‘á»™ng cuá»™n\nBáº­t</string>
+    <string name="log_view_button_output_off">In ra MH\nTáº¯t</string>
+    <string name="log_view_button_output_on">In ra MH\nBáº­t</string>
+    <string name="log_view_label_log_output">Äáº§u ra nháº­t kÃ½:</string>
+    <string name="execute_jar_failed_to_read_file">KhÃ´ng thá»ƒ Ä‘á»c tá»‡p .jar</string>
+    <string name="execute_jar_incompatible_runtime">Chá»©c nÄƒng thá»±c thi .jar khÃ´ng tÆ°Æ¡ng thÃ­ch vá»›i Java %d</string>
+    <string name="controller_button_a">A</string>
+    <string name="controller_button_b">B</string>
+    <string name="controller_button_x">X</string>
+    <string name="controller_button_y">Y</string>
+    <string name="controller_button_start">Báº¯t Ä‘áº§u</string>
+    <string name="controller_button_select">Chá»n</string>
+    <string name="controller_button_trigger_left">NÃºt nháº¥n trÃ¡i</string>
+    <string name="controller_button_trigger_right">NÃºt nháº¥n pháº£i</string>
+    <string name="controller_button_shoulder_left">NÃºt vai trÃ¡i</string>
+    <string name="controller_button_shoulder_right">NÃºt vai pháº£i</string>
+    <string name="controller_direction_forward">Cáº§n Ä‘iá»u khiá»ƒn lÃªn</string>
+    <string name="controller_direction_backward">Cáº§n Ä‘iá»u khiá»ƒn xuá»‘ng</string>
+    <string name="controller_direction_left">Cáº§n Ä‘iá»u khiá»ƒn trÃ¡i</string>
+    <string name="controller_direction_right">Cáº§n Ä‘iá»u khiá»ƒn pháº£i</string>
+    <string name="controller_stick_press_l">Cáº§n Ä‘iá»u khiá»ƒn trÃ¡i (nháº¥n)</string>
+    <string name="controller_stick_press_r">Cáº§n Ä‘iá»u khiá»ƒn pháº£i (nháº¥n)</string>
+    <string name="controller_dpad_up">PhÃ­m lÃªn</string>
+    <string name="controller_dpad_down">PhÃ­m xuá»‘ng</string>
+    <string name="controller_dpad_left">PhÃ­m trÃ¡i</string>
+    <string name="controller_dpad_right">PhÃ­m pháº£i</string>
+    <string name="controller_remapper_exit_part1">Giá»¯</string>
+    <string name="controller_remapper_exit_part2">Ä‘á»ƒ thoÃ¡t ra</string>
+    <string name="controller_remapper_operating_mode">Cháº¿ Ä‘á»™ hiá»‡n táº¡i</string>
+    <string name="customctrl_visibility_title">CÃ³ thá»ƒ nhÃ¬n tháº¥y</string>
+    <string name="customctrl_visibility_ingame">Trong trÃ² chÆ¡i</string>
+    <string name="customctrl_visibility_in_menus">Trong menu</string>
+    <string name="controller_remapper_expand_entry">Má»Ÿ rá»™ng Ä‘á»ƒ thay Ä‘á»•i mÃ£ phÃ­m</string>
+    <string name="preference_remap_controller_title">Thay Ä‘á»•i liÃªn káº¿t nÃºt tay cáº§m</string>
+    <string name="preference_remap_controller_description">Cho phÃ©p báº¡n sá»­a Ä‘á»•i cÃ¡c phÃ­m bÃ n phÃ­m Ä‘Æ°á»£c gÃ¡n cho má»—i nÃºt Ä‘iá»u khiá»ƒn</string>
+    <string name="mcl_button_social_media">Discord</string>
+    <string name="ltw_render_distance_warning_msg">GPU cá»§a báº¡n khÃ´ng thá»ƒ káº¿t xuáº¥t vá»›i khoáº£ng cÃ¡ch trÃªn 7 chunks náº¿u khÃ´ng cÃ³ Sodium hoáº·c cÃ¡c mod tÆ°Æ¡ng tá»± khÃ¡c. Khoáº£ng cÃ¡ch káº¿t xuáº¥t sáº½ Ä‘Æ°á»£c tá»± Ä‘iá»u chá»‰nh láº¡i khi nháº¥n OK.</string>
+    <string name="mcl_button_open_directory">Má»Ÿ thÆ° má»¥c trÃ² chÆ¡i</string>
+    <string name="local_login_bad_username_title">TÃªn ngÆ°á»i dÃ¹ng khÃ´ng phÃ¹ há»£p</string>
+    <string name="local_login_bad_username_text">TÃªn ngÆ°á»i dÃ¹ng pháº£i cÃ³ tá»« 3 Ä‘áº¿n 16 kÃ­ tá»±, vÃ  chá»‰ cÃ³ chá»¯ cÃ¡i Latinh, chá»¯ sá»‘ vÃ  dáº¥u gáº¡ch chÃ¢n.</string>
+    <string name="quick_setting_title">CÃ i Ä‘áº·t nhanh</string>
+    <string name="create_bta_instance">Táº¡o thÆ° má»¥c \"Better than Adventure!\"  </string>
+    <string name="select_bta_version">Chá»n phiÃªn báº£n\"Better than Adventure!\" </string>
+    <string name="bta_installer_available_versions">Nhá»¯ng phiÃªn báº£n BTA Ä‘Æ°á»£c chá»n </string>
+    <string name="bta_installer_untested_versions">Nhá»¯ng phiÃªn báº£n BTA chÆ°a Ä‘Æ°á»£c thá»­</string>
+    <string name="bta_installer_nightly_versions">Nhá»¯ng phiÃªn báº£n nightly BTA </string>
+    <string name="newdl_extracting_native_libraries">Äang giáº£i nÃ©n nhá»¯ng thÆ° viá»‡n gá»‘c (%d/%d)</string>
+    <string name="compat_version_not_supported">Thiáº¿t bá»‹ cá»§a báº¡n khÃ´ng thá»ƒ cháº¡y trÃ¬nh káº¿t xuáº¥t LTW bá»Ÿi vÃ¬ nÃ³ khÃ´ng Ä‘Æ°á»£c há»— trá»£ trÃªn thiáº¿t bá»‹ cá»§a báº¡n.</string>
+    <string name="oauth_unknown_error">Lá»—i xÃ¡c thá»±c khÃ´ng xÃ¡c Ä‘á»‹nh</string>
+    <string name="oauth_web_complete">Äang xÃ¡c thá»±câ€¦</string>
+    <string name="auth_select_microsoft">TÃ i khoáº£n Microsoft</string>
+    <string name="auth_select_elyby">TÃ i khoáº£n Ely.by </string>
+    <string name="auth_select_local">TÃ i khoáº£n ná»™i bá»™</string>
+    <string name="instance_dir_missing">ThÆ° má»¥c instance bá»‹ thiáº¿u</string>
+</resources>
+

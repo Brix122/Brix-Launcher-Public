@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_login_label">Prisijungti</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Å i paskyra bus paÅ¡alinta!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">Pasirinkite modifikacijÅ³ Ä¯diegimui</string>
+    <!-- Error messages -->
+    <string name="error_fatal">Brix Launcher netikÄ—tai iÅ¡sijungÄ— arba uÅ¾luÅ¾o</string>
+    <string name="error_no_version">NÄ—ra versijos!</string>
+    <string name="error_show_more">Rodyti daugiau</string>
+    <string name="error_show_less">Rodyti maÅ¾iau</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">Skaitymo/raÅ¡ymo atmintyje leidimas yra bÅ«tinas!</string>
+    <string name="toast_optifine_success">Instaliavimas sÄ—kmingas</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Wiki</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">Valomi nereikalingi failai</string>
+    <string name="mcl_launch_downloading">AtsisiunÄiama %s</string>
+    <string name="mcl_launch_downloading_progress">"AtsisiunÄiama %s (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">Rengiamasi atsisiÅ³sti resursus</string>
+    <string name="mcl_options">Nustatymai</string>
+    <string name="mcl_option_customcontrol">KontrolÄ—s</string>
+    <string name="mcl_setting_title_use_surface_view">Naudoti alternatyvÅ³ atvaizdÅ³ vaizdavimÄ…</string>
+    <string name="mcl_setting_subtitle_use_surface_view">Gali pagerinti naÅ¡umÄ… GPU suriÅ¡tuose scenarijuose.</string>
+    <string name="mcl_setting_title_ignore_notch">Ignoruoti kamerÄ…</string>
+    <string name="mcl_setting_subtitle_ignore_notch">Ignoruojant kamerÄ… iÅ¡tempia vaizdÄ… po ja.\nDuodÄ… geresnÄ¯ vaizdÄ….</string>
+    <string name="mcl_setting_title_resolution_scaler">Rezoliucijos redagavimas</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">LeidÅ¾ia keisti ekrano rezoliucijÄ…. 100% yra pilna rezoliucija.</string>
+    <string name="mcl_setting_title_buttonscale">Kontroliuoti mygtukÅ³ dydÄ¯</string>
+    <string name="mcl_setting_title_mousescale">PelÄ—s dydis</string>
+    <string name="mcl_setting_title_javaargs">JVM Paleidimo argumentai</string>
+    <string name="mcl_setting_subtitle_javaargs">BÅ«kite atsargÅ«s, tai gali paveikti Å¾aidimÄ… jei modifikuota be iÅ¡monÄ—s.</string>
+    <string name="mcl_setting_category_renderer">Vaizdo generatorius</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (visos versijos, greiÄiausias)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (visos versijos, vidutinis)</string>
+    <string name="mcl_setting_veroption_release">Leidimai</string>
+    <string name="mcl_setting_veroption_snapshot">Naujinimai</string>
+    <string name="mcl_setting_veroption_oldalpha">Alpha</string>
+    <string name="mcl_setting_veroption_oldbeta">Beta</string>
+    <string name="mcl_setting_java_sandbox">.jar paleidimas</string>
+    <string name="mcl_setting_java_sandbox_subtitle">Valdykite smÄ—lio dÄ—Å¾Ä—s saugos tvarkyklÄ—s prieinamumÄ… paleidÅ¾iant .jar failÄ….</string>
+    <string name="mcl_version_clone">Klonuoti</string>
+    <!-- Global strings -->
+    <string name="global_edit">Redaguoti</string>
+    <string name="global_error">Klaida</string>
+    <string name="global_load">Ä®jungti</string>
+    <string name="global_name">Pavadinimas</string>
+    <string name="global_remove">PaÅ¡alinti</string>
+    <string name="global_clone">Klonuoti</string>
+    <string name="global_restart">Perkrauti</string>
+    <string name="global_save">IÅ¡saugoti</string>
+    <string name="global_unpacking">IÅ¡pakuojama %s</string>
+    <string name="global_error_field_empty">Å is laukas negali bÅ«ti tuÅ¡Äias</string>
+    <string name="global_waiting">Palaukite</string>
+    <string name="global_select">Pasirinkti</string>
+    <string name="global_retry">Kartoti</string>
+    <string name="global_default">Numatytasis</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">Applikacija iÅ¡sijungÄ— su kodu %d, patikrinkite latestlog.txt kad gautumÄ—te detaliÅ³.</string>
+    <string name="mcn_exit_confirm">Ar jÅ«s tikrai norite priverstinai iÅ¡jungti?</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Pokalbiai</string>
+    <string name="control_debug">Taisyti</string>
+    <string name="control_primary">Pro.</string>
+    <string name="control_secondary">DeÅ¡</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_inventory">Inv</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">3</string>
+    <string name="control_listplayers">TAB</string>
+    <string name="control_mouse">PelÄ—</string>
+    <string name="control_mouseoff">PelÄ—: iÅ¡jungta</string>
+    <string name="control_mouseon">PelÄ—: Ä¯jungta </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">Priverstinai iÅ¡jungti</string>
+    <string name="control_viewout">Å½urnalo Ä¯raÅ¡ai</string>
+    <string name="control_adebug">Input Debug</string>
+    <string name="control_customkey">SiÅ³sti mygtuko kodÄ…</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">Importuoti kontroles</string>
+    <string name="import_control_invalid_file">Netinkamas arba sugedÄ™s failas</string>
+    <string name="import_control_import_button">importuoti kontroles</string>
+    <string name="import_control_verifying_file">Failas tikrinamas, praÅ¡ome palaukti ir bandyti dar kartÄ…â€¦</string>
+    <string name="import_control_invalid_name">Netinkamas pavadinimas arba failas jau egzistuoja</string>
+    <string name="import_control_done">Importavimas baigtas</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">Perjungiama</string>
+    <string name="customctrl_size">Dydis</string>
+    <string name="customctrl_mapping">MygtukÅ³ sÄ…raÅ¡as</string>
+    <string name="customctrl_orientation">Orientacija</string>
+    <string name="customctrl_background_color">Fono spalva</string>
+    <string name="customctrl_corner_radius">Kampo spinduliuotÄ—</string>
+    <string name="customctrl_stroke_width">Linijos plotis</string>
+    <string name="customctrl_stroke_color">Linijos spalva</string>
+    <string name="customctrl_button_opacity">Mygtuko skaidrumas</string>
+    <string name="customctrl_addbutton">PridÄ—ti mygtukÄ…</string>
+    <string name="customctrl_addbutton_drawer">PridÄ—ti mygtukÅ³ spintÄ…</string>
+    <string name="customctrl_addbutton_joystick">PridÄ—ti vairasvirte</string>
+    <string name="customctrl_addsubbutton">PridetÄ¯ mygtukÅ³ spintos mygtukÄ…</string>
+    <string name="customctrl_export">Eksportuoti valdiklius</string>
+    <string name="main_share_logs">Pasidalinti Å¾urnalo failÄ…</string>
+    <string name="main_install_jar_file">Ä®vykdyti .jar</string>
+    <string name="main_play">Å½aisti</string>
+    <string name="autoram_info_msg">Atmintis pakeista Ä¯ %d MB</string>
+    <string name="mcl_setting_check_libraries">Patikrinti depozitoriumo bibliotekas po atsisiuntimo</string>
+    <string name="dl_library_sha_fail">Depozitoriumo biblioteka %s yra sugedusi ir bÅ«s persiÅ³sta</string>
+    <string name="dl_library_sha_unknown">Depozitoriumo biblioteka %s negali bÅ«ti patikrinta, privaloma tikÄ—ti kad ji gera</string>
+    <string name="dl_library_sha_pass">Depozitoriumo biblioteka %s yra gera ir naudojama</string>
+    <string name="mcl_disable_gestures">IÅ¡jungti gestus</string>
+    <string name="mcl_disable_gestures_subtitle">IÅ¡jungti gestus, kaip prilaikyti, kad griautum blokÄ…, ir paspausti, kad pastatytum blokÄ….</string>
+    <string name="mcl_disable_swap_hand">IÅ¡jungti dukart bakstelÄ—jimÄ… kad apsikeisti rankomis</string>
+    <string name="mcl_setting_title_mousespeed">PelÄ—s Greitis</string>
+    <string name="customctrl_passthru">PelÄ—s praileidimas</string>
+    <string name="customctrl_swipeable">Perbraukiamas</string>
+    <string name="customctrl_forward_lock">Ä–jimo Ä¯ priekÄ¯ fiksavimas</string>
+    <string name="memory_warning_msg">Dabartinis kiekis laisvo RAM (%d) yra maÅ¾esnis negu paskirtas RAM (%d), kas gali baigtis iÅ¡sijungimais. Pakeiskite paskirtÄ… kiekÄ¯ jeigu iÅ¡sijungia Å¾aidimas.</string>
+    <string name="mcl_memory_allocation">Atminties skirtstymas</string>
+    <string name="multirt_runtime_corrupt">Sugadintas Java Modulis</string>
+    <string name="multirt_runtime_incompatiblearch">Netinkama architektÅ«ra: %s</string>
+    <string name="multirt_config_title">Java paleidÄ—jai</string>
+    <string name="multirt_config_add">PridÄ—ti naujÄ…</string>
+    <string name="multirt_title">Java ModuliÅ³ Tvarkytojas</string>
+    <string name="multirt_progress_caching">Talpinama...</string>
+    <string name="multirt_config_setdefault">Nustatyti numatytÄ…</string>
+    <string name="multirt_config_setdefault_already">Numatytasis</string>
+    <string name="multirt_nojava8rt">Nerasta Java 8. Kad naudotumÄ—te Å¡iÄ… funkcijÄ…, naudokite Java 8.</string>
+    <string name="multirt_delete_runtime">IÅ¡trinti runtime</string>
+    <string name="pvc_gameDirectory">Å½aidimo failÅ³ vieta</string>
+    <string name="pvc_jvmArgs">JVM argumentai</string>
+    <string name="preference_mouse_start_title">PradÄ—ti su virtualia Ä¯jungta</string>
+    <string name="preference_video_title">Vaizdas</string>
+    <string name="preference_video_description">Resoliucija, paiÅ¡ytojas ir naÅ¡umas</string>
+    <string name="preference_control_title">KontroliÅ³ redagavimas</string>
+    <string name="preference_control_description">Gestai, mygtukai ir didinimas</string>
+    <string name="preference_java_title">Java redagavimas</string>
+    <string name="preference_misc_title">Kiti nustatymai</string>
+    <string name="preference_experimental_title">Eksperimentiniai dalykai</string>
+    <string name="preference_sustained_performance_title">Ä®jungti nuolatinio naÅ¡umo reÅ¾imÄ…</string>
+    <string name="preference_force_vsync_title">Priverstinai Ä¯jungti VSync</string>
+    <string name="preference_force_english_title">Perjungti I AnglÅ³ kalbÄ…</string>
+    <string name="preference_force_english_description">LeidÅ¾ia matyti originalÅ³ tekstÄ…, kaip numatyta kÅ«rejÅ³. Reikalingas paleidimas iÅ¡ naujo.</string>
+    <string name="preference_edit_controls_title">Redaguoti kontroliavimÄ…</string>
+    <string name="preference_category_gyro_controls">Gyroskopo kontrolÄ—s</string>
+    <string name="preference_category_virtual_mouse">Virtuali pelÄ—</string>
+    <string name="preference_gyro_invert_x_axis">Invertuoti X aÅ¡Ä¯</string>
+    <string name="preference_gyro_invert_y_axis">Invertuoti Y aÅ¡Ä¯</string>
+    <string name="preference_gyro_invert_x_axis_description">Invertuoti horizontaliÄ…jÄ… aÅ¡Ä¯.</string>
+    <string name="preference_gyro_invert_y_axis_description">Invertuoti vertikaliÄ…jÄ… aÅ¡Ä¯.</string>
+    <string name="preference_gyro_smoothing_title">Ä®junkti gyroskopo iÅ¡lyginimÄ…</string>
+    <string name="preference_back_title">Atgal Ä¯ paskutinÄ¯ ekranÄ…</string>
+    <string name="unnamed">Be pavadinimo</string>
+    <string name="profiles_latest_snapshot">Naujausias Snapshotas</string>
+    <string name="profiles_latest_release">Naujausias Leidinys</string>
+    <string name="profiles_profile_name">Pavadinimas</string>
+    <string name="profiles_profile_version">Versija</string>
+    <string name="global_delete">IÅ¡trinti</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">Vaizdo generatorius</string>
+    <string name="notif_channel_name">Pagrindinis</string>
+    <string name="lazy_service_default_title">Brix Launcher Service</string>
+    <string name="mcl_setting_veroption_installed">Instaliuota</string>
+    <string name="notification_terminate">Nutraukti</string>
+    <string name="notification_game_runs">Å½aidimas bÄ—ga!</string>
+    <string name="folder_dialog_create">Sukurti</string>
+    <string name="folder_dialog_insert_name">Ä®terpti aplankos pavadinimÄ…</string>
+    <string name="folder_fragment_create">Sukurti aplankÄ…</string>
+    <string name="folder_fragment_select">Pasirinkti aplankÄ…</string>
+    <string name="main_login_done">Prisijungta</string>
+    <string name="main_add_account">PridÄ—ti accounta</string>
+    <string name="tasks_ongoing">UÅ¾duotis vykdoma, praÅ¡ome palaukti</string>
+    <string name="no_saved_accounts">NÄ—ra iÅ¡saugotÅ³ paskyrÅ³</string>
+
+    <string name="xerr_unknown">NeÅ¾inomas Xbox Live API klaida %d</string>
+
+    <string name="xerr_adult_verification">SuaugÄ™s turi patvirtinti jÅ«sÅ³ paskyrÄ….</string>
+
+    <string name="xerr_not_available">Xbox Live nÄ—ra jÅ«sÅ³ Å¡alyje</string>
+    <string name="preference_enable_gyro_title">Ä®jungti gyroskopo kontroles</string>
+    <string name="preference_enable_gyro_description">Ä®jungus leis pasisukti Å¾aidime pasukant telefonÄ….</string>
+    <string name="preference_gyro_sensitivity_title">Gyroskopo kontroliu sensityvumas</string>
+    <string name="microsoft_login_retry_later">Per daug uÅ¾klausÅ³, pabandykite dar kartÄ… vÄ—liau.</string>
+    <string name="percent_format">%d%%</string>
+    <string name="customctrl_editor_exit_title">IÅ¡einate?</string>
+    <string name="customctrl_editor_exit_msg">Ar tikrai norite iÅ¡eiti?</string>
+    <string name="customctrl_editor_exit">IÅ¡eiti iÅ¡ editoriaus</string>
+    <string name="global_save_and_exit">IÅ¡saugoti ir iÅ¡eiti</string>
+    <string name="global_yes">Taip</string>
+    <string name="global_no">Ne</string>
+    <string name="preference_category_controller_settings">KontrolieriÅ³ nustatymai</string>
+    <string name="preference_wipe_controller_title">IÅ¡ naujo nustatyti valdiklio atvaizdavimÄ…</string>
+    <string name="version_select_hint">Pasirinkti versijÄ…</string>
+    <string name="modloader_dl_failed_to_load_list">Klaida kraunant versijÅ³ sÄ…raÅ¡Ä…!</string>
+    <string name="forge_dl_select_version">Pasirinkite Forge versijÄ…</string>
+
+    <string name="fabric_dl_install">Instaliuoti</string>
+    <string name="create_profile_modded_versions">Modifikuotos versijos</string>
+    <string name="fabric_dl_loader_title">Pasirinkti versijÄ…</string>
+    <string name="of_dl_select_version">Pasirinkti OptiFine versijÄ…</string>
+    <string name="of_dl_failed_to_scrape">Klaida surenkant informacijÄ… Optifine instaliacijai</string>
+    <string name="of_dl_progress">AtsisiunÄiama %s</string>
+    <string name="hint_search_modpack">IeÅ¡koti Modpacks</string>
+    <string name="preference_vulkan_driver_system_title">Naudoti sistemos Vulkan driverÄ¯</string>
+    <string name="generic_install">Instaliuoti</string>
+    <string name="generic_apply">Priimti</string>
+    <string name="generic_debug">Taisyti</string>
+    <string name="search_modpack_no_result">Nerasta modpacks</string>
+    <string name="search_modpack_error">Nepavyksta rasti modpacks</string>
+    <string name="modpack_download_downloading_mods_fc">AtsiunÄiamos modifikacijos (Failas %d iÅ¡ %d)</string>
+    <string name="modpack_download_applying_overrides">Taikyti peraÅ¡ymus (%d/%d)</string>
+    <string name="modpack_install_notification_title">Brix Modpack Installer</string>
+    <string name="modpack_install_notification_success">Paspausk Äia norint pabaigti Modpack instaliacijÄ…</string>
+    <string name="modpack_install_notification_data_not_available">Klaida atsiunÄiant modifikacijÅ³ paleidÄ—jo informacijÄ…</string>
+    <string name="notif_error_occured">Ä®vyko klaida</string>
+    <string name="notif_error_occured_desc">SpustelÄ—kite, dÄ—l daugiau informacijos</string>
+    <string name="fabric_dl_only_stable">Rodyti tik stabilias versijas</string>
+    <string name="dl_tampered_manifest_title">Failo patikrinimo perspÄ—jimas</string>
+    <string name="dl_turn_off_manifest_checks">IÅ¡junkti manifiestÅ³ patikrinimus</string>
+    <string name="dl_switch_to_official_site">Perjungti Ä¯ oficialÅ³ saitÄ…</string>
+    <string name="preference_download_source_title">Å½aidimo parsisiuntimo Å¡altinis</string>
+    <string name="notif_download_finished">Å½aidimas yra paruoÅ¡tas paleidimui</string>
+    <string name="notif_download_finished_desc">Paspauskite Äia norint pradÄ—ti!</string>
+    <string name="preference_category_gestures">Gestai</string>
+    <string name="preference_category_buttons">Mygtukai</string>
+    <string name="preference_category_experimental_settings">Eksperimentiniai dalykai</string>
+    <string name="preference_category_java_tweaks">Java redagavimas</string>
+    <string name="preference_category_main_categories">Kategorijos</string>
+    <string name="preference_category_miscellaneous">Kiti nustatymai</string>
+    <string name="preference_category_video">Vaizdo nustatymai</string>
+    <string name="notification_permission_dialog_title">Leidimo uÅ¾klausa</string>
+    <string name="preference_ask_for_notification_title">Leisti praneÅ¡imus</string>
+    <string name="preference_vsync_in_zink_title">Leisti V-Sync su Zink</string>
+    <string name="exception_failed_to_unpack_jre17">Klaida instaliuojant JRE 17</string>
+    <string name="newdl_starting">Skaitoma Å¾aidimo metadataâ€¦</string>
+    <string name="newdl_downloading_metadata">SiunÄiama Å¾aidimo metadata (%s)</string>
+    <string name="controller_button_a">A</string>
+    <string name="controller_button_b">B</string>
+    <string name="controller_button_x">X</string>
+    <string name="controller_button_y">Y</string>
+    <string name="controller_button_start">PradÅ¾ios</string>
+    <string name="controller_button_select">Pasirinkti</string>
+    <string name="customctrl_visibility_title">Matomumas</string>
+</resources>
+

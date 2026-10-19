@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_login_label">Autentificare</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Acest cont va fi eliminat!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">SelecteazÄƒ un instalator de mod</string>
+    <!-- Error messages -->
+    <string name="error_fatal">Brix Launcher s-a oprit neaÈ™teptat</string>
+    <string name="error_no_version">FÄƒrÄƒ versiune!</string>
+    <string name="error_show_more">AratÄƒ mai mult</string>
+    <string name="error_show_less">AratÄƒ mai puÈ›in</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">Este necesarÄƒ permisiunea de citire/scriere Ã®n memorie!</string>
+    <string name="toast_optifine_success">Instalare reuÈ™itÄƒ</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Wiki</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">Se È™terg fiÈ™ierele cache</string>
+    <string name="mcl_launch_downloading">Se descarcÄƒ %s</string>
+    <string name="mcl_launch_downloading_progress">"Se descarcÄƒ %s (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">Se pregÄƒteÈ™te pentru descÄƒrcarea resurselor</string>
+    <string name="mcl_options">OpÈ›iuni</string>
+    <string name="mcl_option_customcontrol">Controale personalizate</string>
+    <string name="mcl_setting_title_use_surface_view">FoloseÈ™te randarea alternativÄƒ a suprafeÈ›elor</string>
+    <string name="mcl_setting_title_ignore_notch">IgnorÄƒ notch-ul</string>
+    <string name="mcl_setting_title_resolution_scaler">Scaler de rezoluÈ›ie</string>
+    <string name="mcl_setting_title_buttonscale">Redimensionare butoane de control</string>
+    <string name="mcl_setting_title_mousescale">Redimensionarea mouse-ului</string>
+    <string name="mcl_setting_title_javaargs">Argumente de lansare JVM</string>
+    <string name="mcl_setting_subtitle_javaargs">Ai grijÄƒ, acest lucru poate face ca jocul sÄƒ se opreascÄƒ dacÄƒ este modificat fÄƒrÄƒ cunoÈ™tinÈ›e.</string>
+    <string name="mcl_setting_category_renderer">Randator</string>
+    <string name="mcl_setting_renderer_gles2_4">SfÃ¢ntul GL4ES - (toate versiunile, rapid)</string>
+    <string name="mcl_setting_veroption_release">Lansat oficial</string>
+    <string name="mcl_setting_veroption_snapshot">Lansat pentru testare</string>
+    <string name="mcl_setting_veroption_oldalpha">Alpha-vechi</string>
+    <string name="mcl_setting_veroption_oldbeta">Beta-vechi</string>
+    <string name="mcl_version_clone">ClonÄƒ</string>
+    <!-- Global strings -->
+    <string name="global_edit">EditeazÄƒ</string>
+    <string name="global_error">Eroare</string>
+    <string name="global_load">IncarcÄƒ</string>
+    <string name="global_name">Nume</string>
+    <string name="global_remove">È˜terge</string>
+    <string name="global_clone">ClonÄƒ</string>
+    <string name="global_restart">Repornire</string>
+    <string name="global_save">SalveazÄƒ</string>
+    <string name="global_unpacking">Se despacheteazÄƒ %s</string>
+    <string name="global_error_field_empty">Acest cÃ¢mp nu poate fi gol</string>
+    <string name="global_waiting">AÈ™teptaÈ›i</string>
+    <string name="global_select">SelectaÈ›i</string>
+    <string name="global_default">Prestabilit</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">AplicaÈ›ia/Jocul a fost Ã®nchis cu codul %d, vezi latestlog.txt pentru mai multe detalii.</string>
+    <string name="mcn_exit_confirm">EÈ™ti sigur cÄƒ vrei sÄƒ opreÈ™ti forÈ›at?</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Mesaje</string>
+    <string name="control_debug">Depanare</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Sec</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_inventory">Inv</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">3rd</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Mouse</string>
+    <string name="control_mouseoff">Mouse: oprit</string>
+    <string name="control_mouseon">Mouse: pornit </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">OpreÈ™te forÈ›at</string>
+    <string name="control_viewout">IeÈ™ire jurnal</string>
+    <string name="control_adebug">Depanare intrare</string>
+    <string name="control_customkey">Trimite personalizat cod cheie</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">ImportÄƒ controale</string>
+    <string name="import_control_invalid_file">FiÈ™ier invalid sau corupt</string>
+    <string name="import_control_import_button">importÄƒ controale</string>
+    <string name="import_control_verifying_file">FiÈ™ierul este Ã®n curs de verificare, te rugÄƒm sÄƒ aÈ™tepÈ›i È™i sÄƒ Ã®ncerci din nouâ€¦</string>
+    <string name="import_control_invalid_name">Nume invalid sau fiÈ™ierul existÄƒ deja</string>
+    <string name="import_control_done">Importul efectuat</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">Comutabil</string>
+    <string name="customctrl_size">Dimensiune</string>
+    <string name="customctrl_mapping">Asocieri</string>
+    <string name="customctrl_orientation">Orientare</string>
+    <string name="customctrl_background_color">Culoarea de fundal</string>
+    <string name="customctrl_corner_radius">Raza de colÈ›</string>
+    <string name="customctrl_stroke_width">LÄƒÈ›imea conturului</string>
+    <string name="customctrl_stroke_color">Culoarea conturului</string>
+    <string name="customctrl_button_opacity">Opacitate Buton</string>
+    <string name="customctrl_addbutton">AdaugÄƒ buton</string>
+    <string name="customctrl_addbutton_drawer">Adauga buton sertar</string>
+    <string name="customctrl_addsubbutton">AdaugÄƒ sub-buton</string>
+    <string name="main_share_logs">Distribuie fiÅŸierul jurnal</string>
+    <string name="main_play">JoacÄƒ</string>
+    <string name="autoram_info_msg">Memorie setatÄƒ la %d MB</string>
+    <string name="mcl_setting_check_libraries">VerificÄƒ bibliotecile dupÄƒ descÄƒrcare</string>
+    <string name="dl_library_sha_fail">Biblioteca %s este deterioratÄƒ È™i va fi redescÄƒrcatÄƒ</string>
+    <string name="dl_library_sha_unknown">Biblioteca %s nu poate fi verificatÄƒ, trebuie sÄƒ presupunem cÄƒ este bunÄƒ</string>
+    <string name="dl_library_sha_pass">Biblioteca %s este bunÄƒ È™i utilizabilÄƒ</string>
+    <string name="mcl_disable_gestures">DezactiveazÄƒ gesturi</string>
+    <string name="mcl_disable_gestures_subtitle">DezactiveazÄƒ gesturile, cum ar fi tine apasat pentru a sparge blocul, È™i apasÄƒ pentru a pune un bloc.</string>
+    <string name="mcl_disable_swap_hand">DezactivaÈ›i apÄƒsarea dublÄƒ pentru a schimba mÃ¢inile</string>
+    <string name="mcl_setting_title_mousespeed">Viteza mouse-ului</string>
+    <string name="customctrl_passthru">Mouse pass-thru</string>
+    <string name="customctrl_swipeable">Glisabil</string>
+    <string name="memory_warning_msg">Cantitatea curentÄƒ de RAM liber (%d) este mai micÄƒ decÃ¢t cantitatea alocatÄƒ de RAM (%d), care ar putea duce la oprire. SchimbÄƒ cantitatea alocatÄƒ dacÄƒ jocul se opreÈ™te.</string>
+    <string name="mcl_memory_allocation">Memorie alocatÄƒ</string>
+    <string name="multirt_runtime_corrupt">Java Runtime Corupt</string>
+    <string name="multirt_runtime_incompatiblearch">ArhitecturÄƒ incompatibilÄƒ: %s</string>
+    <string name="multirt_config_add">AdÄƒugare nouÄƒ</string>
+    <string name="multirt_title">Manager Runtime</string>
+    <string name="multirt_progress_caching">Caching...</string>
+    <string name="multirt_config_setdefault">SetaÅ£i ca prestabilit</string>
+    <string name="multirt_config_setdefault_already">Prestabilit</string>
+    <string name="multirt_nojava8rt">Nu s-a putut gÄƒsi Java 8. Pentru a folosi aceastÄƒ opÈ›iune, trebuie sÄƒ instalezi Java 8.</string>
+    <string name="pvc_gameDirectory">Dosarul jocului</string>
+    <string name="pvc_jvmArgs">Argumente JVM</string>
+    <string name="preference_mouse_start_title">ÃŽncepe cu mouse-ul virtual activat</string>
+    <string name="preference_video_title">Video È™i randare</string>
+    <string name="preference_control_title">Personalizarea controalelor</string>
+    <string name="preference_java_title">AjustÄƒri Java</string>
+    <string name="preference_misc_title">SetÄƒri diverse</string>
+    <string name="preference_experimental_title">Lucruri experimentale</string>
+    <string name="preference_sustained_performance_title">ActiveazÄƒ modul de performanÈ›Äƒ susÈ›inutÄƒ</string>
+    <string name="preference_edit_controls_title">Editare controale personalizate</string>
+    <string name="preference_gyro_invert_x_axis">InverseazÄƒ axa X</string>
+    <string name="preference_gyro_invert_y_axis">InverseazÄƒ axa Y</string>
+    <string name="preference_back_title">ÃŽnapoi la ultimul ecran</string>
+    <string name="unnamed">FÄƒrÄƒ nume</string>
+    <string name="profiles_latest_snapshot">Ultimul snapshot</string>
+    <string name="profiles_latest_release">Ultima versiune stabilÄƒ</string>
+    <string name="profiles_profile_name">Nume</string>
+    <string name="profiles_profile_version">Versiunea</string>
+    <string name="global_delete">È˜terge</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">Randator</string>
+    <string name="notif_channel_name">General</string>
+    <string name="lazy_service_default_title">Brix Launcher Service</string>
+    <string name="mcl_setting_veroption_installed">Instalat</string>
+    <string name="use_global_default">(Utilizare implicitÄƒ globalÄƒ)</string>
+    <string name="progresslayout_tasks_in_progress">%d sarcini Ã®n curs</string>
+    <string name="notification_terminate">TerminÄƒ</string>
+    <string name="notification_game_runs">Jocul ruleazÄƒ!</string>
+    <string name="folder_dialog_create">CreeazÄƒ</string>
+    <string name="folder_dialog_insert_name">IntroduceÈ›i numele dosarului</string>
+    <string name="main_login_done">Autentificare finalizatÄƒ</string>
+    <string name="main_add_account">AdÄƒugaÈ›i un cont</string>
+    <string name="tasks_ongoing">Sarcinile sunt Ã®n desfÄƒÈ™urare, vÄƒ rugÄƒm aÈ™teptaÈ›i</string>
+    <string name="no_saved_accounts">Niciun cont salvat</string>
+
+    <string name="xerr_unknown">Xbox Live API eroare necunoscutÄƒ %d</string>
+
+    <string name="xerr_adult_verification">Un adult trebuie sÄƒ-È›i verifice contul.</string>
+    <string name="xerr_child">Contul tau este un cont de copil si trebuie sa fie adaugat intr-o familie pentru a se autentifica.</string>
+
+    <string name="xerr_not_available">Xbox Live nu este disponibil Ã®n Å£ara dumneavoastrÄƒ</string>
+    <string name="preference_enable_gyro_title">Permite controalele gyroscopului</string>
+    <string name="preference_gyro_sensitivity_title">Controalele tiroscopului controleazÄƒ sensibilitatea</string>
+    <string name="preference_gyro_sample_rate_title">Rata de eÅŸantionare giroscopicÄƒ</string>
+    <string name="microsoft_login_retry_later">Prea multe solicitÄƒri, vÄƒ rugÄƒm sÄƒ Ã®ncercaÅ£i din nou mai tÃ¢rziu.</string>
+    <string name="preference_shader_dump_title">ActiveazÄƒ dumping pentru shader</string>
+    <string name="percent_format">%d%%</string>
+    <string name="customctrl_editor_exit_title">PÄƒrÄƒsiÈ›i?</string>
+    <string name="customctrl_editor_exit_msg">SunteÈ›i sigur cÄƒ doriÈ›i sÄƒ ieÈ™iÈ›i?</string>
+    <string name="customctrl_editor_exit">PÄƒrÄƒseÈ™te editorul</string>
+    <string name="global_save_and_exit">SalvaÈ›i È™i ieÈ™iÈ›i</string>
+    <string name="global_yes">Da</string>
+    <string name="global_no">Nu</string>
+    <string name="of_dl_progress">Se descarcÄƒ %s</string>
+    <string name="generic_debug">Depanare</string>
+    <string name="preference_category_java_tweaks">AjustÄƒri Java</string>
+    <string name="preference_category_miscellaneous">SetÄƒri diverse</string>
+    <string name="controller_button_select">SelectaÈ›i</string>
+</resources>
+

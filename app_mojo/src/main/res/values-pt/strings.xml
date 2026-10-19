@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_login_label">Iniciar sessÃ£o</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Esta conta serÃ¡ removida!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">Seleciona um Instalador de mods</string>
+    <!-- Error messages -->
+    <string name="error_fatal">O Brix Launcher falhou inesperadamente</string>
+    <string name="error_no_version">NÃ£o existem versÃµes!</string>
+    <string name="error_show_more">Mostrar mais</string>
+    <string name="error_show_less">Mostrar menos</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">A permissÃ£o de leitura/escrita no armazenamento Ã© necessÃ¡ria!</string>
+    <string name="toast_optifine_success">InstalaÃ§Ã£o completa com sucesso</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Wiki</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">A limpar os ficheiros em cache</string>
+    <string name="mcl_launch_downloading">A transferir %s</string>
+    <string name="mcl_launch_downloading_progress">"A transferir %s (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">A preparar para transferir os recursos</string>
+    <string name="mcl_options">OpÃ§Ãµes</string>
+    <string name="mcl_option_customcontrol">Controlos personalizados</string>
+    <string name="mcl_setting_title_use_surface_view">Usar renderizaÃ§Ã£o de superfÃ­cie alternada</string>
+    <string name="mcl_setting_subtitle_use_surface_view">Pode ajudar em cenÃ¡rios dependentes do processador grÃ¡fico.</string>
+    <string name="mcl_setting_title_ignore_notch">Ignorar o entalhe</string>
+    <string name="mcl_setting_subtitle_ignore_notch">Ignora o entalhe e estende o ecrÃ£ por baixo dele.\nDÃ¡-lhe uma experiÃªncia mais imersiva.</string>
+    <string name="mcl_setting_title_resolution_scaler">Escala da ResoluÃ§Ã£o</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">Permite a diminuir a fidelidade grÃ¡fica do jogo. 100% Ã© a resoluÃ§Ã£o completa.</string>
+    <string name="mcl_setting_title_longpresstrigger">Ativar atraso de toque longo</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">Altera a demora do gatilho de toque longo para partir blocos e soltar itens.</string>
+    <string name="mcl_setting_title_buttonscale">Escala dos botÃµes</string>
+    <string name="mcl_setting_subtitle_buttonscale">Redimensiona-os se os botÃµes estiverem pequenos.</string>
+    <string name="mcl_setting_title_mousescale">Escala do rato</string>
+    <string name="mcl_setting_subtitle_mousescale">Muda o tamanho do rato virtual.</string>
+    <string name="mcl_setting_title_javaargs">Argumentos JVM</string>
+    <string name="mcl_setting_subtitle_javaargs">Tem cuidado, isto pode fazer o jogo falhar se modificado sem conhecimento.</string>
+    <string name="mcl_setting_category_renderer">Renderizador</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (todas as versÃµes, rÃ¡pido)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (todas as versÃµes, mÃ©dio)</string>
+    <string name="mcl_setting_veroption_release">Oficial</string>
+    <string name="mcl_setting_veroption_snapshot">Snapshot</string>
+    <string name="mcl_setting_veroption_oldalpha">Alpha antiga</string>
+    <string name="mcl_setting_veroption_oldbeta">Beta antiga</string>
+    <string name="mcl_setting_java_sandbox">ExecuÃ§Ã£o de .jar em modo Sandbox</string>
+    <string name="mcl_setting_java_sandbox_subtitle">Controla a disponibilidade do gerenciador de seguranÃ§a do sandbox ao executares um ficheiro .jar.</string>
+    <string name="mcl_version_clone">Clonar</string>
+    <!-- Global strings -->
+    <string name="global_edit">Editar</string>
+    <string name="global_error">Erro</string>
+    <string name="global_load">Carregar</string>
+    <string name="global_name">Nome</string>
+    <string name="global_remove">Remover</string>
+    <string name="global_clone">Clonar</string>
+    <string name="global_restart">Reiniciar</string>
+    <string name="global_save">Guardar</string>
+    <string name="global_unpacking">A descompactar %s</string>
+    <string name="global_error_field_empty">Este campo nÃ£o pode estar vazio</string>
+    <string name="global_waiting">Aguarda</string>
+    <string name="global_select">Selecionar</string>
+    <string name="global_retry">Tentar outra vez</string>
+    <string name="global_default">PadrÃ£o</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">AplicaÃ§Ã£o/Jogo saiu com cÃ³digo %d, verifique latestlog.txt para mais detalhes.</string>
+    <string name="mcn_exit_confirm">Tu tens a certeza que queres forÃ§ar o encerramento do jogo?</string>
+    <string name="mcn_check_fail_vulkan_support">O renderizador Zink(Vulkan) nÃ£o Ã© suportado neste dispositivo!</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Chat</string>
+    <string name="control_debug">DepuraÃ§Ã£o</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Seg</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_inventory">Inv</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">terceira</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Rato</string>
+    <string name="control_mouseoff">Rato: desligado</string>
+    <string name="control_mouseon">Rato: ligado </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">ForÃ§ar encerramento</string>
+    <string name="control_viewout">Registro de saÃ­da</string>
+    <string name="control_adebug">Inserir DepuraÃ§Ã£o</string>
+    <string name="control_customkey">Enviar tecla personalizada</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">Importar Controlos</string>
+    <string name="import_control_invalid_file">Ficheiro invÃ¡lido ou corrompido</string>
+    <string name="import_control_import_button">importar controlos</string>
+    <string name="import_control_verifying_file">O ficheiro estÃ¡ a ser verificado, por favor aguarda e tenta outra vezâ€¦</string>
+    <string name="import_control_invalid_name">Nome invÃ¡lido ou o ficheiro jÃ¡ existe</string>
+    <string name="import_control_done">ImportaÃ§Ã£o concluÃ­da</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">AlternÃ¡vel</string>
+    <string name="customctrl_size">Tamanho</string>
+    <string name="customctrl_mapping">Mapeamento</string>
+    <string name="customctrl_orientation">OrientaÃ§Ã£o</string>
+    <string name="customctrl_background_color">Cor do fundo</string>
+    <string name="customctrl_corner_radius">Raio dos cantos</string>
+    <string name="customctrl_stroke_width">Espessura do traÃ§ado</string>
+    <string name="customctrl_stroke_color">Cor do traÃ§ado</string>
+    <string name="customctrl_button_opacity">Opacidade do botÃ£o</string>
+    <string name="customctrl_addbutton">Adicionar botÃ£o</string>
+    <string name="customctrl_addbutton_drawer">Adicionar desenhador de botÃ£o</string>
+    <string name="customctrl_addbutton_joystick">Adicionar joystick</string>
+    <string name="customctrl_addsubbutton">Adicionar sub-botÃ£o</string>
+    <string name="customctrl_selectdefault">Seleciona o controlmap padrÃ£o</string>
+    <string name="customctrl_export">Exporta controlmap</string>
+    <string name="main_share_logs">Partilhar log</string>
+    <string name="main_install_jar_file">Executar um .jar</string>
+    <string name="main_play">Jogar</string>
+    <string name="autoram_info_msg">MemÃ³ria definida para %d MB</string>
+    <string name="mcl_setting_check_libraries">Verificar as bibliotecas depois de transferir</string>
+    <string name="mcl_setting_check_libraries_subtitle">EstÃ¡ definiÃ§Ã£o forÃ§a o launcher a verificar o hash da biblioteca se estiver disponÃ­vel. Impede downloads quebrados.</string>
+    <string name="dl_library_sha_fail">A biblioteca %s estÃ¡ danificada e irÃ¡ ser transferida novamente</string>
+    <string name="dl_library_sha_unknown">A biblioteca %s nÃ£o pÃ´de ser verificada, vamos assumir que estÃ¡ utilizÃ¡vel</string>
+    <string name="dl_library_sha_pass">Biblioteca %s estÃ¡ bem e utilizÃ¡vel</string>
+    <string name="mcl_disable_gestures">Desativar gestos</string>
+    <string name="mcl_disable_gestures_subtitle">Desativa gestos, como segurar para quebrar blocos e tocar para colocar um bloco.</string>
+    <string name="mcl_disable_swap_hand">Desativar toque duplo para trocar de mÃ£os</string>
+    <string name="mcl_disable_swap_hand_subtitle">Desliga o toque duplo na barra rÃ¡pida e troca-o para a mÃ£o secundÃ¡ria.</string>
+    <string name="mcl_setting_title_mousespeed">Velocidade do rato</string>
+    <string name="mcl_setting_subtitle_mousespeed">Muda a velocidade do rato virtual.</string>
+    <string name="customctrl_passthru">Rato pode passar atravÃ©s</string>
+    <string name="customctrl_swipeable">DeslizÃ¡vel</string>
+    <string name="customctrl_forward_lock">Bloqueio da Frente</string>
+    <string name="customctrl_absolute_tracking">Rastreamento absoluto do dedo</string>
+    <string name="memory_warning_msg">A quantidade atual de memÃ³ria RAM livre (%d) Ã© menor do que a memÃ³ria RAM alocada (%d), o que pode levar a falhas. Altera a alocaÃ§Ã£o se o jogo falhar.</string>
+    <string name="mcl_memory_allocation">AlocaÃ§Ã£o de memÃ³ria</string>
+
+    <string name="multirt_runtime_corrupt">Runtime do Java corrompida</string>
+    <string name="multirt_runtime_incompatiblearch">Arquitetura incompatÃ­vel: %s</string>
+    <string name="multirt_config_title">Runtimes Java</string>
+    <string name="multirt_config_add">Adicionar nova</string>
+    <string name="multirt_title">Gestor de Runtimes</string>
+    <string name="multirt_subtitle">Gerencia Runtimes Java instalados.</string>
+    <string name="multirt_progress_caching">A colocar em cache...</string>
+    <string name="multirt_config_setdefault">Definir como padrÃ£o</string>
+    <string name="multirt_config_setdefault_already">PadrÃ£o</string>
+    <string name="multirt_config_removeerror_last">Deves ter ao menos um Java Runtime instalado.</string>
+    <string name="multirt_nojava8rt">NÃ£o foi possÃ­vel encontrar o Java 8. Para usar esta opÃ§Ã£o, tu precisas de instalar o Java 8.</string>
+    <string name="multirt_delete_runtime">Eliminar runtime</string>
+    <string name="pvc_gameDirectory">DiretÃ³rio do jogo</string>
+    <string name="pvc_jvmArgs">Argumentos JVM</string>
+    <string name="preference_mouse_start_title">Iniciar com o rato virtual ligado</string>
+    <string name="preference_mouse_start_description">O rato virtual aparece ao inÃ­cio do programa, se essa opÃ§Ã£o estÃ¡ ligada.</string>
+    <string name="preference_video_title">VÃ­deo e renderizador</string>
+    <string name="preference_video_description">ResoluÃ§Ã£o, renderer e desempenho</string>
+    <string name="preference_control_title">CustomizaÃ§Ã£o dos controlos</string>
+    <string name="preference_control_description">Gestos, botÃµes e escala</string>
+    <string name="preference_java_title">Ajustes do Java</string>
+    <string name="preference_java_description">VersÃµes do Java, Argumentos do JVM, Quantidade de memÃ³ria operativa, e sandbox</string>
+    <string name="preference_misc_title">DefiniÃ§Ãµes diversas</string>
+    <string name="preference_misc_description">Lista de versÃµes, e verificaÃ§Ãµes das bibliotecas</string>
+    <string name="preference_experimental_title">Coisas experimentais</string>
+    <string name="preference_experimental_description">Use estas coisas com precauÃ§Ã£o, nÃ£o sÃ£o suportadas</string>
+    <string name="preference_sustained_performance_title">Habilitar modo de desempenho constante</string>
+    <string name="preference_edit_controls_title">Editar controlos personalizados</string>
+    <string name="preference_gyro_invert_x_axis">Inverter eixo X</string>
+    <string name="preference_gyro_invert_y_axis">Inverter eixo Y</string>
+    <string name="preference_back_title">Voltar Ã  tela anterior</string>
+    <string name="unnamed">Sem Nome</string>
+    <string name="profiles_latest_snapshot">Snapshot mais recente</string>
+    <string name="profiles_latest_release">VersÃ£o mais recente</string>
+    <string name="profiles_profile_name">Nome</string>
+    <string name="profiles_profile_version">VersÃ£o</string>
+    <string name="global_delete">Eliminar</string>
+    <string name="pedit_java_runtime">Runtime do Java</string>
+    <string name="pedit_renderer">Renderizador</string>
+    <string name="of_dl_progress">A transferir %s</string>
+    <string name="generic_debug">DepuraÃ§Ã£o</string>
+    <string name="preference_category_java_tweaks">Ajustes do Java</string>
+    <string name="preference_category_miscellaneous">DefiniÃ§Ãµes diversas</string>
+    <string name="controller_button_select">Selecionar</string>
+</resources>
+

@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_login_label">×”×ª×—×‘×¨</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">×”×—×©×‘×•×Ÿ ×™×•×¡×¨!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">×‘×—×¨ ×ž×ª×§×™×Ÿ mod</string>
+    <!-- Error messages -->
+    <string name="error_fatal">Brix Launcher ×§×¨×¡ ×‘××•×¤×Ÿ ×‘×œ×ª×™ ×¦×¤×•×™</string>
+    <string name="error_no_version">××™×Ÿ ×’×¨×¡×”!</string>
+    <string name="error_show_more">×”×¦×’ ×¢×•×“</string>
+    <string name="error_show_less">×”×¦×’ ×¤×—×•×ª</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">×”×¨×©××” ×œ×§×¨×™××”/×›×ª×™×‘×” ×œ××—×¡×•×Ÿ × ×“×¨×©×ª!</string>
+    <string name="toast_optifine_success">×”×”×ª×§× ×” ×”×¡×ª×™×™×ž×” ×‘×”×¦×œ×—×”</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">×•×™×§×™</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">×ž× ×§×” ×§×‘×¦×™ ×ž×˜×ž×•×Ÿ</string>
+    <string name="mcl_launch_downloading">×ž×•×¨×™×“ %s</string>
+    <string name="mcl_launch_downloading_progress">"×ž×ª×§×™×Ÿ %s (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">×ž×ª×›×•× ×Ÿ ×œ×”×•×¨×“×ª ×ž×©××‘×™×</string>
+    <string name="mcl_options">××¤×©×¨×•×™×•×ª</string>
+    <string name="mcl_option_customcontrol">×¤×§×“×™× ×ž×•×ª××ž×™× ××™×©×™×ª</string>
+    <string name="mcl_setting_title_use_surface_view">×”×©×ª×ž×© ×‘ ×¨×™× ×“×•×¨ ×ž×©×˜×— ×—×œ×•×¤×™</string>
+    <string name="mcl_setting_subtitle_use_surface_view">\"×™×›×•×œ ×œ×¢×–×•×¨ ×‘×‘×™×¦×•×¢×™× ×‘×ª×¨×—×™×©×™× ×ž×•×’×‘×œ×™× ×¢×œ ×™×“×™ ×” GPU.</string>
+    <string name="mcl_setting_title_ignore_notch">×”×ª×¢×œ× ×ž×”×—×ª×š</string>
+    <string name="mcl_setting_subtitle_ignore_notch">\"×ž×ª×¢×œ× ×ž×”×ž×’×¨×¢×ª ×•×ž×¨×—×™×‘ ××ª ×”×ž×¡×š ×ž×ª×—×ª ×œ×”.\n× ×•×ª×Ÿ ×œ×š ×—×•×•×™×ª ×¦×¤×™×™×” ×ž×©×•×¤×¨×ª.</string>
+    <string name="mcl_setting_title_resolution_scaler">×§× ×” ×ž×™×“×” ×©×œ ×¨×–×•×œ×•×¦×™×”</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">×ž××¤×©×¨ ×œ×š ×œ×”× ×ž×™×š ××ª ×¨×–×•×œ×•×¦×™×™×ª ×”×ž×©×—×§. 100% ×–×” ×¨×–×•×œ×•×¦×™×” ×ž×œ××”.</string>
+    <string name="mcl_setting_title_longpresstrigger">×”×¤×¢×œ ×”×©×”×™×™×ª ×œ×—×™×¦×” ××¨×•×›×”</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">×©× ×” ×¢×™×›×•×‘ ×œ×—×™×¦×” ××¨×•×›×” ×¢×œ ×”×”×“×§ ×œ×”×©×ž×“×ª ×‘×œ×•×§×™× ×•×”×¤×œ×ª ×¤×¨×™×˜×™×.</string>
+    <string name="mcl_setting_title_buttonscale">×§× ×” ×”×ž×™×“×” ×©×œ ×›×¤×ª×•×¨×™ ×”×©×œ×™×˜×”</string>
+    <string name="mcl_setting_subtitle_buttonscale">×ž×’×“×™×œ ××ª ×”×›×¤×ª×•×¨×™× ×× ×”× ×§×˜× ×™× ×ž×“×™.</string>
+    <string name="mcl_setting_title_mousescale">×§× ×” ×”×ž×™×“×” ×©×œ ×”×¢×›×‘×¨</string>
+    <string name="mcl_setting_subtitle_mousescale">×©× ×” ××ª ×’×•×“×œ ×”×¢×›×‘×¨ ×”×•×•×™×¨×˜×•××œ×™.</string>
+    <string name="mcl_setting_title_javaargs">×¤×¨×ž×˜×¨×™× ×œ×”×¤×¢×œ×ª JVM</string>
+    <string name="mcl_setting_subtitle_javaargs">×–×”×™×¨×•×ª! ×©×™× ×•×™ ×¢×¨×›×™× ××œ×” ×œ×œ× ×™×“×¢ ×ž×ª××™× ×¢×œ×•×œ ×œ×’×¨×•× ×œ×ž×©×—×§ ×œ×§×¨×•×¡.</string>
+    <string name="mcl_setting_category_renderer">×¨×™× ×“×•×¨</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (×›×œ ×”×’×¨×¡××•×ª, ×ž×”×™×¨)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (×›×œ ×”×’×¨×¡××•×ª, ×‘×™× ×•× ×™)</string>
+    <string name="mcl_setting_veroption_release">×”×¤×¦×”</string>
+    <string name="mcl_setting_veroption_snapshot">×¡× ××¤×©×•×˜</string>
+    <string name="mcl_setting_veroption_oldalpha">××œ×¤×: ×’×¨×¡×” ×™×©× ×”</string>
+    <string name="mcl_setting_veroption_oldbeta">×‘×˜×: ×’×¨×¡×” ×™×©× ×”</string>
+    <string name="mcl_setting_java_sandbox">×”×¤×¢×œ×ª .jar ×‘××¨×’×– ×—×•×œ</string>
+    <string name="mcl_setting_java_sandbox_subtitle">\"×©×œ×•×˜ ×‘× ×’×™×©×•×ª ×©×œ ×ž× ×”×œ ×”××‘×˜×—×” sandbox ×‘×¢×ª ×”×¤×¢×œ×ª ×§×•×‘×¥ .jar.\".</string>
+    <string name="mcl_version_clone">×©×›×¤×•×œ</string>
+    <!-- Global strings -->
+    <string name="global_edit">×¢×¨×•×š</string>
+    <string name="global_error">×©×’×™××”</string>
+    <string name="global_load">×˜×¢×Ÿ</string>
+    <string name="global_name">×©×</string>
+    <string name="global_remove">×”×¡×¨</string>
+    <string name="global_clone">×©×›×¤×•×œ</string>
+    <string name="global_restart">××ª×—×•×œ</string>
+    <string name="global_save">×©×ž×•×¨</string>
+    <string name="global_unpacking">×ž×—×œ×¥ ××ª %s</string>
+    <string name="global_error_field_empty">×©×“×” ×–×” ××™× ×• ×™×›×•×œ ×œ×”×™×•×ª ×¨×™×§</string>
+    <string name="global_waiting">×”×ž×ª×Ÿ</string>
+    <string name="global_select">×‘×—×¨</string>
+    <string name="global_retry">× ×™×¡×™×•×Ÿ ×—×•×–×¨</string>
+    <string name="global_default">×‘×¨×™×¨×ª ×ž×—×“×œ</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">×”×™×™×©×•×ž×•×Ÿ / ×”×ž×©×—×§ ×§×¨×¡, ×¢× ×§×•×“ ×©×’×™××” %d, ×‘×“×•×§ ××ª latestlog.txt ×œ×ž×™×“×¢ × ×•×¡×£.</string>
+    <string name="mcn_exit_confirm">×”×× ××ª×” ×‘×˜×•×— ×©××ª×” ×¨×•×¦×” ×œ×›×¤×•×ª ×›×™×‘×•×™?</string>
+    <string name="mcn_check_fail_vulkan_support">Zink (Vulkan) ××™× ×• × ×ª×ž×š ×‘×ž×›×©×™×¨ ×”×–×”!</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">×¦\'××˜</string>
+    <string name="control_debug">× ×¤×” ×‘××’×™×</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Sec</string>
+    <string name="control_inventory">Inv</string>
+    <string name="control_thirdperson">3rd</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">×¢×›×‘×¨</string>
+    <string name="control_mouseoff">×¢×›×‘×¨: ×ž×•×©×‘×ª</string>
+    <string name="control_mouseon">×¢×›×‘×¨: ×¤×¢×™×œ </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">×›×¤×” ×›×™×‘×•×™</string>
+    <string name="control_viewout">×œ×•×’ ×¤×œ×˜</string>
+    <string name="control_adebug">× ×™×¤×•×™ ×©×’×™××•×ª ×§×œ×˜</string>
+    <string name="control_customkey">×©×œ×— ×§×•×“ ×ž×§×© ×ž×•×ª×× ××™×©×™×ª</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">×™×™×‘×•× ×¤×§×“×™×</string>
+    <string name="import_control_invalid_file">×§×•×‘×¥ ×©×’×•×™ ××• ×¤×’×•×</string>
+    <string name="import_control_import_button">×™×™×‘×•× ×¤×§×“×™×</string>
+    <string name="import_control_verifying_file">×”×§×•×‘×¥ × ×ž×¦× ×‘××™×ž×•×ª, ×× × ×”×ž×ª×Ÿ ×•× ×¡×” ×©×•×‘â€¦</string>
+    <string name="import_control_invalid_name">×©× ×©×’×•×™ ××• ×©×”×§×•×‘×¥ ×›×‘×¨ ×§×™×™×</string>
+    <string name="import_control_done">×™×™×‘×•× ×‘×•×¦×¢</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">×ž×ª×’</string>
+    <string name="customctrl_size">×’×•×“×œ</string>
+    <string name="customctrl_mapping">×ž×™×¤×•×™</string>
+    <string name="customctrl_orientation">×›×™×•×•×Ÿ</string>
+    <string name="customctrl_background_color">×¦×‘×¢ ×”×¨×§×¢</string>
+    <string name="customctrl_corner_radius">×¨×“×™×•×¡ ×¤×™× ×”</string>
+    <string name="customctrl_stroke_width">×¢×•×‘×™ ×§×• ×”×ž×ª××¨</string>
+    <string name="customctrl_stroke_color">×¦×‘×¢ ×§×• ×”×ž×ª××¨</string>
+    <string name="customctrl_button_opacity">×©×§×™×¤×•×ª ×”×›×¤×ª×•×¨</string>
+    <string name="customctrl_addbutton">×”×•×¡×£ ×›×¤×ª×•×¨</string>
+    <string name="customctrl_addbutton_drawer">×”×•×¡×£ ×¦×™×™×¨ ×©×œ ×›×¤×ª×•×¨</string>
+    <string name="customctrl_addbutton_joystick">×”×•×¡×£ ×‘×§×¨</string>
+    <string name="customctrl_addsubbutton">×”×•×¡×£ ×ª×ª-×›×¤×ª×•×¨</string>
+    <string name="customctrl_selectdefault">×‘×—×¨ ×ž×¤×” ×‘×§×¨×™× ×‘×¨×™×¨×ª ×ž×—×“×œ</string>
+    <string name="customctrl_export">×™×¦× ×ž×¤×ª ×‘×§×¨</string>
+    <string name="main_share_logs">×©×ª×£ ×§×•×‘×¥ ×™×•×ž×Ÿ</string>
+    <string name="main_install_jar_file">×”×¤×¢×œ ×§×•×‘×¥ .jar</string>
+    <string name="main_play">×”×¤×¢×œ</string>
+    <string name="autoram_info_msg">×–×™×›×¨×•×Ÿ ×”×•×’×“×¨ ×œ %d MB</string>
+    <string name="mcl_setting_check_libraries">×‘×“×•×§ ×¡×¤×¨×™×•×ª ×œ××—×¨ ×”×”×•×¨×“×”</string>
+    <string name="mcl_setting_check_libraries_subtitle">××¤×©×¨×•×ª ×–×• ×ž××œ×¦×ª ××ª ×”×ž×©×’×¨ â€‹â€‹×œ×‘×“×•×§ ××ª ×” hash ×©×œ ×”×¡×¤×¨×™×™×” ×× ×”×•× ×–×ž×™×Ÿ. ×ž×•× ×¢ ×”×•×¨×“×•×ª ×©×‘×•×¨×•×ª.</string>
+    <string name="dl_library_sha_fail">×”×¡×¤×¨×™×™×” %s ×¤×’×•×ž×” ×•×œ×›×Ÿ ×ª×•×¨×“ ×ž×—×“×©</string>
+    <string name="dl_library_sha_unknown">×œ× × ×™×ª×Ÿ ×œ×‘×“×•×§ ××ª ×”×¡×¤×¨×™×™×” %s, ×× ×• ×ž× ×™×—×™× ×©×”×™× ×‘×¡×“×¨</string>
+    <string name="dl_library_sha_pass">×”×¡×¤×¨×™×™×” %s ×ª×§×™× ×” ×•××¤×©×¨ ×œ×”×©×ª×ž×© ×‘×”</string>
+    <string name="mcl_disable_gestures">×”×©×‘×ª ×ž×—×•×•×ª</string>
+    <string name="mcl_disable_gestures_subtitle">×”×©×‘×ª ×ž×—×•×•×ª, ×œ×ž×©×œ: ×”×—×–×§ ×›×“×™ ×œ×©×‘×•×¨ ×‘×œ×•×§, ×•×’×¢ ×›×“×™ ×œ×©×™× ×‘×œ×•×§.</string>
+    <string name="mcl_disable_swap_hand">×”×©×‘×ª ×œ×—×™×¦×” ×›×¤×•×œ×” ×œ×”×¢×‘×¨×ª ×™×“×™×™×</string>
+    <string name="mcl_disable_swap_hand_subtitle">×”×©×‘×ª ×œ×—×™×¦×” ×›×¤×•×œ×” ×¢×œ ×¤×¨×™×˜ ×‘×¡×¨×’×œ ×”×§×™×¦×•×¨×™× ×œ×”×—×œ×™×¤×• ×‘×™×“ ×”×©× ×™×™×”.</string>
+    <string name="mcl_setting_title_mousespeed">×ž×”×™×¨×•×ª ×”×¢×›×‘×¨</string>
+    <string name="mcl_setting_subtitle_mousespeed">\"×ž×©× ×” ××ª ×ž×”×™×¨×•×ª ×”×¢×›×‘×¨ ×”×ž×“×•×ž×”</string>
+    <string name="customctrl_passthru">×¢×›×‘×¨ ×¢×•×‘×¨ ×“×¨×š</string>
+    <string name="customctrl_swipeable">× ×™×ª×Ÿ ×œ×”×—×œ×§×”</string>
+    <string name="customctrl_forward_lock">× ×¢×™×œ×ª ×§×“×™×ž×”</string>
+    <string name="memory_warning_msg">×”×›×ž×•×ª ×”× ×•×›×—×™×ª ×©×œ RAM ×¤× ×•×™ (%d) × ×ž×•×›×” ×ž×›×ž×•×ª ×”-RAM ×©×”×•×§×¦×ª×” (%d), ×ž×” ×©×¢×œ×•×œ ×œ×’×¨×•× ×œ×ž×©×—×§ ×œ×§×¨×•×¡. ×”× ×š ×ž×ª×‘×§×© ×œ×©× ×•×ª ××ª ×”×”×§×¦××” ×‘×ž×™×“×” ×•×”×ž×©×—×§ ×§×•×¨×¡.</string>
+    <string name="mcl_memory_allocation">×”×§×¦××ª ×–×™×›×¨×•×Ÿ</string>
+    <string name="mcl_memory_allocation_subtitle">×©×•×œ×˜ ×‘×›×ž×” ×–×™×›×¨×•×Ÿ × ×™×ª×Ÿ ×œ ×ž×™×™× ×§×¨××¤×˜.</string>
+    <string name="multirt_runtime_corrupt">Java Runtime ×¤×’×•×ž×”</string>
+    <string name="multirt_runtime_incompatiblearch">××¨×›×™×˜×§×˜×•×¨×” ×œ× × ×ª×ž×›×ª: %s</string>
+    <string name="multirt_config_title">×’\'××•×•×” ×¨× ×˜×™×™×</string>
+    <string name="multirt_config_add">×”×•×¡×£ ×—×“×©</string>
+    <string name="multirt_title">×ž× ×”×œ Runtime</string>
+    <string name="multirt_subtitle">× ×”×œ ×’\'××•×•×” ×¨× ×˜×™×™× ×ž×•×ª×§× ×™×</string>
+    <string name="multirt_progress_caching">×©×•×ž×¨ ×‘×ž×˜×ž×•×Ÿ...</string>
+    <string name="multirt_config_setdefault">×”×’×“×¨ ×›×‘×¨×™×¨×ª ×ž×—×“×œ</string>
+    <string name="multirt_config_setdefault_already">×‘×¨×™×¨×ª ×ž×—×“×œ</string>
+    <string name="multirt_config_removeerror_last">×¢×œ×™×š ×©×”×™×” ×œ×¤×—×•×ª ×’\'××•×•×” ×¨× ×˜×™×™× ××—×“ ×ž×•×ª×§×Ÿ.</string>
+    <string name="multirt_nojava8rt">×œ× ×ž×¦××ª×™ ××ª Java 8. ×¢×œ ×ž× ×ª ×œ×”×©×ª×ž×© ×‘××¤×©×¨×•×ª ×–×•, ×¢×œ×™×š ×œ×”×ª×§×™×Ÿ Java 8.</string>
+    <string name="multirt_delete_runtime">×ž×—×§ ×¨× ×˜×™×™×</string>
+    <string name="pvc_gameDirectory">×ª×™×§×™×™×ª ×”×ž×©×—×§</string>
+    <string name="pvc_jvmArgs">×¤×¨×ž×˜×¨×™× ×©×œ JVM</string>
+    <string name="preference_mouse_start_title">×”×ª×—×œ ×¢× ×¢×›×‘×¨ ×•×™×¨×˜×•××œ×™ ×ž×•×¤×¢×œ</string>
+    <string name="preference_mouse_start_description">×”×¢×›×‘×¨ ×”×ž×“×•×ž×” ×ž×•×¤×™×¢ ×‘×¢×ª ×”×”×¤×¢×œ×” ×›××©×¨ ××¤×©×¨×•×ª ×–×• ×ž×•×¤×¢×œ×ª</string>
+    <string name="preference_video_title">×•×™×“××• ×•×¢×™×‘×•×“</string>
+    <string name="preference_video_description">×¨×–×•×œ×•×¦×™×” ×¨× ×“×¨ ×•×‘×™×¦×•×¢×™×</string>
+    <string name="preference_control_title">×”×ª××ž×” ××™×©×™×ª ×©×œ ×¤×§×“×™×</string>
+    <string name="preference_control_description">×ž×—×•×•×ª, ×œ×—×¦× ×™× ×•×§× ×” ×ž×™×“×”</string>
+    <string name="preference_java_title">×”×ª××ž×•×ª ×œ- Java</string>
+    <string name="preference_java_description">×’\'××•×•×” ×¨× ×˜×™×™×, JVM ××¨×’×•×ž× ×˜×¡ ×›×ž×•×ª ×¨×× ×•××¨×’×– ×—×•×œ</string>
+    <string name="preference_misc_title">×”×’×“×¨×•×ª ×©×•× ×•×ª</string>
+    <string name="preference_misc_description">×¨×©×™×ž×ª ×’×¨×¡××•×ª ×•×‘×“×™×§×ª ×¡×¤×¨×™×•×ª</string>
+    <string name="preference_experimental_title">×“×‘×¨×™× × ×™×¡×™×•× ×™×™×</string>
+    <string name="preference_experimental_description">×”×©×ª×ž×© ×‘×“×‘×¨×™× ×©× ×‘×©×™×§×•×œ ×“×¢×ª, ×œ×œ× ×ª×ž×™×›×”</string>
+    <string name="preference_sustained_performance_title">×”×¤×¢×œ \"×ž×¦×‘ ×ž××•×–×Ÿ\"</string>
+    <string name="preference_sustained_performance_description">×”×’×‘×œ×ª ×”×ª×—×ž×ž×•×ª ×™×ª×¨ ×¢×œ ×™×“×™ ×”×’×‘×œ×ª ×”×‘×™×¦×•×¢×™× ×”×ž×¨×‘×™×™×</string>
+    <string name="preference_force_vsync_title">×œ×›×¤×•×ª ×”×¤×¢×œ×ª vsync</string>
+    <string name="preference_force_vsync_description">×”×’×‘×œ×ª ×”×ª×—×ž×ž×•×ª ×™×ª×¨ ×¢×œ ×™×“×™ ×”×’×‘×œ×ª ×”×‘×™×¦×•×¢×™× ×”×ž×¨×‘×™×™×</string>
+    <string name="preference_force_english_title">××œ×¥ ×©×¤×” ×œ×× ×’×œ×™×ª</string>
+    <string name="preference_force_english_description">×ž××¤×©×¨ ×œ×š ×œ×¨××•×ª ××ª ×”×ž×—×¨×•×–×•×ª ×”×ž×§×•×¨×™×•×ª ×›×¤×™ ×©×ž×ª×•×›× ×Ÿ ×¢×œ ×™×“×™ ×”×ž×¤×ª×—×™×. ×“×•×¨×© ×”×¤×¢×œ×” ×ž×—×“×©.</string>
+    <string name="preference_edit_controls_title">×¢×¨×™×›×ª ×‘×§×¨×™× ×ž×•×ª××ž×•×ª ××™×©×™×ª</string>
+    <string name="preference_edit_controls_summary">×›×•×•× ×Ÿ ××ª ×ž×¢×¨×›×ª ×”×‘×§×¨×” ×›×š ×©×ª×ª××™× ×œ×¦×¨×›×™×š.</string>
+    <string name="preference_category_gyro_controls">×‘×§×¨×™×™ ×’×™×¨×•×¡×§×•×¤</string>
+    <string name="preference_gyro_smoothing_title">××¤×©×¨ ×”×—×œ×§×ª ×’\'×™×¨×•×¡×§×•×¤</string>
+    <string name="preference_gyro_smoothing_description">×”×¤×—×ª ×¨×¢×™×“×•×ª ×ª×ž×•×¨×ª ×¢×™×›×•×‘.</string>
+    <string name="preference_back_title">×—×–×¨×” ××œ ×”×ž×¡×š ×”××—×¨×•×Ÿ</string>
+    <string name="unnamed">×œ×œ× ×©×</string>
+    <string name="profiles_latest_snapshot">×”×¡× ××¤×©×•×˜ ×”×¢×“×›× ×™</string>
+    <string name="profiles_latest_release">×ž×”×“×•×¨×” ×¢×“×›× ×™×ª</string>
+    <string name="profiles_profile_name">×©×</string>
+    <string name="profiles_profile_version">×’×¨×¡×</string>
+    <string name="global_delete">×ž×—×™×§×”</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">×¨×™× ×“×•×¨</string>
+    <string name="notif_channel_name">×›×œ×œ×™</string>
+    <string name="lazy_service_default_title">Brix Launcher Service</string>
+    <string name="use_global_default">(×”×©×ª×ž×© ×‘×”×’×“×¨×•×ª ×‘×¨×™×¨×ª ×”×ž×—×“×œ ×”×’×œ×•×‘×œ×™×•×ª)</string>
+    <string name="default_control">×ž×¤×ª ×‘×§×¨ ×‘×¨×™×¨×ª ×ž×—×“×œ</string>
+    <string name="progresslayout_tasks_in_progress">×ž×©×™×ž×•×ª ×‘×ª×”×œ×™×š%d</string>
+    <string name="notification_terminate">×œ×”×¤×¡×™×§</string>
+    <string name="notification_game_runs">×”×ž×©×—×§ ×¤×•×¢×œ!</string>
+    <string name="folder_dialog_create">×¦×•×¨</string>
+    <string name="folder_dialog_insert_name">×”×›× ×¡ ×©× ×ª×™×§×™×™×”.</string>
+    <string name="folder_fragment_create">×¦×•×¨ ×ª×™×§×™×™×”</string>
+    <string name="folder_fragment_select">×‘×—×¨ ×ª×™×§×™×™×”</string>
+    <string name="main_login_done">×”×ª×—×‘×¨×•×ª ×”×•×©×œ×ž×”.</string>
+    <string name="main_add_account">×”×•×¡×£ ×—×©×‘×•×Ÿ</string>
+    <string name="tasks_ongoing">×ž×©×™×ž×•×ª ×‘×ª×”×œ×™×š, ×× × ×”×ž×ª×Ÿ.</string>
+    <string name="no_saved_accounts">×œ× × ×©×ž×¨ ×—×©×‘×•×Ÿ</string>
+
+    <string name="xerr_unknown">×©×’×™××” ×œ× ×™×“×•×¢×” ×‘×ž×ž×©×§ ×” API ×©×œ Xbox Live: %d</string>
+
+    <string name="xerr_adult_verification">××“× ×‘×•×’×¨ ×¦×¨×™×š ×œ××ž×ª ××ª ×—×©×‘×•× ×š.</string>
+    <string name="xerr_child">×—×©×‘×•×Ÿ ×©×œ×š ×”×•× ×—×©×‘×•×Ÿ ×™×œ×“×™× ×•×¦×¨×™×š ×œ×”×™×›× ×¡ ×œ×ž×©×¤×—×” ×¢×œ ×ž× ×ª ×œ×”×™×›× ×¡.</string>
+
+    <string name="xerr_not_available">Xbox Live ××™× ×• ×–×ž×™×Ÿ ×‘×ž×“×™× ×” ×©×œ×š</string>
+    <string name="preference_enable_gyro_title">××¤×©×¨ ××ª ×‘×§×¨×™ ×”×’\'×™×™×¨×•×¡×§×•×¤</string>
+    <string name="preference_enable_gyro_description">×”×¤×¢×œ×ª ×–×” ×™××¤×©×¨ ×œ×š ×œ×”×¡×ª×•×‘×‘ ×‘×ž×©×—×§ ×¢×œ ×™×“×™ ×¡×™×‘×•×‘ ×”×˜×œ×¤×•×Ÿ.</string>
+    <string name="preference_gyro_sensitivity_title">×¨×’×™×©×•×ª ×‘×§×¨×™ ×—×™×™×©×Ÿ ×”×›×™×•×•×Ÿ</string>
+    <string name="preference_gyro_sensitivity_description">×›×•×•×Ÿ ××ª ×”×¨×’×™×©×•×ª ×©×œ ×‘×§×¨×™ ×—×™×™×©×Ÿ ×›×™×•×•×Ÿ.</string>
+    <string name="toast_turn_on_gyro">×”×¤×¢×œ×• ×§×•×“× ××ª ×‘×§×¨×™ ×—×™×™×©×Ÿ ×”×›×™×•×•×Ÿ ×‘×›×“×™ ×œ×”×©×ª×ž×© ×‘×–×”!</string>
+    <string name="preference_gyro_sample_rate_title">×§×¦×‘ ×“×’×™×ž×ª ×—×™×™×©×Ÿ ×”×›×™×•×•×Ÿ</string>
+    <string name="preference_gyro_sample_rate_description">×× ××ª× ×—×•×•×™× ×‘×¢×™×•×ª ×‘×™×¦×•×¢×™× ×¢× ×‘×§×¨×™ ×—×™×™×©×Ÿ ×”×›×™×•×•×Ÿ, ×”×’×“×™×œ×• ×¢×¨×š ×–×”.</string>
+    <string name="microsoft_login_retry_later">×™×•×ª×¨ ×ž×“×™ ×‘×§×©×•×ª, × ×¡×• ×©×•×‘ ×ž××•×—×¨ ×™×•×ª×¨.</string>
+    <string name="storage_required">Brix Launcher ×“×•×¨×© ××—×¡×•×Ÿ ×—×™×¦×•× ×™ ×ž×—×•×‘×¨. ×× × ×—×‘×¨ ××•×ª×• ×ž×—×“×© ×•×”×¤×¢×œ ×ž×—×“×© ××ª ×”××¤×œ×™×§×¦×™×”.</string>
+    <string name="mcl_setting_title_buttonallcaps">×”×©×ª×ž×© ×‘××•×ª×™×•×ª ×’×“×•×œ×•×ª ×‘×œ×‘×“ ×‘×ª×•×•×™×•×ª ×”×›×¤×ª×•×¨×™×.</string>
+    <string name="mcl_setting_subtitle_buttonallcaps">×”×©×‘×ª ××¤×©×¨×•×ª ×–×• ×× ×‘×¨×¦×•× ×š ×œ×”×©×ª×ž×© ×‘××•×ª×™×•×ª ×§×˜× ×•×ª ×‘×‘×§×¨×™× ×©×œ×š.</string>
+    <string name="preference_shader_dump_title">××¤×©×¨ ×”×©×œ×›×ª ×”×¦×œ×œ×”</string>
+    <string name="preference_shader_dump_description">×¨×™×©×•× ×”×¦×œ×œ×•×ª ×©×”×•×ž×¨×• ×œ×§×•×‘×¥ ×”×™×•×ž×Ÿ.</string>
+    <string name="customctrl_editor_exit_title">×¢×–×™×‘×”?</string>
+    <string name="customctrl_editor_exit_msg">×”×× ××ª×” ×‘×˜×•×— ×©×‘×¨×¦×•× ×š ×œ×¦××ª?</string>
+    <string name="customctrl_editor_exit">×¢×–×•×‘ ××ª ×”×¢×•×¨×š.</string>
+    <string name="global_save_and_exit">×©×ž×•×¨ ×•×¦×</string>
+    <string name="global_yes">×›×Ÿ</string>
+    <string name="global_no">×œ×</string>
+    <string name="preference_controller_map_wiped">×ª×¦×•×¨×ª ×”×‘×§×¨ × ×ž×—×§×”.</string>
+    <string name="preference_category_controller_settings">×”×’×“×¨×•×ª ×‘×§×¨</string>
+    <string name="preference_wipe_controller_title">××™×¤×•×¡ ×ž×™×¤×•×™ ×”×‘×§×¨</string>
+    <string name="preference_wipe_controller_description">×ž××¤×©×¨ ×œ×š ×œ×ž×¤×•×ª ×ž×—×“×© ××ª ×›×¤×ª×•×¨×™ ×”×‘×§×¨.</string>
+    <string name="preference_deadzone_scale_title">×¡×•×œ× ××–×•×¨ ×ž×ª ×©×œ ×’\'×•×™×¡×˜×™×§</string>
+    <string name="preference_deadzone_scale_description">×”×’×“×œ ××ª ×”×¢×¨×š ×× ×”×’\'×•×™×¡×˜×™×§ × ×¡×—×£.</string>
+    <string name="preference_force_big_core_title">×›×¤×” ×¢×œ ×ž× ×•×¢ ×”×¨×™× ×“×•×¨ ×œ×¤×¢×•×œ ×¢×œ ×”×œ×™×‘×” ×”×’×“×•×œ×”.</string>
+
+    <string name="version_select_hint">×‘×—×¨ ×’×¨×¡×”</string>
+    <string name="forge_dl_progress">×ž×•×¨×™×“ ×ž×ª×§×™×Ÿ ×¢×‘×•×¨ %s</string>
+    <string name="forge_dl_searching">×ž×—×¤×© ×ž×¡×¤×¨ ×’×¨×¡×” ×©×œ Forge</string>
+    <string name="modloader_dl_failed_to_load_list">×˜×¢×™× ×ª ×¨×©×™×ž×ª ×”×’×¨×¡××•×ª × ×›×©×œ×”!</string>
+    <string name="forge_dl_no_installer">×ž×¦×˜×¢×¨×™×, ××š ×œ×’×¨×¡×ª Forge ×–×• ××™×Ÿ ×ž×ª×§×™×Ÿ, ×•×”×™× ××™× ×” × ×ª×ž×›×ª ×‘×©×œ×‘ ×–×”.</string>
+    <string name="forge_dl_select_version">×‘×—×¨ ×’×™×¨×¡×ª forge</string>
+    <string name="fabric_dl_progress">×ž×•×¨×™×“ ×ž×˜× × ×ª×•× ×™× ×©×œ ×ž×˜×¢×™×Ÿ %s</string>
+    <string name="fabric_dl_loader_version">×’×¨×¡×ª ×ž×˜×¢×™×Ÿ %s</string>
+    <string name="fabric_dl_game_version">×’×¨×¡×ª ×ž×™× ×§×¨××¤×˜</string>
+    <string name="of_dl_progress">×ž×•×¨×™×“ %s</string>
+    <string name="generic_debug">× ×¤×” ×‘××’×™×</string>
+    <string name="preference_category_java_tweaks">×”×ª××ž×•×ª ×œ- Java</string>
+    <string name="preference_category_miscellaneous">×”×’×“×¨×•×ª ×©×•× ×•×ª</string>
+    <string name="controller_button_select">×‘×—×¨</string>
+</resources>
+

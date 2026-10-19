@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/customctrl_drawerlayout" android:clipChildren="false" android:clipToPadding="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/brix_page">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/brix_page" android:clipChildren="false" android:clipToPadding="false">
+
+        <git.artdeell.mojo.input.handleview.DrawerPullButton
+            android:id="@+id/drawer_button"
+            android:layout_width="50dp"
+            android:layout_height="26dp"
+            android:padding="6dp"
+            android:elevation="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Open modules panel to add / edit controls"
+            android:textColor="#A7ADBB"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/drawer_button" />
+
+        <git.artdeell.mojo.input.ControlLayout
+            android:id="@+id/customctrl_controllayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center" android:padding="5dp" android:background="@drawable/brix_polish_popup" android:elevation="12dp" app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent">
+    <ImageButton android:id="@+id/brix_ctrl_tools_toggle" android:layout_width="36dp" android:layout_height="36dp" android:background="@drawable/brix_polish_icon_button" android:src="@drawable/brix_polish_wrench" android:padding="8dp" android:scaleType="fitCenter" android:contentDescription="Open tools panel"/>
+    <ImageButton android:id="@+id/brix_ctrl_settings_toggle" android:layout_width="36dp" android:layout_height="36dp" android:layout_marginStart="10dp" android:background="@drawable/brix_polish_icon_button" android:src="@drawable/brix_polish_sliders" android:padding="8dp" android:scaleType="fitCenter" android:contentDescription="Open settings panel"/>
+  </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+    
+
+<ListView
+        android:id="@+id/customctrl_navigation_view"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:background="@color/brix_panel"
+        android:divider="@color/brix_border"
+        android:dividerHeight="1dp"
+        android:paddingTop="18dp"
+        android:paddingBottom="18dp" />
+
+    <ListView android:id="@+id/brix_ctrl_left_nav" android:layout_width="245dp" android:layout_height="match_parent" android:layout_gravity="start" android:background="@color/brix_panel" android:divider="#39343B" android:dividerHeight="1dp"/>
+</androidx.drawerlayout.widget.DrawerLayout>

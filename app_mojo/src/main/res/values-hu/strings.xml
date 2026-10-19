@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_login_label">BejelentkezÃ©s</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Ez a fiÃ³k tÃ¶rÃ¶lve lesz!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">Select a mod installer</string>
+    <!-- Error messages -->
+    <string name="error_fatal">A pojavlauncher vÃ¡ratlanul kicrashelt</string>
+    <string name="error_no_version">Nincs verziÃ³!</string>
+    <string name="error_show_more">Mutass tÃ¶bbet</string>
+    <string name="error_show_less">Mutass kevesebbet</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">A tÃ¡rolÃ¡s olvasÃ¡si/Ã­rÃ¡si engedÃ©ly szÃ¼ksÃ©ges!</string>
+    <string name="toast_optifine_success">Az telepÃ­tÃ©s sikeres</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Wiki</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">A gyorsÃ­tÃ³tÃ¡razott fÃ¡jlok tÃ¶rlÃ©se</string>
+    <string name="mcl_launch_downloading">LetÃ¶ltÃ©s%s</string>
+    <string name="mcl_launch_downloading_progress">"Downloading %s (%.2f MB / %.2f MB)
+
+AzonosÃ­tÃ³ (Kulcs): mcl_indÃ­tÃ¡s_letÃ¶ltÃ©s_folyamatban
+mcl_indÃ­tÃ¡s_letÃ¶ltÃ©s_folyamatban"</string>
+    <string name="mcl_launch_download_assets">FelkÃ©szÃ¼lÃ©s az erÅ‘forrÃ¡sok letÃ¶ltÃ©sÃ©re</string>
+    <string name="mcl_options">OpciÃ³k</string>
+    <string name="mcl_option_customcontrol">IrÃ¡nyÃ­tÃ¡s testreszabÃ¡sa</string>
+    <string name="mcl_setting_title_use_surface_view">AlternatÃ­v felÃ¼leti renderelÃ©s hasznÃ¡lata</string>
+    <string name="mcl_setting_subtitle_use_surface_view">SegÃ­theti nÃ¶velni a teljesÃ­tmÃ©nyt GPU-hoz kÃ¶tÃ¶tt eseteknÃ©l.</string>
+    <string name="mcl_setting_title_ignore_notch">BevÃ¡gÃ¡s figyelmen kÃ­vÃ¼l hagyÃ¡sa</string>
+    <string name="mcl_setting_subtitle_ignore_notch">Figyelmen kÃ­vÃ¼l hagyja a bevÃ¡gÃ¡st, Ã©s kiterjeszti a kÃ©pernyÅ‘t alatta.\nJobb Ã©lmÃ©nyt nyÃºjt.</string>
+    <string name="mcl_setting_title_resolution_scaler">FelbontÃ¡s MÃ©retezÅ‘</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">LehetÅ‘vÃ© teszi a felbontÃ¡s csÃ¶kkentÃ©sÃ©t. A 100% teljes felbontÃ¡s.</string>
+    <string name="mcl_setting_title_longpresstrigger">HosszÃº megnyomÃ¡si kÃ©sleltetÃ©s elindÃ­tÃ¡sa</string>
+    <string name="mcl_setting_title_buttonscale">A gombok mÃ©retezÃ©sÃ©t szabÃ¡lyozza</string>
+    <string name="mcl_setting_title_mousescale">EgÃ©r mÃ©retezÃ©se</string>
+    <string name="mcl_setting_subtitle_mousescale">MegvÃ¡ltoztatja a virtuÃ¡lis egÃ©r mÃ©retÃ©t.</string>
+    <string name="mcl_setting_title_javaargs">JVM IndÃ­tÃ¡si argumentumok</string>
+    <string name="mcl_setting_subtitle_javaargs">LÃ©gy Ã³vatos, kifagyasztja a jÃ¡tÃ©kot ha mÃ³dosÃ­tod tudomÃ¡ny nÃ©lkÃ¼l.</string>
+    <string name="mcl_setting_category_renderer">RenderlÅ‘</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (Ã¶sszes verziÃ³, gyors)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (Ã¶sszes verziÃ³, kÃ¶zepes)</string>
+    <string name="mcl_setting_veroption_release">KiadÃ¡s</string>
+    <string name="mcl_setting_veroption_snapshot">PillanatkÃ©p</string>
+    <string name="mcl_setting_veroption_oldalpha">RÃ©gi-alpha</string>
+    <string name="mcl_setting_veroption_oldbeta">RÃ©gi-bÃ©ta</string>
+    <string name="mcl_setting_java_sandbox">Szabad .Jar vÃ©grehajtÃ¡s</string>
+    <string name="mcl_setting_java_sandbox_subtitle">IrÃ¡nyÃ­tja az elÃ©rhetÅ‘sÃ©gÃ©t a szabad biztonsÃ¡g kezelÅ‘nek, mikÅ‘zben vÃ©grehajtasz egy .jar fÃ¡jlt.</string>
+    <string name="mcl_version_clone">MÃ¡solÃ¡s</string>
+    <!-- Global strings -->
+    <string name="global_error">Hiba</string>
+    <string name="global_load">BetÃ¶ltÃ©s</string>
+    <string name="global_name">NÃ©v</string>
+    <string name="global_clone">MÃ¡solÃ¡s</string>
+    <string name="global_restart">ÃšjraindÃ­tÃ¡s</string>
+    <string name="global_save">MentÃ©s</string>
+    <string name="global_unpacking">KicsomagolÃ¡s %s</string>
+    <string name="global_error_field_empty">Ezt a mezÅ‘t kÃ¶telezÅ‘ kitÃ¶lteni</string>
+    <string name="global_waiting">KÃ©rem vÃ¡rjon</string>
+    <string name="global_select">KivÃ¡lasztÃ¡s</string>
+    <string name="global_retry">PrÃ³bÃ¡ld Ãºjra</string>
+    <string name="global_default">AlapÃ©rtelmezett</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">Application/Game kilÃ©pett %d kÃ³ddal, nÃ©zd meg a latestlog.txt tÃ¶bb rÃ©szletÃ©rt.</string>
+    <string name="mcn_exit_confirm">Biztosan ki akarsz lÃ©pni?</string>
+    <string name="mcn_check_fail_vulkan_support">Zink (Vulkan) renderelÅ‘ nem tÃ¡moatott ezen az eszkÃ¶zÃ¶n!</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">CsevegÃ©s</string>
+    <string name="control_debug">HibakeresÃ©s</string>
+    <string name="control_primary">LMB</string>
+    <string name="control_secondary">RMB</string>
+    <string name="control_shift">Shift</string>
+    <string name="control_inventory">Eszk</string>
+    <string name="control_up">W</string>
+    <string name="control_left">A</string>
+    <string name="control_right">D</string>
+    <string name="control_down">S</string>
+    <string name="control_jump">UgrÃ¡s</string>
+    <string name="control_thirdperson">KÃ¼lsÅ‘ nÃ©zet</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">EgÃ©r</string>
+    <string name="control_mouseoff">EgÃ©r: ki</string>
+    <string name="control_mouseon">EgÃ©r: be </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">KÃ©nyszerÃ­tett bezÃ¡rÃ¡s</string>
+    <string name="control_viewout">NaplÃ³ kimenet</string>
+    <string name="control_adebug">Bemenet HibakeresÃ©s</string>
+    <string name="control_customkey">SajÃ¡t kÃ³d kÃ¼ldÃ©se</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">IrÃ¡nyÃ­tÃ¡s importÃ¡lÃ¡sa</string>
+    <string name="import_control_invalid_file">Ã‰rvÃ©nytelen vagy hibÃ¡s fÃ¡jl</string>
+    <string name="import_control_import_button">IrÃ¡nyÃ­tÃ¡s importÃ¡lÃ¡sa</string>
+    <string name="import_control_verifying_file">A fÃ¡jl igazolÃ¡s alatt Ã¡ll, prÃ³bÃ¡ld Ãºjra kÃ©sÃ¶bbâ€¦</string>
+    <string name="import_control_invalid_name">Helytelen nÃ©v vagy fÃ¡jl mÃ¡r lÃ©tezik</string>
+    <string name="import_control_done">ImportÃ¡ciÃ³ kÃ©sz</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">KapcsolhatÃ³</string>
+    <string name="customctrl_size">MÃ©ret</string>
+    <string name="customctrl_mapping">HozzÃ¡rendelÃ©s</string>
+    <string name="customctrl_orientation">TÃ¡jolÃ¡s</string>
+    <string name="customctrl_background_color">HÃ¡ttÃ©r szÃ­ne</string>
+    <string name="customctrl_corner_radius">Sarkok Ã¡tmÃ©rÅ‘je</string>
+    <string name="customctrl_stroke_width">KÃ¶rvonal szÃ©lessÃ©ge</string>
+    <string name="customctrl_button_opacity">Gomb Ã¡tlÃ¡tszÃ³sÃ¡ga</string>
+    <string name="customctrl_addbutton">Gomb hozzÃ¡adÃ¡sa</string>
+    <string name="customctrl_addbutton_joystick">Joystick hozzÃ¡adÃ¡sa</string>
+    <string name="customctrl_addsubbutton">Al-gomb hozzÃ¡adÃ¡sa</string>
+    <string name="customctrl_selectdefault">Alap irÃ¡nyÃ­tÃ¡si tÃ©rkÃ©p kivÃ¡lasztÃ¡sa</string>
+    <string name="customctrl_export">IrÃ¡nyÃ­tÃ¡si tÃ©rkÃ©p exportÃ¡lÃ¡sa</string>
+    <string name="main_share_logs">NaplÃ³ fÃ¡l megosztÃ¡sa</string>
+    <string name="main_install_jar_file">.Jar vÃ©grehajtÃ¡sa</string>
+    <string name="main_play">JÃ¡tÃ©k</string>
+    <string name="autoram_info_msg">MemÃ³ria beÃ¡llÃ­tva %d MB-ra</string>
+    <string name="mcl_setting_check_libraries">KÃ¶nyvtÃ¡rak ellenÅ‘rzÃ©se letÃ¶ltÃ©s utÃ¡n</string>
+    <string name="mcl_setting_check_libraries_subtitle">Ez az opciÃ³ arra kÃ©nyszerÃ­ti az indÃ­tÃ³t, hogy ellenÅ‘rizze a kÃ¶nyvtÃ¡r hash-t, ha elÃ©rhetÅ‘. MeggÃ¡tolja a hibÃ¡s letÃ¶ltÃ©seket.</string>
+    <string name="dl_library_sha_fail">KÃ¶nyvtÃ¡r %s sÃ©rÃ¼lt Ã©s Ãºjra le lesz tÃ¶ltve</string>
+    <string name="memory_warning_msg">A jelenlegi szabad memÃ³ria (%d) kevesebb a kiosztottnÃ¡l (%d), ami kifagyÃ¡sokhoz vezethet. VÃ¡ltoztass a kiosztÃ¡son ha ez tÃ¶rtÃ©nik.</string>
+    <string name="mcl_memory_allocation">MemÃ³ria kiosztÃ¡s</string>
+
+    <string name="multirt_runtime_corrupt">SÃ©rÃ¼lt Java Runtime</string>
+    <string name="multirt_runtime_incompatiblearch">Nem kompatibilis architektÃºra: %s</string>
+    <string name="multirt_config_title">Java FutÃ¡si idÅ‘k</string>
+    <string name="multirt_config_add">Ãšj hozzÃ¡adÃ¡sa</string>
+    <string name="multirt_title">FutÃ¡si idÅ‘ kezelÅ‘</string>
+    <string name="multirt_subtitle">TelepÃ­tett Java FutÃ¡si idÅ‘k kezelÃ©se.</string>
+    <string name="multirt_progress_caching">GyorsÃ­tÃ³tÃ¡razÃ¡s...</string>
+    <string name="multirt_config_setdefault">AlapÃ©rtelmezett beÃ¡llÃ­tÃ¡sa</string>
+    <string name="multirt_config_setdefault_already">AlapÃ©rtelmezett</string>
+    <string name="multirt_config_removeerror_last">TelepÃ­tve kell, hogy legyen minimum egy Java futÃ¡si idÅ‘.</string>
+    <string name="multirt_nojava8rt">Nem talÃ¡lhatÃ³ a Java 8. Hogy ezt az opciÃ³t hasznÃ¡lhasd, elÅ‘szÃ¶r telepÃ­tened kell a Java 8 at.</string>
+    <string name="multirt_delete_runtime">FutÃ¡si idÅ‘ tÃ¶rlÃ©se</string>
+    <string name="pvc_jvmArgs">JVM argumentumok</string>
+    <string name="preference_mouse_start_title">IndÃ­tÃ¡s bekapcsolt virtuÃ¡lis egÃ©rrel</string>
+    <string name="preference_mouse_start_description">A virtuÃ¡lis egÃ©r indÃ­tÃ¡skor megjelenik, ha ez az opciÃ³ be van kapcsolva.</string>
+    <string name="preference_video_title">VideÃ³ Ã©s renderlÅ‘</string>
+    <string name="preference_video_description">FelbontÃ¡s, renderlÅ‘ Ã©s teljesÃ­tmÃ©ny</string>
+    <string name="preference_control_title">IrÃ¡nyÃ­tÃ¡s testreszabÃ¡sa</string>
+    <string name="preference_control_description">GesztÃºrÃ¡k, gombok Ã©s mÃ©retezÃ©s</string>
+    <string name="preference_java_title">Java Tweak ek</string>
+    <string name="preference_misc_title">EgyÃ©b beÃ¡llÃ­tÃ¡sok</string>
+    <string name="profiles_profile_name">NÃ©v</string>
+    <string name="pedit_renderer">RenderlÅ‘</string>
+    <string name="of_dl_progress">LetÃ¶ltÃ©s%s</string>
+    <string name="generic_debug">HibakeresÃ©s</string>
+    <string name="preference_category_java_tweaks">Java Tweak ek</string>
+    <string name="preference_category_miscellaneous">EgyÃ©b beÃ¡llÃ­tÃ¡sok</string>
+    <string name="controller_button_select">KivÃ¡lasztÃ¡s</string>
+</resources>
+

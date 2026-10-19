@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="background_app">#FF0B0D11</color>
+  <color name="background_overlay">#FF171A21</color>
+  <color name="background_status_bar">#FF0B0D11</color>
+  <color name="background_bottom_bar">#FF12141A</color>
+  <color name="primary_text">#FFFFFFFF</color>
+  <color name="secondary_text">#FFBBC0CD</color>
+  <color name="minebutton_secondary">#FF21242A</color>
+</resources>

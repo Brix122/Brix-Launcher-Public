@@ -1,0 +1,4 @@
+﻿Brix Launcher is an independent third-party launcher project.
+It is not affiliated with, endorsed by, or sponsored by Mojang or Microsoft.
+All third-party trademarks remain the property of their respective owners.
+Use only with game files, mods, assets, and accounts you are authorized to use.

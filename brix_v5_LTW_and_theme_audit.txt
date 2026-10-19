@@ -1,0 +1,5 @@
+LTW CHECKS (source Java):
+app_mojo\src\main\java\git\artdeell\mojo\game\renderer\def\Renderers.java:4: public static final String LTW_RENDERER = "opengles3_ltw";
+
+LEFTOVER OLD UI COLORS:
+No listed old colors found.

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="brix_page">#FFF6F7FA</color>
+  <color name="brix_header">#FFFFFFFF</color>
+  <color name="brix_panel">#FFFFFFFF</color>
+  <color name="brix_tile">#FFF0F2F6</color>
+  <color name="brix_tile_pressed">#FFFFE3E8</color>
+  <color name="brix_border">#FFD7DCE5</color>
+  <color name="brix_text">#FF181B23</color>
+  <color name="brix_subtext">#FF646B78</color>
+  <color name="brix_accent">#FFE40C27</color>
+  <color name="brix_icon_color">#FF2D3342</color>
+  <color name="brix_panel_border">#FFE4BBC4</color>
+  <color name="brix_selected">#FFFFE0E5</color>
+</resources>
+

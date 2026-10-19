@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_username_hint">KullanÄ±cÄ± AdÄ±</string>
+    <string name="login_online_login_label">GiriÅŸ yap</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Bu hesap kaldÄ±rÄ±lacak!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">Bir mod yÃ¼kleyicisi seÃ§</string>
+    <!-- Error messages -->
+    <string name="error_fatal">Brix Launcher beklenmedik bir sebepten dolayÄ± Ã§Ã¶ktÃ¼</string>
+    <string name="error_no_version">SÃ¼rÃ¼m yok!</string>
+    <string name="error_show_more">Daha fazla gÃ¶ster</string>
+    <string name="error_show_less">Daha az gÃ¶ster</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">Depolamaya okuma/yazma izni gerekli!</string>
+    <string name="toast_optifine_success">YÃ¼kleme baÅŸarÄ±lÄ±</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Wiki</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">Ã–nbellek dosyalarÄ± temizleniyor</string>
+    <string name="mcl_launch_downloading">%s indiriliyor</string>
+    <string name="mcl_launch_downloading_progress">"%s indiriliyor (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">Kaynaklar yÃ¼klenmeye hazÄ±rlanÄ±lÄ±yor</string>
+    <string name="mcl_options">SeÃ§enekler</string>
+    <string name="mcl_option_customcontrol">Ã–zel kontroller</string>
+    <string name="mcl_setting_title_use_surface_view">Alternatif yÃ¼zey iÅŸleyicisi kullan</string>
+    <string name="mcl_setting_subtitle_use_surface_view">GPU\'ya baÄŸlÄ± durumlarda performansÄ± arttÄ±rabilir.</string>
+    <string name="mcl_setting_title_ignore_notch">Ã‡entiÄŸi gÃ¶rmezden gel</string>
+    <string name="mcl_setting_subtitle_ignore_notch">Ã‡entiÄŸi gÃ¶rmezden gelir ve ekranÄ± kameranÄ±n yanÄ±na geniÅŸletir.\nDaha sÃ¼rÃ¼kleyici bir deneyim sunar.</string>
+    <string name="mcl_setting_title_resolution_scaler">Ã‡Ã¶zÃ¼nÃ¼rlÃ¼k Ã–lÃ§ekleyicisi</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">Oyun Ã§Ã¶zÃ¼nÃ¼rlÃ¼ÄŸÃ¼nÃ¼ dÃ¼ÅŸÃ¼rmenizi saÄŸlar. %100 full Ã§Ã¶zÃ¼nÃ¼rlÃ¼ktÃ¼r.</string>
+    <string name="mcl_setting_title_longpresstrigger">Uzun basma tetiklenme gecikmesi</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">BloklarÄ± yok etmek ve eÅŸyalarÄ± dÃ¼ÅŸÃ¼rmek iÃ§in uzun basma tetiklenme gecikmesini deÄŸiÅŸtirin.</string>
+    <string name="mcl_setting_title_buttonscale">DÃ¼ÄŸmelerin Ã¶lÃ§eklemesini ayarla</string>
+    <string name="mcl_setting_subtitle_buttonscale">EÄŸer dÃ¼ÄŸmeler Ã§ok kÃ¼Ã§Ã¼kse bÃ¼yÃ¼tÃ¼n.</string>
+    <string name="mcl_setting_title_mousescale">Ä°mleÃ§ Ã¶lÃ§eklemesi</string>
+    <string name="mcl_setting_subtitle_mousescale">Sanal farenin boyutunu ayarlayÄ±n.</string>
+    <string name="mcl_setting_title_javaargs">JVM BaÅŸlatÄ±cÄ± argÃ¼manlarÄ±</string>
+    <string name="mcl_setting_subtitle_javaargs">Dikkatli olun, eÄŸer bilgisizce deÄŸiÅŸtirilirse oyunun Ã§Ã¶kmesine sebep olabilir.</string>
+    <string name="mcl_setting_category_renderer">GÃ¶rÃ¼ntÃ¼ Ä°ÅŸleyici</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (bÃ¼tÃ¼n sÃ¼rÃ¼mler, hÄ±zlÄ±)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">Zink (Vulkan) - (tÃ¼m sÃ¼rÃ¼mler iÃ§in, orta)</string>
+    <string name="mcl_setting_veroption_release">SÃ¼rÃ¼mler</string>
+    <string name="mcl_setting_veroption_snapshot">Test sÃ¼rÃ¼mleri</string>
+    <string name="mcl_setting_veroption_oldalpha">Eski-alfa</string>
+    <string name="mcl_setting_veroption_oldbeta">Eski-beta</string>
+    <string name="mcl_setting_java_sandbox">Sandbox .jar yÃ¼rÃ¼tme</string>
+    <string name="mcl_setting_java_sandbox_subtitle">Bir .jar dosyasÄ±nÄ± Ã§alÄ±ÅŸtÄ±rÄ±rken sandbox gÃ¼venlik yÃ¶neticisinin kullanÄ±labilirliÄŸini kontrol edin.</string>
+    <string name="mcl_version_clone">Klonla</string>
+    <!-- Global strings -->
+    <string name="global_edit">DÃ¼zenle</string>
+    <string name="global_error">Hata</string>
+    <string name="global_load">YÃ¼kle</string>
+    <string name="global_name">Ä°sim</string>
+    <string name="global_remove">KaldÄ±r</string>
+    <string name="global_clone">Klonla</string>
+    <string name="global_restart">Yeniden baÅŸlat</string>
+    <string name="global_save">Kaydet</string>
+    <string name="global_unpacking">%s Paketten Ã§Ä±karÄ±lÄ±yor</string>
+    <string name="global_error_field_empty">Bu alan boÅŸ bÄ±rakÄ±lamaz</string>
+    <string name="global_waiting">Bekleyin</string>
+    <string name="global_select">SeÃ§</string>
+    <string name="global_retry">Tekrar deneyin</string>
+    <string name="global_default">VarsayÄ±lan</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">Uygulama/Oyundan %d koduyla Ã§Ä±kÄ±ldÄ±, daha fazla bilgi iÃ§in latestlog.txt\'ye bakÄ±n.</string>
+    <string name="mcn_exit_confirm">Zorla kapatmak istediÄŸinize emin misiniz?</string>
+    <string name="mcn_check_fail_vulkan_support">Zink (Vulkan) iÅŸleyicisi bu cihazda desteklenmiyor!</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Sohbet</string>
+    <string name="control_debug">Hata AyÄ±klama</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Sec</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_inventory">Env</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">3rd</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Ä°mleÃ§</string>
+    <string name="control_mouseoff">Ä°mleÃ§: kapalÄ±</string>
+    <string name="control_mouseon">Ä°mleÃ§: aÃ§Ä±k </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">Kapatmaya zorla</string>
+    <string name="control_viewout">Konsol Ã§Ä±ktÄ±sÄ±</string>
+    <string name="control_adebug">Girdi hata ayÄ±klamasÄ±</string>
+    <string name="control_customkey">Ã–zel anahtar kodu gÃ¶nder</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">Kontrolleri iÃ§eri aktar</string>
+    <string name="import_control_invalid_file">GeÃ§ersiz veya bozuk dosya</string>
+    <string name="import_control_import_button">kontrolleri iÃ§eri aktar</string>
+    <string name="import_control_verifying_file">Dosya ÅŸu anda doÄŸrulanÄ±yor, lÃ¼tfen bekleyin ve tekrar deneyinâ€¦</string>
+    <string name="import_control_invalid_name">GeÃ§ersiz isim ya da dosya zaten var</string>
+    <string name="import_control_done">Ä°Ã§eri aktarma tamamlandÄ±</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_toggle">AÃ§Ä±lÄ±p kapanabilir</string>
+    <string name="customctrl_size">Boyut</string>
+    <string name="customctrl_mapping">Atama</string>
+    <string name="customctrl_orientation">YÃ¶n</string>
+    <string name="customctrl_background_color">Arkaplan rengi</string>
+    <string name="customctrl_corner_radius">KÃ¶ÅŸe yarÄ±Ã§apÄ±</string>
+    <string name="customctrl_stroke_width">Vurgu geniÅŸliÄŸi</string>
+    <string name="customctrl_stroke_color">Vurgu rengi</string>
+    <string name="customctrl_button_opacity">DÃ¼ÄŸme saydamlÄ±ÄŸÄ±</string>
+    <string name="customctrl_addbutton">DÃ¼ÄŸme ekle</string>
+    <string name="customctrl_addbutton_drawer">DÃ¼ÄŸme saklama menÃ¼sÃ¼ ekle</string>
+    <string name="customctrl_addbutton_joystick">Joystick ekle</string>
+    <string name="customctrl_addsubbutton">Yan-dÃ¼ÄŸme ekle</string>
+    <string name="customctrl_selectdefault">VarsayÄ±lan kontrolleri seÃ§</string>
+    <string name="customctrl_export">Kontrolleri dÄ±ÅŸa aktar</string>
+    <string name="main_share_logs">GÃ¼nlÃ¼k (log) dosyasÄ±nÄ± paylaÅŸ</string>
+    <string name="main_install_jar_file">Bir .jar dosyasÄ± Ã§alÄ±ÅŸtÄ±r</string>
+    <string name="main_play">Oyna</string>
+    <string name="autoram_info_msg">Bellek %d MB olarak ayarlandÄ±</string>
+    <string name="mcl_setting_check_libraries">Ä°ndirmeden sonra kÃ¼tÃ¼phaneleri kontrol et</string>
+    <string name="mcl_setting_check_libraries_subtitle">Bu seÃ§enek mÃ¼mkÃ¼nse baÅŸlatÄ±cÄ±yÄ± kÃ¼tÃ¼phane hash\'ini kontrol etmeye zorlar. Bozuk indirmeleri engeller.</string>
+    <string name="dl_library_sha_fail">\"%s\" kÃ¼tÃ¼phanesi hasarlÄ± ve yeniden indirilecek</string>
+    <string name="dl_library_sha_unknown">\"%s\" kÃ¼tÃ¼phanesi kontrol edilemiyor, dÃ¼zgÃ¼n olduÄŸu varsayÄ±lacak</string>
+    <string name="dl_library_sha_pass">\"%s\" kÃ¼tÃ¼phanesi iyi durumda ve kullanÄ±labilir</string>
+    <string name="mcl_disable_gestures">Hareketleri devre dÄ±ÅŸÄ± bÄ±rak</string>
+    <string name="mcl_disable_gestures_subtitle">Blok kÄ±rmak iÃ§in basÄ±lÄ± tutma ve blok koymak iÃ§in dokunma gibi hareketleri devre dÄ±ÅŸÄ± bÄ±rakÄ±r.</string>
+    <string name="mcl_disable_swap_hand">El deÄŸiÅŸtirmek iÃ§in Ã§ift dokunmayÄ± devre dÄ±ÅŸÄ± bÄ±rak</string>
+    <string name="mcl_disable_swap_hand_subtitle">Ä°kinci elde deÄŸiÅŸtirmek iÃ§in kÄ±sayol Ã§ubuÄŸu Ã¶gesine iki kez dokunmayÄ± devre dÄ±ÅŸÄ± bÄ±rakÄ±r.</string>
+    <string name="mcl_setting_title_mousespeed">Ä°mleÃ§ HÄ±zÄ±</string>
+    <string name="mcl_setting_subtitle_mousespeed">Sanal farenin hÄ±zÄ±nÄ± ayarlar.</string>
+    <string name="customctrl_passthru">Ä°mleÃ§ geÃ§iÅŸi</string>
+    <string name="customctrl_swipeable">KaydÄ±rÄ±labilir</string>
+    <string name="customctrl_forward_lock">Ä°leri kilit</string>
+    <string name="customctrl_absolute_tracking">Mutlak parmak takibi</string>
+    <string name="memory_warning_msg">Åžuanki boÅŸ bellek (%d) verilecek bellekten (%d) daha az, bu durum Ã§Ã¶kmelere sebep olabilir. EÄŸer oyun Ã§Ã¶kerse verilen belleÄŸi deÄŸiÅŸtirin.</string>
+    <string name="mcl_memory_allocation">Bellek ayÄ±rma</string>
+
+    <string name="multirt_runtime_corrupt">Bozuk Java Runtime</string>
+    <string name="multirt_runtime_incompatiblearch">Uyumsuz mimari: %s</string>
+    <string name="multirt_config_title">Java Runtime\'lar</string>
+    <string name="multirt_config_add">Yeni ekle</string>
+    <string name="multirt_title">Runtime YÃ¶neticisi</string>
+    <string name="multirt_subtitle">YÃ¼klÃ¼ Java Runtime\'larÄ±nÄ± yÃ¶net.</string>
+    <string name="multirt_progress_caching">Ã–nbelleÄŸe alÄ±nÄ±yor...</string>
+    <string name="multirt_config_setdefault">VarsayÄ±lan olarak ayarla</string>
+    <string name="multirt_config_setdefault_already">VarsayÄ±lan</string>
+    <string name="multirt_config_removeerror_last">En az bir Java Runtime\'Ä±n kurulu olmasÄ± gerekmektedir.</string>
+    <string name="multirt_nojava8rt">Java 8 bulunamadÄ±. Bu seÃ§eneÄŸi kullanabilmeniz iÃ§in Java 8 kurmanÄ±z gerekiyor.</string>
+    <string name="multirt_delete_runtime">Runtime\'Ä± sil</string>
+    <string name="pvc_gameDirectory">Oyun dizini</string>
+    <string name="pvc_jvmArgs">JVM deÄŸiÅŸkenleri</string>
+    <string name="preference_mouse_start_title">Sanal imleÃ§ aÃ§Ä±k olarak baÅŸla</string>
+    <string name="preference_mouse_start_description">Bu seÃ§enek aÃ§Ä±k olduÄŸunda, baÅŸlangÄ±Ã§ta Sanal Fare gÃ¶rÃ¼nÃ¼r olacak.</string>
+    <string name="preference_video_title">Video ve gÃ¶rÃ¼ntÃ¼ iÅŸleyici</string>
+    <string name="preference_video_description">Ã‡Ã¶zÃ¼nÃ¼rlÃ¼k, iÅŸleyici ve performans</string>
+    <string name="preference_control_title">Kontrol Ã¶zelleÅŸtirmesi</string>
+    <string name="preference_control_description">Hareketler, butonlar ve Ã¶lÃ§eklendirme</string>
+    <string name="preference_java_title">Java AyarlamalarÄ±</string>
+    <string name="preference_java_description">Java Runtime\'larÄ±, JVM DeÄŸiÅŸkenleri, RAM miktarÄ± ve sandbox</string>
+    <string name="preference_misc_title">Ã‡eÅŸitli ayarlar</string>
+    <string name="preference_misc_description">SÃ¼rÃ¼m listesi ve kÃ¼tÃ¼phane kontrolÃ¼</string>
+    <string name="preference_experimental_title">Deneysel Ayarlar</string>
+    <string name="preference_experimental_description">Buradaki ayarlarÄ± dÃ¼ÅŸÃ¼nerek kullanÄ±n, destek yoktur</string>
+    <string name="preference_sustained_performance_title">KÄ±sÄ±tlÄ± performans modunu aÃ§</string>
+    <string name="preference_sustained_performance_description">Ãœst performansÄ± kÄ±sÄ±tlayarak Ä±sÄ±nmayÄ± limitle.</string>
+    <string name="preference_force_vsync_title">VSync\'i zorla</string>
+    <string name="preference_force_vsync_description">Ãœst performansÄ± kÄ±sÄ±tlayarak Ä±sÄ±nmayÄ± limitle.</string>
+    <string name="preference_force_english_title">Dili ingilizce\'ye zorla</string>
+    <string name="preference_force_english_description">GeliÅŸtiriciler tarafÄ±ndan amaÃ§lanan orijinal yazÄ±larÄ± gÃ¶rmenizi saÄŸlar. Yeniden baÅŸlatma gerektirir.</string>
+    <string name="preference_edit_controls_title">Ã–zel kontrolleri dÃ¼zenle</string>
+    <string name="preference_edit_controls_summary">Ä°htiyaÃ§larÄ±nÄ±za gÃ¶re kontrol ÅŸemasÄ±nÄ± ayarlayÄ±n.</string>
+    <string name="preference_category_gyro_controls">Jiroskop kontrolleri</string>
+    <string name="preference_category_virtual_mouse">Sanal Fare</string>
+    <string name="preference_gyro_invert_x_axis">X eksenini ters Ã§evir</string>
+    <string name="preference_gyro_invert_y_axis">Y eksenini tersine Ã§evir</string>
+    <string name="preference_gyro_invert_x_axis_description">Yatay ekseni ters Ã§evir.</string>
+    <string name="preference_gyro_invert_y_axis_description">Dikey ekseni ters Ã§evir.</string>
+    <string name="preference_gyro_smoothing_title">Jiroskopik yumuÅŸatmayÄ± etkinleÅŸtir</string>
+    <string name="preference_gyro_smoothing_description">Gecikme karÅŸÄ±lÄ±ÄŸÄ±nda titremeyi azaltÄ±n.</string>
+    <string name="preference_back_title">Son ekrana geri dÃ¶n</string>
+    <string name="unnamed">AdsÄ±z</string>
+    <string name="profiles_latest_snapshot">En son test sÃ¼rÃ¼mÃ¼</string>
+    <string name="profiles_latest_release">En son sÃ¼rÃ¼m</string>
+    <string name="profiles_profile_name">Ä°sim</string>
+    <string name="profiles_profile_version">SÃ¼rÃ¼m</string>
+    <string name="global_delete">Sil</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">GÃ¶rÃ¼ntÃ¼ Ä°ÅŸleyici</string>
+    <string name="notif_channel_name">Genel</string>
+    <string name="lazy_service_default_title">Brix Launcher Service</string>
+    <string name="mcl_setting_veroption_installed">Kuruldu</string>
+    <string name="use_global_default">(Genel varsayÄ±lanÄ± kullan)</string>
+    <string name="default_control">VarsayÄ±lan kontroller</string>
+    <string name="progresslayout_tasks_in_progress">%d tane gÃ¶rev devam etmekte</string>
+    <string name="notification_terminate">SonlandÄ±r</string>
+    <string name="notification_game_runs">Oyun ÅŸu anda Ã§alÄ±ÅŸÄ±yor!</string>
+    <string name="folder_dialog_create">OluÅŸtur</string>
+    <string name="folder_dialog_insert_name">Dosya ismini girin</string>
+    <string name="folder_fragment_create">KlasÃ¶r OluÅŸtur</string>
+    <string name="folder_fragment_select">KlasÃ¶r seÃ§</string>
+    <string name="main_login_done">GiriÅŸ tamamlandÄ±</string>
+    <string name="main_add_account">Hesap Ekle</string>
+    <string name="tasks_ongoing">GÃ¶revler devam etmekte, lÃ¼tfen bekleyin</string>
+    <string name="no_saved_accounts">KayÄ±tlÄ± hesap yok</string>
+
+    <string name="xerr_unknown">Bilinmeyen XBOX Live API hatasÄ± %d</string>
+
+    <string name="xerr_adult_verification">Bir yetiÅŸkinin hesabÄ±nÄ±zÄ± onaylamasÄ± gerekiyor.</string>
+    <string name="xerr_child">HesabÄ±nÄ±z bir Ã§ocuk hesabÄ± ve giriÅŸ yapabilmek iÃ§in bir aileye eklenmesi gerekiyor.</string>
+
+    <string name="xerr_not_available">Xbox Live Ã¼lkenizde mevcut deÄŸil</string>
+    <string name="preference_enable_gyro_title">Jiroskop kontrollerini etkinleÅŸtir</string>
+    <string name="preference_enable_gyro_description">Bunu etkinleÅŸtirmek, telefonunuzu Ã§evirerek oyun iÃ§i dÃ¶nÃ¼ÅŸ yapmanÄ±zÄ± saÄŸlayacaktÄ±r.</string>
+    <string name="preference_gyro_sensitivity_title">Jiroskop kontrolleri hassaslÄ±ÄŸÄ±</string>
+    <string name="preference_gyro_sensitivity_description">Jiroskop kontrollerinin hassaslÄ±ÄŸÄ±nÄ± ayarlayÄ±n.</string>
+    <string name="toast_turn_on_gyro">Bunu kullanabilmek iÃ§in ilk olarak Jiroskop ayarlarÄ±nÄ± etkinleÅŸtirin!</string>
+    <string name="preference_gyro_sample_rate_title">Jiroskop Ã¶rnekleme oranÄ±</string>
+    <string name="preference_gyro_sample_rate_description">EÄŸer jiroskop kontrolleriyle performans probleminiz varsa bunu arttÄ±rÄ±n.</string>
+    <string name="microsoft_login_retry_later">Ã‡ok fazla istek, LÃ¼tfen daha sonra tekrar deneyin.</string>
+    <string name="storage_required">Brix Launcher harici depolama biriminin baÄŸlÄ± olmasÄ±nÄ± gerektirir. LÃ¼tfen yeniden baÄŸlayÄ±n ve uygulamayÄ± yeniden baÅŸlatÄ±n.</string>
+    <string name="mcl_setting_title_buttonallcaps">DÃ¼ÄŸme etiketlerinde yalnÄ±zca bÃ¼yÃ¼k harfler kullanÄ±n</string>
+    <string name="mcl_setting_subtitle_buttonallcaps">Kontrollerinizde kÃ¼Ã§Ã¼k harfler kullanmak istiyorsanÄ±z bunu devre dÄ±ÅŸÄ± bÄ±rakÄ±n.</string>
+    <string name="preference_shader_dump_title">GÃ¶lgelendirici bilgi gÃ¶stergesini etkinleÅŸtir</string>
+    <string name="preference_shader_dump_description">DÃ¶nÃ¼ÅŸtÃ¼rÃ¼len shader\'larÄ± gÃ¼nlÃ¼k dosyasÄ±na (log\'a) kaydedin.</string>
+    <string name="percent_format">%d%%</string>
+    <string name="customctrl_editor_exit_title">Ã‡Ä±kÄ±lsÄ±n mÄ±?</string>
+    <string name="customctrl_editor_exit_msg">Ã‡Ä±kmak istediÄŸinizden emin misiniz?</string>
+    <string name="customctrl_editor_exit">DÃ¼zenleyici\'den Ã§Ä±k</string>
+    <string name="global_save_and_exit">Kaydet ve Ã§Ä±k</string>
+    <string name="global_yes">Evet</string>
+    <string name="global_no">HayÄ±r</string>
+    <string name="preference_controller_map_wiped">KontrolcÃ¼ yapÄ±landÄ±rmasÄ± silindi.</string>
+    <string name="preference_category_controller_settings">KontrolcÃ¼ ayarlarÄ±</string>
+    <string name="preference_wipe_controller_title">KontrolcÃ¼ atamalarÄ±nÄ± sÄ±fÄ±rla</string>
+    <string name="preference_wipe_controller_description">Kontrol dÃ¼ÄŸmelerini yeniden atamanÄ±zÄ± saÄŸlar.</string>
+    <string name="preference_deadzone_scale_title">Joystick Ã¶lÃ¼ bÃ¶lge Ã¶lÃ§eÄŸi</string>
+    <string name="preference_deadzone_scale_description">Joystick kayÄ±yorsa artÄ±rÄ±n.</string>
+    <string name="preference_force_big_core_title">Ä°ÅŸleyiciyi ana Ã§ekirdekte Ã§alÄ±ÅŸmaya zorla</string>
+
+    <string name="version_select_hint">Bir SÃ¼rÃ¼m SeÃ§in</string>
+    <string name="forge_dl_progress">%s iÃ§in yÃ¼kleyici indiriliyor</string>
+    <string name="forge_dl_searching">Forge sÃ¼rÃ¼m numarasÄ± aranÄ±yor</string>
+    <string name="modloader_dl_failed_to_load_list">SÃ¼rÃ¼m listesi yÃ¼klenemedi!</string>
+    <string name="forge_dl_no_installer">ÃœzgÃ¼nÃ¼z, bu Forge sÃ¼rÃ¼mÃ¼nÃ¼n yÃ¼kleyicisi olmadÄ±ÄŸÄ±ndan desteklenmemektedir.</string>
+    <string name="forge_dl_select_version">Forge sÃ¼rÃ¼mÃ¼nÃ¼ seÃ§</string>
+    <string name="fabric_dl_progress">%s yÃ¼kleyici meta verileri indiriliyor</string>
+    <string name="fabric_dl_loader_version">%s yÃ¼kleyici sÃ¼rÃ¼mÃ¼</string>
+
+    <string name="fabric_dl_install">YÃ¼kle</string>
+    <string name="fabric_dl_cant_read_meta">%s yÃ¼kleyici meta verileri okunamadÄ±. LÃ¼tfen daha sonra tekrar deneyin.</string>
+    <string name="create_profile_vanilla_like_versions">Vanilla usÃ¼lÃ¼ sÃ¼rÃ¼mler</string>
+    <string name="create_profile_modded_versions">Modlu sÃ¼rÃ¼mler</string>
+    <string name="fabric_dl_loader_title">SÃ¼rÃ¼mleri seÃ§iniz</string>
+    <string name="of_dl_select_version">OptiFine sÃ¼rÃ¼mÃ¼ seÃ§iniz</string>
+    <string name="of_dl_failed_to_scrape">OptiFine yÃ¼klemesi iÃ§in veri toplanamadÄ±</string>
+    <string name="of_dl_progress">%s indiriliyor</string>
+    <string name="hint_search_modpack">Mod paketleri arayÄ±n</string>
+    <string name="preference_vulkan_driver_system_title">Sistem Vulkan sÃ¼rÃ¼cÃ¼sÃ¼nÃ¼ kullan</string>
+    <string name="preference_vulkan_driver_system_description">BaÅŸlatÄ±cÄ±yÄ± Adreno GPU\'lardaki Turnip yerine sistem Vulkan sÃ¼rÃ¼cÃ¼sÃ¼nÃ¼ kullanmaya zorlayÄ±n. Sadece Zink ve Vulkan kullanan modlarÄ± etkiler.</string>
+    <string name="generic_install">YÃ¼kle</string>
+    <string name="generic_apply">Uygula</string>
+    <string name="generic_debug">Hata AyÄ±klama</string>
+    <string name="search_modpack_no_result">HiÃ§bir mod paketi bulunmadÄ±</string>
+    <string name="search_modpack_error">Mod paketi bulunamadÄ±</string>
+    <string name="search_modpack_download_error">Mod paketi meta verileri indirilemedi</string>
+    <string name="modpack_download_downloading_metadata">Mod paketi meta verileri indirliyor (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods">Modlar indiriliyor (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods_fc">Modlar indiriliyor (%d dosyadan %d tanesi)</string>
+    <string name="modpack_download_applying_overrides">GeÃ§ersiz kÄ±lmalar uygulanÄ±yor (%d/%d)</string>
+    <string name="modpack_install_notification_title">Brix Modpack Installer</string>
+    <string name="modpack_install_notification_success">Modpack kurulumunu tamamlamak iÃ§in buraya tÄ±klayÄ±n</string>
+    <string name="modpack_install_notification_data_not_available">Mod yÃ¼kleyici bilgileri indirilemedi</string>
+    <string name="modpack_install_modloader_download_failed">Mod yÃ¼kleyici dosyalarÄ± indirilemedi</string>
+    <string name="modpack_install_download_failed">Modpack dosyalarÄ± indirilemedi</string>
+    <string name="notif_error_occured">bir hata oluÅŸtu</string>
+    <string name="notif_error_occured_desc">Daha fazla ayrÄ±ntÄ± gÃ¶rmek iÃ§in tÄ±klayÄ±n</string>
+    <string name="fabric_dl_only_stable">Sadece kararlÄ± sÃ¼rÃ¼mleri gÃ¶ster</string>
+    <string name="dl_tampered_manifest_title">Dosya doÄŸrulama hatasÄ±</string>
+    <string name="dl_tampered_manifest"><![CDATA[Aynadaki oyun sÃ¼rÃ¼mÃ¼ bildirimi resmi Mojang sÃ¼rÃ¼m bildirimi ile eÅŸleÅŸmiyor, bu da Ã¼zerinde oynanmÄ±ÅŸ olabileceÄŸi anlamÄ±na geliyor.<br/>
+        <b>Bu gÃ¼venli deÄŸil. Devam ederseniz kiÅŸisel bilgileriniz risk altÄ±nda olabilir.</b><br/>
+        AynayÄ± kullanmaya devam etmek istiyorsanÄ±z, \"Bildirim kontrollerini kapat\" dÃ¼ÄŸmesine basÄ±n ve indirmeyi yeniden baÅŸlatÄ±n.<br/>
+        Resmi indirme kaynaÄŸÄ±nÄ± kullanmak istiyorsanÄ±z, \"Resmi siteye geÃ§\" dÃ¼ÄŸmesine basÄ±n ve indirmeyi yeniden baÅŸlatÄ±n.<br/>]]></string>
+    <string name="dl_turn_off_manifest_checks">Bildirim kontrollerini kapatÄ±n</string>
+    <string name="dl_switch_to_official_site">Resmi siteye geÃ§iÅŸ yapÄ±n</string>
+    <string name="preference_download_source_title">Oyun indirme kaynaÄŸÄ±</string>
+    <string name="preference_download_source_description">Resmi indirme sunucusunu kullanmak yerine bir indirme yansÄ±tÄ±cÄ±sÄ± seÃ§in</string>
+    <string name="preference_verify_manifest_title">Oyun sÃ¼rÃ¼m bildirimini doÄŸrulayÄ±n</string>
+    <string name="preference_verify_manifest_description">EtkinleÅŸtirildiÄŸinde, baÅŸlatÄ±cÄ± kÃ¼tÃ¼phanelerle birlikte oyun sÃ¼rÃ¼mÃ¼ bildirimini kontrol edecektir.</string>
+    <string name="notif_download_finished">Oyun baÅŸlatÄ±lmaya hazÄ±r</string>
+    <string name="notif_download_finished_desc">BaÅŸlatmak iÃ§in buraya tÄ±klayÄ±n!</string>
+    <string name="preference_category_gestures">Hareketler</string>
+    <string name="preference_category_buttons">DÃ¼ÄŸmeler</string>
+    <string name="preference_category_experimental_settings">Deneysel laneti</string>
+    <string name="preference_category_java_tweaks">Java AyarlamalarÄ±</string>
+    <string name="preference_category_main_categories">Kategoriler</string>
+    <string name="preference_category_miscellaneous">Ã‡eÅŸitli ayarlar</string>
+    <string name="preference_category_video">Video ayarlarÄ±</string>
+    <string name="notification_permission_dialog_title">Ä°zin isteÄŸi</string>
+    <string name="notification_permission_dialog_text">Brix Launcher, uygulamadan ayrÄ±ldÄ±ÄŸÄ±nÄ±zda oyun/mod paketi indirmelerinin durmasÄ±nÄ± Ã¶nlemek iÃ§in bildirim gÃ¶nderme izni gerektirir. Bu izin olmadan, Android Brix Launcher\'Ä± arka plan moduna aldÄ±ÄŸÄ±nÄ±zda indirmelerinizi kapatabilir.</string>
+    <string name="notification_permission_toast">Fikrinizi daha sonra Ayarlar\'a girerek her zaman deÄŸiÅŸtirebilirsiniz</string>
+    <string name="preference_ask_for_notification_title">Bildirimlere izin ver</string>
+    <string name="preference_ask_for_notification_description">Oyun/mod paketi arka plan indirmelerinin dÃ¼zgÃ¼n Ã§alÄ±ÅŸmasÄ± iÃ§in gerekli olan bildirim iznini yeniden istemek iÃ§in tÄ±klayÄ±n.</string>
+    <string name="preference_vsync_in_zink_title">Zink ile V-Sync\'ye izin ver</string>
+    <string name="preference_vsync_in_zink_description">BaÅŸlatÄ±cÄ±nÄ±n Zink iÃ§in V-Sync\'i etkinleÅŸtirmek Ã¼zere dahili sistem API\'lerini kullanmasÄ±na izin verir. Bir sistem gÃ¼ncellemesinden sonra baÅŸlatÄ±cÄ±nÄ±z Zink ile aniden Ã§Ã¶kerse bunu kapatÄ±n.</string>
+    <string name="exception_failed_to_unpack_jre17">JRE 17 yÃ¼klenemedi</string>
+    <string name="newdl_starting">Oyun meta verileri okunuyorâ€¦</string>
+    <string name="newdl_downloading_metadata">Oyun meta verileri indiriliyor (%s)</string>
+    <string name="controller_button_a">A</string>
+    <string name="controller_button_b">B</string>
+    <string name="controller_button_x">X</string>
+    <string name="controller_button_y">Y</string>
+    <string name="controller_button_start">BaÅŸla</string>
+    <string name="controller_button_select">SeÃ§</string>
+    <string name="customctrl_visibility_title">GÃ¶rÃ¼nÃ¼rlÃ¼k</string>
+</resources>
+

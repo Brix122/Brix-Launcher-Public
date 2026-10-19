@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="control_button_color">#4CC4C4C4</color>
+    <color name="control_button_pressed_color">#4D000000</color>
+
+    <color name="minebutton_color">#FFEC2038</color>
+    <color name="minebutton_secondary">#FF21242A</color>
+    <color name="background_app">#FFF6F7FA</color>
+    <color name="divider">@color/background_overlay</color>
+    <color name="background_overlay">#FFF0F2F6</color>
+    <color name="background_status_bar">#FFF6F7FA</color>
+    <color name="background_bottom_bar">#FFFFFFFF</color>
+    <color name="icon_outline_color">#FF22232A</color>
+
+    <color name="primary_text">#FF181B23</color>
+    <color name="secondary_text">#FF646B78</color>
+
+    <color name="brix_icon_bg">#12080B</color>
+</resources>

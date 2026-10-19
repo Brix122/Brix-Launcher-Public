@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+    <!-- Action bar part -->
+    <!-- Languages list part -->
+    <!-- Login strings -->
+    <string name="login_online_username_hint">ÐšÑƒÐ»Ð»Ð°Ð½ÑƒÑ‡Ñ‹Ð½Ñ‹Ò£ Ð¸ÑÐµÐ¼Ðµ</string>
+    <string name="login_online_login_label">ÐšÐµÑ€ÐµÑ€Ð³Ó™</string>
+    <!-- Hint -->
+    <!-- Warnings -->
+    <string name="warning_remove_account">Ð‘Ñƒ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚ Ð±ÐµÑ‚ÐµÑ€ÐµÐ»Ó™Ñ‡Ó™Ðº!</string>
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">ÐœÐ¾Ð´ ÑƒÑ‚Ñ‹Ñ€Ñ‚ÐºÑ‹Ñ‡Ñ‹Ð½ ÑÐ°Ð¹Ð»Ð°Ð³Ñ‹Ð·</string>
+    <!-- Error messages -->
+    <string name="error_fatal">Brix Launcher ÑÐ°Ñ„Ñ‚Ð°Ð½ ÐºÓ©Ñ‚ÐµÐ»Ð¼Ð¸Ñ‡Ó™ Ñ‡Ñ‹ÐºÑ‚Ñ‹</string>
+    <string name="error_no_version">Ð’ÐµÑ€ÑÐ¸Ñ ÑŽÐº!</string>
+    <string name="error_show_more">ÐšÒ¯Ð±Ñ€Ó™Ðº ÐºÒ¯Ñ€ÑÓ™Ñ‚Ò¯</string>
+    <string name="error_show_less">Ó˜Ð·Ñ€Ó™Ðº ÐºÒ¯Ñ€ÑÓ™Ñ‚Ò¯</string>
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">Ð¡Ð°ÐºÐ»Ð°Ñƒ ÑƒÑ€Ñ‹Ð½Ñ‹Ð½Ð½Ð°Ð½ ÑƒÐºÑƒ/ÑÑÑƒ Ñ€Ó©Ñ…ÑÓ™Ñ‚Ðµ ÐºÐ¸Ñ€Ó™Ðº!</string>
+    <string name="toast_optifine_success">Ð£Ñ‚Ñ‹Ñ€Ñ‚Ñ‹Ð»Ð´Ñ‹</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Ð’Ð¸ÐºÐ¸</string>
+    <!-- MCLauncherActivity: Account status -->
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">ÐšÐµÑˆ-Ñ„Ð°Ð¹Ð»Ð»Ð°Ñ€ Ð±ÐµÑ‚ÐµÑ€Ò¯Ðµ</string>
+    <string name="mcl_launch_downloading">%s Ð¹Ó©ÐºÐ»Ó™Ñ‚Ò¯Ðµ</string>
+    <string name="mcl_launch_downloading_progress">"%s Ð¹Ó©ÐºÐ»Ó™Ñ‚Ò¯ (%.2f ÐœÐ‘ / %.2f ÐœÐ‘)"</string>
+    <string name="mcl_launch_download_assets">Ð ÐµÑÑƒÑ€Ñ Ð¹Ó©ÐºÐ»Ó™Ò¯Ð³Ó™ Ó™Ð·ÐµÑ€Ð»Ó™Ð½Ò¯</string>
+    <string name="mcl_options">ÐšÓ©Ð¹Ð»Ó™Ò¯Ð»Ó™Ñ€</string>
+    <string name="mcl_option_customcontrol">ÐšÓ©Ð¹Ð»Ó™Ð½ÐµÐ»Ð³Ó™Ð½ Ð¸Ð´Ð°Ñ€Ó™</string>
+    <string name="mcl_setting_title_buttonscale">Ð¢Ó©Ð¹Ð¼Ó™Ð»Ó™Ñ€ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ñ‹</string>
+    <string name="mcl_setting_title_mousescale">ÐšÑƒÑ€ÑÐ¾Ñ€ Ð¼Ð°ÑÑˆÑ‚Ð°Ð±Ñ‹</string>
+    <string name="mcl_setting_title_javaargs">JVM ÐºÑƒÑˆÑƒ Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚Ð»Ð°Ñ€Ñ‹</string>
+    <string name="mcl_setting_category_renderer">ÐšÒ¯Ñ€ÑÓ™Ñ‚ÐºÐµÑ‡</string>
+    <string name="mcl_setting_renderer_gles2_4">Holy GL4ES - (Ð±Ð°Ñ€Ð»Ñ‹Ðº Ð²ÐµÑ€ÑÐ¸ÑÐ»Ó™Ñ€ Ó©Ñ‡ÐµÐ½, Ñ‚Ð¸Ð·)</string>
+    <string name="mcl_setting_veroption_release">Ð§Ñ‹Ð³Ð°Ñ€Ñ‹Ð»Ñ‹Ñˆ</string>
+    <string name="mcl_setting_veroption_snapshot">Ð¡Ð½Ð°Ð¿ÑˆÐ¾Ñ‚Ð»Ð°Ñ€</string>
+    <string name="mcl_setting_veroption_oldalpha">Ð˜ÑÐºÐµ Ð°Ð»ÑŒÑ„Ð°</string>
+    <string name="mcl_setting_veroption_oldbeta">Ð˜ÑÐºÐµ Ð±ÐµÑ‚Ð°</string>
+    <string name="mcl_version_clone">ÐšÐ»Ð¾Ð½Ð»Ð°Ñ€Ð³Ð°</string>
+    <!-- Global strings -->
+    <string name="global_edit">Ò®Ð·Ð³Ó™Ñ€Ñ‚Ò¯</string>
+    <string name="global_error">Ð¥Ð°Ñ‚Ð°</string>
+    <string name="global_load">Ð™Ó©ÐºÐ»Ó™Ò¯</string>
+    <string name="global_name">Ð˜ÑÐµÐ¼</string>
+    <string name="global_remove">Ð‘ÐµÑ‚ÐµÑ€Ò¯</string>
+    <string name="global_clone">ÐšÐ»Ð¾Ð½Ð»Ð°Ñ€Ð³Ð°</string>
+    <string name="global_restart">Ð¯Ò£Ð°Ð´Ð°Ð½ ÐºÑƒÑˆÑƒ</string>
+    <string name="global_save">Ð¡Ð°ÐºÐ»Ð°Ñ€Ð³Ð°</string>
+    <string name="global_unpacking">%s Ð°Ñ‡Ñ‹Ð»Ñƒ</string>
+    <string name="global_error_field_empty">Ð‘Ñƒ ÐºÑ‹Ñ€ Ð±ÑƒÑˆ Ð±ÑƒÐ»Ð°Ð¿ Ð°Ð»Ð¼Ð°Ð´Ñ‹</string>
+    <string name="global_waiting">ÐšÓ©Ñ‚ÐµÐ³ÐµÐ·</string>
+    <string name="global_select">Ð¡Ð°Ð¹Ð»Ð°Ñƒ</string>
+    <string name="global_default">Ð“Ð°Ð´Ó™Ñ‚Ñ‚Ó™Ð³Ðµ</string>
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_confirm">Ð¡ÐµÐ· Ð¼Ó™Ò—Ð±Ò¯Ñ€Ð¸ ÑÐ±Ñ‹Ñ€Ð³Ð° Ñ‚ÐµÐ»Ð¸ÑÐµÐ·Ð¼Ðµ?</string>
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Ð§Ð°Ñ‚</string>
+    <string name="control_debug">Ð¢Ó©Ð·Ó™Ñ‚Ò¯</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Sec</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_inventory">Ð˜Ð½Ð²</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">F5</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Ð¢Ñ‹Ñ‡ÐºÐ°Ð½</string>
+    <string name="control_mouseoff">Ð¢Ñ‹Ñ‡ÐºÐ°Ð½: Ð¡Ò¯Ð½ÐµÐº</string>
+    <string name="control_mouseon">Ð¢Ñ‹Ñ‡ÐºÐ°Ð½: ÐšÑƒÑˆÑ‹Ðº </string>
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">ÐœÓ™Ò—Ð±Ò¯Ñ€Ð¸ ÑÐ±Ñƒ</string>
+    <string name="control_viewout">Ð–ÑƒÑ€Ð½Ð°Ð»</string>
+    <string name="control_adebug">ÐšÐµÑ€Ñ‚Ò¯ Ñ‚Ó©Ð·Ó™Ñ‚Ò¯Ðµ</string>
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_invalid_file">Ð¥Ð°Ñ‚Ð°Ð»Ñ‹ ÑÐºÐ¸ Ð±Ð¾Ð·Ñ‹Ð»Ð³Ð°Ð½ Ñ„Ð°Ð¹Ð»</string>
+    <string name="import_control_done">Ð˜Ð¼Ð¿Ð¾Ñ€Ñ‚Ð»Ð°Ñƒ Ñ‚Ó™Ð¼Ð°Ð¼Ð»Ð°Ð½Ð´Ñ‹</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+    <string name="customctrl_size">Ð—ÑƒÑ€Ð»Ñ‹Ðº</string>
+    <string name="customctrl_mapping">Ð¢Ó©Ð¹Ð¼Ó™Ð»Ó™Ñ€</string>
+    <string name="customctrl_background_color">Ð¤Ð¾Ð½ Ñ‚Ó©ÑÐµ</string>
+    <string name="customctrl_stroke_width">ÐšÑ‹Ñ€ÑˆÐ°Ñƒ ÑŽÐ°Ð½Ð»Ñ‹Ð³Ñ‹</string>
+    <string name="customctrl_stroke_color">ÐšÑ‹Ñ€ÑˆÐ°Ñƒ Ñ‚Ó©ÑÐµ</string>
+    <string name="customctrl_button_opacity">Ð¢Ó©Ð¹Ð¼Ó™ Ñ‚Ð¾Ð½Ñ‹ÐºÑÑ‹Ð·Ð»Ñ‹Ð³Ñ‹</string>
+    <string name="customctrl_addbutton">Ð¢Ó©Ð¹Ð¼Ó™Ð½Ðµ Ð±ÑƒÐ»Ð´Ñ‹Ñ€Ñ‹Ñ€Ð³Ð°</string>
+    <string name="customctrl_addsubbutton">Ð¢Ó©Ð¹Ð¼Ó™Ñ‡Ó™Ð½Ðµ Ó©ÑÑ‚Ó™Ò¯</string>
+    <string name="main_share_logs">Ð–ÑƒÑ€Ð½Ð°Ð» Ñ„Ð°Ð¹Ð»Ñ‹Ð½ ÑƒÑ€Ñ‚Ð°ÐºÐ»Ð°ÑˆÑƒ</string>
+    <string name="main_play">Ð£Ð¹Ð½Ð°Ñ€Ð³Ð°</string>
+    <string name="mcl_setting_check_libraries">Ð™Ó©ÐºÐ»Ó™Ñ‚Ò¯Ð´Ó™Ð½ ÑÐ¾Ò£ ÐºÐ¸Ñ‚Ð°Ð¿Ñ…Ð°Ð½Ó™Ð»Ó™Ñ€Ð½Ðµ Ñ‚Ð¸ÐºÑˆÐµÑ€ÐµÑ€Ð³Ó™</string>
+    <string name="dl_library_sha_fail">%s ÐºÐ¸Ñ‚Ð°Ð¿Ñ…Ð°Ð½Ó™ÑÐµ Ð²Ð°Ñ‚Ñ‹Ð»Ð³Ð°Ð½ Ò»Ó™Ð¼ ÑÒ£Ð°Ð´Ð°Ð½ Ð¹Ó©ÐºÐ»Ó™Ñ‚Ó™Ñ‡Ó™Ðº</string>
+    <string name="dl_library_sha_unknown">%s ÐºÐ¸Ñ‚Ð°Ð¿Ñ…Ð°Ð½Ó™ÑÐµ Ñ‚Ð¸ÐºÑˆÐµÑ€ÐµÐ¿ Ð±ÑƒÐ»Ð¼Ð°Ð´Ñ‹; Ð°Ð½Ñ‹Ò£ Ð±ÐµÐ»Ó™Ð½ Ð±Ð°Ñ€Ñ‹ÑÑ‹ Ð´Ð° ÑÑ…ÑˆÑ‹ Ð´Ð¸Ð¿ ÑƒÐ¹Ð»Ð°Ñ€Ð³Ð° Ñ‚ÑƒÑ€Ñ‹ ÐºÐ¸Ð»Ó™</string>
+    <string name="dl_library_sha_pass">%s ÐºÐ¸Ñ‚Ð°Ð¿Ñ…Ð°Ð½Ó™ÑÐµ Ñ‚Ð¸ÐºÑˆÐµÑ€ÐµÐ»Ð´Ðµ Ò»Ó™Ð¼ ÐºÑƒÐ»Ð»Ð°Ð½Ñ‹Ñ€Ð³Ð° Ð¼Ó©Ð¼ÐºÐ¸Ð½</string>
+    <string name="mcl_disable_gestures">Ð˜ÑˆÐ°Ñ€Ó™ ÑÒ¯Ð½Ð´ÐµÑ€ÐµÑ€Ð³Ó™</string>
+    <string name="mcl_setting_title_mousespeed">Ð¢Ñ‹Ñ‡ÐºÐ°Ð½ ÑÐ¸Ð·Ð³ÐµÑ€Ð»ÐµÐ³Ðµ</string>
+    <string name="customctrl_passthru">Ð¢Ñ‹Ñ‡ÐºÐ°Ð½ ÐºÒ¯Ñ€ÑÓ™Ñ‚ÐºÐµÑ‡Ðµ</string>
+    <string name="mcl_memory_allocation">Ð¥Ó™Ñ‚ÐµÑ€ Ð±Ð¸Ð»Ð³ÐµÐ»Ó™Ò¯</string>
+    <string name="multirt_runtime_corrupt">Java Runtime Ð·Ð°Ñ€Ð°Ñ€Ð»Ð°Ð½Ð³Ð°Ð½</string>
+    <string name="multirt_runtime_incompatiblearch">Ð¯Ñ€Ð°ÐºÑÑ‹Ð· Ð°Ñ€Ñ…Ð¸Ñ‚ÐµÐºÑ‚ÑƒÑ€Ð°: %s</string>
+    <string name="multirt_config_add">Ð¯Ò£Ð°Ð½Ñ‹ Ó©ÑÑ‚Ó™Ñ€Ð³Ó™</string>
+    <string name="multirt_title">Runtime Ð¼ÐµÐ½ÐµÐ´Ð¶ÐµÑ€</string>
+    <string name="multirt_progress_caching">ÐšÑÑˆÐ»Ð°Ñƒ...</string>
+    <string name="multirt_config_setdefault">Ó˜Ò¯Ð²Ó™Ð»Ð³Ðµ</string>
+    <string name="multirt_config_setdefault_already">Ð“Ð°Ð´Ó™Ñ‚Ñ‚Ó™Ð³Ðµ</string>
+    <string name="pvc_gameDirectory">Ð£ÐµÐ½ Ð¿Ð°Ð¿ÐºÐ°ÑÑ‹</string>
+    <string name="pvc_jvmArgs">JVM Ð°Ñ€Ð³ÑƒÐ¼ÐµÐ½Ñ‚Ð»Ð°Ñ€Ñ‹</string>
+    <string name="preference_video_title">Ð’Ð¸Ð´ÐµÐ¾ Ò»Ó™Ð¼ ÐºÒ¯Ñ€ÑÓ™Ñ‚ÐºÐµÑ‡</string>
+    <string name="preference_control_title">Ð˜Ð´Ð°Ñ€Ó™ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð»Ð°Ñ€Ñ‹</string>
+    <string name="preference_java_title">Java Ñ‚Ó©Ð·Ó™Ñ‚Ð¼Ó™Ð»Ó™Ñ€Ðµ</string>
+    <string name="preference_misc_title">Ð‘Ð°ÑˆÐºÐ° ÐºÓ©Ð¹Ð»Ó™Ò¯Ð»Ó™Ñ€</string>
+    <string name="preference_experimental_title">Ð­ÐºÑÐ¿ÐµÑ€Ð¸Ð¼ÐµÐ½Ñ‚Ð°Ð»ÑŒ Ð½Ó™Ñ€ÑÓ™Ð»Ó™Ñ€</string>
+    <string name="preference_category_virtual_mouse">Ð’Ð¸Ñ€Ñ‚ÑƒÐ°Ð»ÑŒ Ñ‚Ñ‹Ñ‡ÐºÐ°Ð½</string>
+    <string name="preference_back_title">ÐÑ€Ñ‚ÐºÐ°</string>
+    <string name="unnamed">Ð˜ÑÐµÐ¼ÑÐµÐ·</string>
+    <string name="profiles_latest_snapshot">Ð¡Ð¾Ò£Ð³Ñ‹ ÑÑ€Ð´Ó™Ð¼Ñ‡Ðµ Ð²ÐµÑ€ÑÐ¸Ñ</string>
+    <string name="profiles_latest_release">Ð¡Ð¾Ò£Ð³Ñ‹ Ð²ÐµÑ€ÑÐ¸Ñ</string>
+    <string name="profiles_profile_name">Ð˜ÑÐµÐ¼</string>
+    <string name="profiles_profile_version">Ð’ÐµÑ€ÑÐ¸Ñ</string>
+    <string name="global_delete">Ð‘ÐµÑ‚ÐµÑ€Ò¯</string>
+    <string name="pedit_java_runtime">Java Runtime</string>
+    <string name="pedit_renderer">ÐšÒ¯Ñ€ÑÓ™Ñ‚ÐºÐµÑ‡</string>
+    <string name="notif_channel_name">Ð“Ð¾Ð¼ÑƒÐ¼Ð¸</string>
+    <string name="mcl_setting_veroption_installed">Ð£Ñ‚Ñ‹Ñ€Ñ‚Ñ‹Ð»Ð³Ð°Ð½</string>
+    <string name="notification_terminate">Ð¢Ó™Ð¼Ð°Ð¼Ð»Ð°Ñƒ</string>
+    <string name="notification_game_runs">Ð£ÐµÐ½ ÑÑˆÐ»Ó™Ð´Ðµ Ð¸Ð½Ð´Ðµ!</string>
+    <string name="folder_dialog_create">Ð¯ÑÐ°Ñƒ</string>
+    <string name="folder_dialog_insert_name">ÐŸÐ°Ð¿ÐºÐ° Ð¸ÑÐµÐ¼ÐµÐ½ ÐºÐµÑ€Ñ‚ÐµÐ³ÐµÐ·</string>
+    <string name="folder_fragment_create">ÐŸÐ°Ð¿ÐºÐ°Ð½Ñ‹ ÑÑÐ°Ñƒ</string>
+    <string name="main_login_done">ÐšÐµÑ€Ò¯ Ò¯Ñ‚Ó™Ð»Ð´Ðµ</string>
+    <string name="main_add_account">ÐÐºÐºÐ°ÑƒÐ½Ñ‚ Ó©ÑÑ‚Ó™Ò¯</string>
+    <string name="no_saved_accounts">Ð¡Ð°ÐºÐ»Ð°Ð½Ð³Ð°Ð½ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚Ð»Ð°Ñ€ ÑŽÐº</string>
+
+    <string name="percent_format">%d%%</string>
+    <string name="customctrl_editor_exit_title">Ð§Ñ‹Ð³ÑƒÐ¼Ñ‹?</string>
+    <string name="global_save_and_exit">Ð¡Ð°ÐºÐ»Ð°Ñƒ Ò»Ó™Ð¼ Ñ‡Ñ‹Ð³Ñƒ</string>
+    <string name="global_yes">Ó˜Ð¹Ðµ</string>
+    <string name="global_no">Ð®Ðº</string>
+    <string name="version_select_hint">Ð’ÐµÑ€ÑÐ¸Ñ ÑÐ°Ð¹Ð»Ð°Ð³Ñ‹Ð·</string>
+    <string name="forge_dl_select_version">Forge Ð²ÐµÑ€ÑÐ¸ÑÑÐµ ÑÐ°Ð¹Ð»Ð°Ñƒ</string>
+    <string name="fabric_dl_loader_version">%s Ð¹Ó©ÐºÐ»Ó™Ò¯Ñ‡ÐµÑÐµÐ½ÐµÒ£ Ð²ÐµÑ€ÑÐ¸ÑÑÐµ</string>
+
+    <string name="fabric_dl_install">Ð£Ñ‚Ñ‹Ñ€Ñ‚Ñƒ</string>
+    <string name="of_dl_progress">%s Ð¹Ó©ÐºÐ»Ó™Ñ‚Ò¯Ðµ</string>
+    <string name="generic_install">Ð£Ñ‚Ñ‹Ñ€Ñ‚Ñƒ</string>
+    <string name="generic_debug">Ð¢Ó©Ð·Ó™Ñ‚Ò¯</string>
+    <string name="preference_category_java_tweaks">Java Ñ‚Ó©Ð·Ó™Ñ‚Ð¼Ó™Ð»Ó™Ñ€Ðµ</string>
+    <string name="preference_category_miscellaneous">Ð‘Ð°ÑˆÐºÐ° ÐºÓ©Ð¹Ð»Ó™Ò¯Ð»Ó™Ñ€</string>
+    <string name="controller_button_select">Ð¡Ð°Ð¹Ð»Ð°Ñƒ</string>
+</resources>
+

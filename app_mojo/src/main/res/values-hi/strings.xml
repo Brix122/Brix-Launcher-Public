@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- App name part -->
+    <string name="app_short_name">Brix Launcher</string>
+
+    <!-- Action bar part -->
+
+    <!-- Languages list part -->
+
+    <!-- Login strings -->
+    <string name="login_online_username_hint">à¤¯à¥‚à¥›à¤°à¤¨à¥‡à¤®</string>
+    <string name="login_online_login_label">à¤²à¥‰à¤—à¤¿à¤¨</string>
+
+    <!-- Hint -->
+    <string name="hint_control_mapping">à¤¸à¤‚à¤¦à¤°à¥à¤­ à¤®à¥‡à¤¨à¥‚ à¤–à¥‹à¤²à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥‰à¤—à¤µà¥à¤¹à¥€à¤² à¤†à¤‡à¤•à¤¨ âš™ à¤•à¥‹ à¤¸à¥à¤ªà¤°à¥à¤¶ à¤•à¤°à¥‡à¤‚à¥¤\nà¤•à¤¸à¥à¤Ÿà¤®à¤¾à¤‡à¤œà¤¼ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¤¿à¤¸à¥€ à¤¬à¤Ÿà¤¨ à¤•à¥‹ à¤Ÿà¥ˆà¤ª à¤•à¤°à¥‡à¤‚: à¤à¤¡à¤¿à¤Ÿ à¤•à¤°à¥‡à¤‚, à¤†à¤•à¤¾à¤° à¤¬à¤¦à¤²à¥‡à¤‚, à¤¹à¤Ÿà¤¾à¤à¤, à¤¯à¤¾ à¤•à¥€à¤¬à¤¾à¤‡à¤‚à¤¡à¥à¤¸ à¤¬à¤¦à¤²à¥‡à¤‚à¥¤</string>
+
+    <!-- Warnings -->
+    <string name="warning_remove_account">à¤¯à¤¹ à¤–à¤¾à¤¤à¤¾ à¤¹à¤Ÿà¤¾ à¤¦à¤¿à¤¯à¤¾ à¤œà¤¾à¤à¤—à¤¾!</string>
+
+    <!-- AlertDialog title -->
+    <string name="alerttitle_installmod">à¤®à¥‰à¤¡ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤²à¤° à¤•à¥‹ à¤šà¥à¤¨à¥‡</string>
+
+    <!-- Error messages -->
+    <string name="error_fatal">Brix Launcher à¤…à¤ªà¥à¤°à¤¤à¥à¤¯à¤¾à¤¶à¤¿à¤¤ à¤•à¥à¤°à¥ˆà¤¶ à¤¹à¥‹ à¤—à¤¯à¤¾ à¤¹à¥ˆ</string>
+    <string name="error_no_version">à¤•à¥‹à¤ˆ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤¨à¤¹à¥€à¤‚!</string>
+    <string name="error_show_more">à¤œà¥à¤¯à¤¾à¤¦à¤¾ à¤¦à¤¿à¤–à¤¾à¤à¤ </string>
+    <string name="error_show_less">à¤•à¤® à¤¦à¤¿à¤–à¤¾à¤à¤</string>
+
+    <!-- Toast messages -->
+    <string name="toast_permission_denied">à¤­à¤‚à¤¡à¤¾à¤°à¤£ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤†à¤µà¤¶à¥à¤¯à¤• à¤¹à¥ˆà¥¤ à¤•à¥ƒà¤ªà¤¯à¤¾ à¤ªà¤¢à¤¼à¤¨à¥‡ à¤”à¤° à¤²à¤¿à¤–à¤¨à¥‡ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤‚</string>
+    <string name="toast_optifine_success">à¤¸à¤«à¤²à¤¤à¤¾à¤ªà¥‚à¤°à¥à¤µà¤• à¤¸à¥à¤¥à¤¾à¤ªà¤¿à¤¤ à¤•à¤¿à¤¯à¤¾ à¤—à¤¯à¤¾</string>
+    <!--
+    <string name="toast_3">Exit</string>
+    -->
+
+    <!-- MCLauncherActivity: Tabs -->
+    <string name="mcl_tab_wiki">Wiki</string>
+
+    <!-- MCLauncherActivity: Account status -->
+
+    <!-- MCLauncherActivity: Strings -->
+    <string name="mcl_launch_cleancache">à¤•à¥ˆà¤¶à¥‡ à¤«à¤¼à¤¾à¤‡à¤²à¥‹à¤‚ à¤•à¥€ à¤¸à¤«à¤¾à¤ˆ</string>
+    <string name="mcl_launch_downloading">à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ %s</string>
+    <string name="mcl_launch_downloading_progress">"%s à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ (%.2f MB / %.2f MB)"</string>
+    <string name="mcl_launch_download_assets">à¤¸à¤‚à¤¸à¤¾à¤§à¤¨ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤•à¤°à¤¨à¥‡ à¤•à¥€ à¤¤à¥ˆà¤¯à¤¾à¤°à¥€ à¤¹à¥‹ à¤°à¤¹à¥€ à¤¹à¥ˆ</string>
+
+    <string name="mcl_options">à¤µà¤¿à¤•à¤²à¥à¤ª</string>
+    <string name="mcl_option_customcontrol">à¤…à¤¨à¥à¤•à¥‚à¤²à¤¿à¤¤ à¤¨à¤¿à¤¯à¤‚à¤¤à¥à¤°à¤£</string>
+
+
+    <string name="mcl_setting_title_use_surface_view">à¤µà¥ˆà¤•à¤²à¥à¤ªà¤¿à¤• à¤¸à¤°à¤«à¥‡à¤¸ à¤°à¥‡à¤‚à¤¡à¤°à¤¿à¤‚à¤— à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¥‡à¤‚</string>
+    <string name="mcl_setting_subtitle_use_surface_view">à¤¯à¤¹ GPU-à¤¬à¤¾à¤§à¤¿à¤¤ à¤¸à¥à¤¥à¤¿à¤¤à¤¿à¤¯à¥‹à¤‚ à¤®à¥‡à¤‚ à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤•à¥‹ à¤¬à¥‡à¤¹à¤¤à¤° à¤¬à¤¨à¤¾à¤¨à¥‡ à¤®à¥‡à¤‚ à¤®à¤¦à¤¦ à¤•à¤° à¤¸à¤•à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="mcl_setting_title_ignore_notch">à¤¨à¥‰à¤š à¤•à¥‹ à¤…à¤¨à¤¦à¥‡à¤–à¤¾ à¤•à¤°à¥‡à¤‚</string>
+    <string name="mcl_setting_subtitle_ignore_notch">à¤¨à¥‰à¤š à¤•à¥‹ à¤…à¤¨à¤¦à¥‡à¤–à¤¾ à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ à¤”à¤° à¤¸à¥à¤•à¥à¤°à¥€à¤¨ à¤•à¥‹ à¤‰à¤¸à¤•à¥‡ à¤¨à¥€à¤šà¥‡ à¤¤à¤• à¤«à¥ˆà¤²à¤¾à¤¤à¤¾ à¤¹à¥ˆà¥¤\nà¤†à¤ªà¤•à¥‹ à¤…à¤§à¤¿à¤• à¤‡à¤®à¤°à¥à¤¸à¤¿à¤µ à¤…à¤¨à¥à¤­à¤µ à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="mcl_setting_title_resolution_scaler">à¤°à¤¿à¤œà¤¼à¥‰à¤²à¥à¤¯à¥‚à¤¶à¤¨ à¤¸à¥à¤•à¥‡à¤²à¤°</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">à¤¯à¤¹ à¤—à¥‡à¤® à¤•à¥‡ à¤°à¤¿à¤œà¤¼à¥‰à¤²à¥à¤¯à¥‚à¤¶à¤¨ à¤•à¥‹ à¤•à¤® à¤•à¤°à¤¨à¥‡ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆà¥¤ 100% à¤ªà¥‚à¤°à¥à¤£ à¤°à¤¿à¤œà¤¼à¥‰à¤²à¥à¤¯à¥‚à¤¶à¤¨ à¤¹à¥ˆà¥¤</string>
+    <string name="mcl_setting_title_longpresstrigger">à¤²à¥‰à¤¨à¥à¤— à¤ªà¥à¤°à¥‡à¤¸ à¤Ÿà¥à¤°à¤¿à¤—à¤° à¤¡à¤¿à¤²à¥‡</string>
+    <string name="mcl_setting_subtitle_longpresstrigger">à¤¬à¥à¤²à¥‰à¤• à¤¤à¥‹à¤¡à¤¼à¤¨à¥‡ à¤”à¤° à¤†à¤‡à¤Ÿà¤® à¤—à¤¿à¤°à¤¾à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤²à¥‰à¤¨à¥à¤— à¤ªà¥à¤°à¥‡à¤¸ à¤Ÿà¥à¤°à¤¿à¤—à¤° à¤¡à¤¿à¤²à¥‡ à¤¬à¤¦à¤²à¥‡à¤‚à¥¤</string>
+    <string name="mcl_setting_subtitle_buttonscale">à¤¬à¤Ÿà¤¨ à¤¬à¤¹à¥à¤¤ à¤›à¥‹à¤Ÿà¥‡ à¤¹à¥‹à¤¨à¥‡ à¤ªà¤° à¤‰à¤¨à¥à¤¹à¥‡à¤‚ à¤¬à¤¡à¤¼à¤¾ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="mcl_setting_title_mousescale">à¤®à¤¾à¤‰à¤¸ à¤¸à¥à¤•à¥‡à¤²à¤¿à¤‚à¤—</string>
+    <string name="mcl_setting_subtitle_mousescale">à¤µà¤°à¥à¤šà¥à¤…à¤² à¤®à¤¾à¤‰à¤¸ à¤•à¤¾ à¤†à¤•à¤¾à¤° à¤¬à¤¦à¤²à¥‡à¤‚à¥¤</string>
+    <string name="mcl_setting_title_javaargs">JVM à¤²à¥‰à¤¨à¥à¤š à¤†à¤°à¥à¤—à¥à¤¯à¥‚à¤®à¥‡à¤‚à¤Ÿà¥à¤¸</string>
+    <string name="mcl_setting_subtitle_javaargs">à¤¸à¤¾à¤µà¤§à¤¾à¤¨ à¤°à¤¹à¥‡à¤‚, à¤œà¥à¤žà¤¾à¤¨ à¤•à¥‡ à¤¬à¤¿à¤¨à¤¾ à¤¸à¤‚à¤¶à¥‹à¤§à¤¿à¤¤ à¤•à¤°à¤¨à¥‡ à¤ªà¤° à¤—à¥‡à¤® à¤•à¥à¤°à¥ˆà¤¶ à¤¹à¥‹ à¤¸à¤•à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="mcl_setting_category_renderer">à¤°à¥‡à¤‚à¤¡à¤°à¤°</string>
+    <string name="mcl_setting_renderer_gles2_4">à¤¹à¥‹à¤²à¥€ GL4ES - (à¤¸à¤­à¥€ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£, à¤¤à¥‡à¤œà¤¼)</string>
+    <string name="mcl_setting_renderer_vulkan_zink">à¤œà¤¼à¤¿à¤‚à¤• (à¤µà¤²à¥à¤•à¤¨) - (à¤¸à¤­à¥€ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£, à¤®à¤§à¥à¤¯à¤®)</string>
+    <string name="mcl_setting_renderer_ltw">LTW (à¤“à¤ªà¤¨à¤œà¥€à¤à¤² à¤ˆà¤à¤¸ 3) - à¤•à¥‡à¤µà¤² 1.17+</string>
+    <string name="mcl_setting_veroption_release">à¤°à¥€à¤²à¥€à¥›</string>
+    <string name="mcl_setting_veroption_snapshot">à¤¸à¥à¤¨à¥ˆà¤ªà¤¶à¥‰à¤Ÿ</string>
+    <string name="mcl_setting_veroption_oldalpha">à¤“à¤²à¥à¤¡-à¤…à¤²à¥à¤«à¤¾</string>
+    <string name="mcl_setting_veroption_oldbeta">à¤“à¤²à¥à¤¡-à¤¬à¥€à¤Ÿà¤¾</string>
+    <string name="mcl_setting_java_sandbox">à¤¸à¥ˆà¤‚à¤¡à¤¬à¥‰à¤•à¥à¤¸ .jar à¤¨à¤¿à¤·à¥à¤ªà¤¾à¤¦à¤¨</string>
+    <string name="mcl_setting_java_sandbox_subtitle">à¥žà¤¾à¤‡à¤² à¤¨à¤¿à¤·à¥à¤ªà¤¾à¤¦à¤¿à¤¤ à¤•à¤°à¤¤à¥‡ à¤¸à¤®à¤¯ à¤¸à¥ˆà¤‚à¤¡à¤¬à¥‰à¤•à¥à¤¸ à¤¸à¥à¤°à¤•à¥à¤·à¤¾ à¤®à¥ˆà¤¨à¥‡à¤œà¤° à¤•à¥€ à¤‰à¤ªà¤²à¤¬à¥à¤§à¤¤à¤¾ à¤•à¥‹ à¤¨à¤¿à¤¯à¤‚à¤¤à¥à¤°à¤¿à¤¤ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="mcl_version_clone">à¤•à¥à¤²à¥‹à¤¨</string>
+
+    <!-- Global strings -->
+    <string name="global_edit">à¤à¤¡à¤¿à¤Ÿ à¤•à¤°à¥‡à¤‚ </string>
+    <string name="global_error">à¤—à¤¡à¤¼à¤¬à¤¡à¤¼à¥€</string>
+    <string name="global_load">à¤²à¥‹à¤¡ à¤•à¤°à¥‡à¤‚</string>
+    <string name="global_name">à¤¨à¤¾à¤®</string>
+    <string name="global_remove">à¤¹à¤Ÿà¤¾à¤à¤</string>
+    <string name="global_clone">à¤•à¥à¤²à¥‹à¤¨ à¤•à¤°à¥‡à¤‚</string>
+    <string name="global_restart">à¤°à¥€à¤¸à¥à¤Ÿà¤¾à¤°à¥à¤Ÿ à¤•à¤°à¥‡à¤‚ </string>
+    <string name="global_save">à¤¸à¥‡à¤µ à¤•à¤°à¥‡à¤‚</string>
+    <string name="global_unpacking">à¤…à¤¨à¤ªà¥ˆà¤• à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ %s</string>
+    <string name="global_error_field_empty">à¤¯à¤¹ à¤«à¤¼à¥€à¤²à¥à¤¡ à¤–à¤¾à¤²à¥€ à¤¨à¤¹à¥€à¤‚ à¤¹à¥‹ à¤¸à¤•à¤¤à¤¾</string>
+    <string name="global_waiting">à¤ªà¥à¤°à¤¤à¥€à¤•à¥à¤·à¤¾ à¤•à¤°à¥‡à¤‚</string>
+    <string name="global_select">à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="global_retry">à¤ªà¥à¤¨à¤ƒ à¤ªà¥à¤°à¤¯à¤¾à¤¸ à¤•à¤°à¥‡à¤‚</string>
+    <string name="global_default">à¤¡à¤¿à¤«à¤¼à¥‰à¤²à¥à¤Ÿ</string>
+
+    <!-- MainActivity: strings -->
+    <string name="mcn_exit_title">à¤à¤ªà¥à¤²à¤¿à¤•à¥‡à¤¶à¤¨/à¤—à¥‡à¤® à¤•à¥‹à¤¡ %d à¤•à¥‡ à¤¸à¤¾à¤¥ à¤¬à¤‚à¤¦ à¤¹à¥‹ à¤—à¤¯à¤¾, à¤…à¤§à¤¿à¤• à¤œà¤¾à¤¨à¤•à¤¾à¤°à¥€ à¤•à¥‡ à¤²à¤¿à¤ latestlog.txt à¤¦à¥‡à¤–à¥‡à¤‚à¥¤</string>
+    <string name="mcn_exit_confirm">à¤•à¥à¤¯à¤¾ à¤†à¤ª à¤µà¤¾à¤•à¤ˆ à¤œà¤¼à¤¬à¤°à¤¦à¤¸à¥à¤¤à¥€ à¤¬à¤‚à¤¦ à¤•à¤°à¤¨à¤¾ à¤šà¤¾à¤¹à¤¤à¥‡ à¤¹à¥ˆà¤‚?</string>
+    <string name="mcn_check_fail_vulkan_support">à¤œà¤¼à¤¿à¤‚à¤• (à¤µà¤²à¥à¤•à¤¨) à¤°à¥‡à¤‚à¤¡à¤°à¤° à¤‡à¤¸ à¤¡à¤¿à¤µà¤¾à¤‡à¤¸ à¤ªà¤° à¤¸à¤®à¤°à¥à¤¥à¤¿à¤¤ à¤¨à¤¹à¥€à¤‚/à¤¨à¤¹à¥€à¤‚ à¤šà¤²à¥‡à¤—à¤¾  à¤¹à¥ˆ!</string>
+
+    <!-- MainActivity: Control buttons -->
+    <string name="control_chat">Chat</string>
+    <string name="control_debug">Debug</string>
+    <string name="control_primary">Pri</string>
+    <string name="control_secondary">Sec</string>
+    <string name="control_shift">â—‡</string>
+    <string name="control_inventory">Inv</string>
+    <string name="control_up">â–²</string>
+    <string name="control_left">â—€</string>
+    <string name="control_right">â–¶</string>
+    <string name="control_down">â–¼</string>
+    <string name="control_jump">â¬›</string>
+    <string name="control_thirdperson">3rd</string>
+    <string name="control_listplayers">Tab</string>
+    <string name="control_mouse">Mouse</string>
+    <string name="control_mouseoff">Mouse: off</string>
+    <string name="control_mouseon">Mouse: on </string>
+
+    <!-- MainActivity: Menu advanced controls -->
+    <string name="control_forceclose">à¤œà¤¼à¤¬à¤°à¤¦à¤¸à¥à¤¤à¥€ à¤¬à¤‚à¤¦ à¤•à¤°à¥‡à¤‚</string>
+    <string name="control_viewout">à¤²à¥‰à¤— à¤†à¤‰à¤Ÿà¤ªà¥à¤Ÿ</string>
+    <string name="control_adebug">à¤‡à¤¨à¤ªà¥à¤Ÿ à¤¡à¥€à¤¬à¤—</string>
+    <string name="control_customkey">à¤•à¤¸à¥à¤Ÿà¤® à¤•à¥€à¤•à¥‹à¤¡ à¤­à¥‡à¤œà¥‡à¤‚</string>
+
+    <!-- ImportControlActivity Strings -->
+    <string name="import_control_label">à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤‡à¤‚à¤ªà¥‹à¤°à¥à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="import_control_invalid_file">à¤…à¤µà¥ˆà¤§ à¤¯à¤¾ à¤¦à¥‚à¤·à¤¿à¤¤ à¤«à¤¼à¤¾à¤‡à¤²</string>
+    <string name="import_control_import_button">à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤‡à¤‚à¤ªà¥‹à¤°à¥à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="import_control_verifying_file">à¤«à¤¼à¤¾à¤‡à¤² à¤¸à¤¤à¥à¤¯à¤¾à¤ªà¤¿à¤¤ à¤•à¥€ à¤œà¤¾ à¤°à¤¹à¥€ à¤¹à¥ˆ, à¤•à¥ƒà¤ªà¤¯à¤¾ à¤ªà¥à¤°à¤¤à¥€à¤•à¥à¤·à¤¾ à¤•à¤°à¥‡à¤‚ à¤”à¤° à¤ªà¥à¤¨à¤ƒ à¤ªà¥à¤°à¤¯à¤¾à¤¸ à¤•à¤°à¥‡à¤‚â€¦</string>
+    <string name="import_control_invalid_name">à¤…à¤µà¥ˆà¤§ à¤¨à¤¾à¤® à¤¯à¤¾ à¤«à¤¼à¤¾à¤‡à¤² à¤ªà¤¹à¤²à¥‡ à¤¸à¥‡ à¤®à¥Œà¤œà¥‚à¤¦ à¤¹à¥ˆ</string>
+    <string name="import_control_done">à¤‡à¤‚à¤ªà¥‹à¤°à¥à¤Ÿ à¤ªà¥‚à¤°à¤¾ à¤¹à¥à¤†</string>
+    <!--
+    <string name="control_more3"></string>
+    <string name="control_more4"></string>
+-->
+
+    <string name="customctrl_toggle">à¤Ÿà¥‰à¤—à¤² à¤•à¤°à¤¨à¥‡ à¤¯à¥‹à¤—à¥à¤¯</string>
+    <string name="customctrl_size">à¤†à¤•à¤¾à¤°</string>
+
+    <string name="customctrl_mapping">à¤®à¥ˆà¤ªà¤¿à¤‚à¤—</string>
+    <string name="customctrl_orientation">à¤“à¤°à¤¿à¤à¤‚à¤Ÿà¥‡à¤¶à¤¨</string>
+    <string name="customctrl_background_bitmap">à¤¬à¥ˆà¤•à¤—à¥à¤°à¤¾à¤‰à¤‚à¤¡ à¤‡à¤®à¥‡à¤œ</string>
+    <string name="customctrl_background_color">à¤¬à¥ˆà¤•à¤—à¥à¤°à¤¾à¤‰à¤‚à¤¡ à¤°à¤‚à¤—</string>
+    <string name="customctrl_background_color_warning">à¤¬à¥ˆà¤•à¤—à¥à¤°à¤¾à¤‰à¤‚à¤¡ à¤°à¤‚à¤— à¤¬à¤¦à¤²à¤¨à¥‡ à¤¸à¥‡ à¤¬à¥ˆà¤•à¤—à¥à¤°à¤¾à¤‰à¤‚à¤¡ à¤‡à¤®à¥‡à¤œ à¤°à¥€à¤¸à¥‡à¤Ÿ à¤¹à¥‹ à¤œà¤¾à¤à¤—à¥€à¥¤</string>
+    <string name="customctrl_corner_radius">à¤•à¥‰à¤°à¥à¤¨à¤° à¤°à¥‡à¤¡à¤¿à¤¯à¤¸</string>
+    <string name="customctrl_stroke_width">à¤¸à¥à¤Ÿà¥à¤°à¥‹à¤• à¤šà¥Œà¤¡à¤¼à¤¾à¤ˆ</string>
+    <string name="customctrl_stroke_color">à¤¸à¥à¤Ÿà¥à¤°à¥‹à¤• à¤°à¤‚à¤—</string>
+
+    <string name="customctrl_button_opacity">à¤¬à¤Ÿà¤¨ à¤…à¤ªà¤¾à¤°à¤¦à¤°à¥à¤¶à¤¿à¤¤à¤¾</string>
+
+    <string name="customctrl_addbutton">à¤¬à¤Ÿà¤¨ à¤œà¥‹à¤¡à¤¼à¥‡à¤‚</string>
+    <string name="customctrl_addbutton_drawer">à¤¬à¤Ÿà¤¨ à¤¡à¥à¤°à¥‰à¤…à¤° à¤œà¥‹à¤¡à¤¼à¥‡à¤‚</string>
+    <string name="customctrl_addbutton_joystick">à¤œà¥‰à¤¯à¤¸à¥à¤Ÿà¤¿à¤• à¤œà¥‹à¤¡à¤¼à¥‡à¤‚</string>
+    <string name="customctrl_addsubbutton">à¤¸à¤¬-à¤¬à¤Ÿà¤¨ à¤œà¥‹à¤¡à¤¼à¥‡à¤‚</string>
+
+    <string name="customctrl_selectdefault">à¤¡à¤¿à¤«à¤¼à¥‰à¤²à¥à¤Ÿ à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤®à¥ˆà¤ª à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="customctrl_export">à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤®à¥ˆà¤ª à¤à¤•à¥à¤¸à¤ªà¥‹à¤°à¥à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+
+    <string name="main_share_logs">à¤²à¥‰à¤— à¤«à¤¼à¤¾à¤‡à¤² à¤¸à¤¾à¤à¤¾ à¤•à¤°à¥‡à¤‚</string>
+    <string name="main_install_jar_file"> à¤à¤• .jar à¤¨à¤¿à¤·à¥à¤ªà¤¾à¤¦à¤¿à¤¤ à¤•à¤°à¥‡à¤‚</string>
+    <string name="main_play">à¤–à¥‡à¤²à¥‡</string>
+    <string name="autoram_info_msg">à¤®à¥‡à¤®à¥‹à¤°à¥€ %d MB à¤ªà¤° à¤¸à¥‡à¤Ÿ à¤¹à¥ˆ</string>
+    <string name="mcl_setting_check_libraries"> à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤¬à¤¾à¤¦ à¤²à¤¾à¤‡à¤¬à¥à¤°à¥‡à¤°à¥€à¤œà¤¼ à¤œà¤¾à¤à¤šà¥‡à¤‚</string>
+    <string name="mcl_setting_check_libraries_subtitle">à¤¯à¤¹ à¤µà¤¿à¤•à¤²à¥à¤ª à¤²à¥‰à¤¨à¥à¤šà¤° à¤•à¥‹ à¤‰à¤ªà¤²à¤¬à¥à¤§ à¤¹à¥‹à¤¨à¥‡ à¤ªà¤° à¤²à¤¾à¤‡à¤¬à¥à¤°à¥‡à¤°à¥€ à¤¹à¥ˆà¤¶ à¤•à¥€ à¤œà¤¾à¤à¤š à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¬à¤¾à¤§à¥à¤¯ à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆà¥¤ à¤¯à¤¹ à¤Ÿà¥‚à¤Ÿà¥‡ à¤¹à¥à¤ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡à¥à¤¸ à¤•à¥‹ à¤°à¥‹à¤•à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="dl_library_sha_unknown">à¤²à¤¾à¤‡à¤¬à¥à¤°à¥‡à¤°à¥€ %s à¤•à¥€ à¤œà¤¾à¤à¤š à¤¨à¤¹à¥€à¤‚ à¤•à¥€ à¤œà¤¾ à¤¸à¤•à¤¤à¥€, à¤‡à¤¸à¥‡ à¤¸à¤¹à¥€ à¤®à¤¾à¤¨à¤¾ à¤œà¤¾à¤à¤—à¤¾</string>
+    <string name="dl_library_sha_pass">à¤²à¤¾à¤‡à¤¬à¥à¤°à¥‡à¤°à¥€ %s à¤ à¥€à¤• à¤¹à¥ˆ à¤”à¤° à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¥‡ à¤¯à¥‹à¤—à¥à¤¯ à¤¹à¥ˆ</string>
+    <string name="mcl_disable_gestures">à¤œà¥‡à¤¸à¥à¤šà¤° à¤¡à¤¿à¤¸à¥‡à¤¬à¤² à¤•à¤°à¥‡à¤‚</string>
+    <string name="mcl_disable_gestures_subtitle">à¤œà¥‡à¤¸à¥à¤šà¤° à¤¡à¤¿à¤¸à¥‡à¤¬à¤² à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆ, à¤œà¥ˆà¤¸à¥‡ à¤¬à¥à¤²à¥‰à¤• à¤¤à¥‹à¤¡à¤¼à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¦à¤¬à¤¾à¤•à¤° à¤°à¤–à¤¨à¤¾, à¤”à¤° à¤¬à¥à¤²à¥‰à¤• à¤°à¤–à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤Ÿà¥ˆà¤ª à¤•à¤°à¤¨à¤¾à¥¤</string>
+    <string name="mcl_disable_swap_hand">à¤¹à¤¾à¤¥ à¤¬à¤¦à¤²à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¡à¤¬à¤² à¤Ÿà¥ˆà¤ª à¤¬à¤‚à¤¦ à¤•à¤°à¥‡à¤‚</string>
+    <string name="mcl_disable_swap_hand_subtitle">à¤¹à¥‰à¤Ÿà¤¬à¤¾à¤° à¤†à¤‡à¤Ÿà¤® à¤ªà¤° à¤¡à¤¬à¤² à¤Ÿà¥ˆà¤ª à¤•à¤°à¤¨à¥‡ à¤ªà¤° à¤‰à¤¸à¥‡ à¤¦à¥‚à¤¸à¤°à¥‡ à¤¹à¤¾à¤¥ à¤®à¥‡à¤‚ à¤¬à¤¦à¤²à¤¨à¥‡ à¤•à¥€ à¤¸à¥à¤µà¤¿à¤§à¤¾ à¤¬à¤‚à¤¦ à¤•à¤° à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="mcl_setting_title_mousespeed">à¤®à¤¾à¤‰à¤¸ à¤¸à¥à¤ªà¥€à¤¡</string>
+    <string name="mcl_setting_subtitle_mousespeed">à¤µà¤°à¥à¤šà¥à¤…à¤² à¤®à¤¾à¤‰à¤¸ à¤•à¥€ à¤¸à¥à¤ªà¥€à¤¡ à¤¬à¤¦à¤²à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="customctrl_passthru">à¤®à¤¾à¤‰à¤¸ à¤ªà¤¾à¤¸-à¤¥à¥à¤°à¥‚</string>
+    <string name="customctrl_swipeable">à¤¸à¥à¤µà¤¾à¤‡à¤ª à¤•à¤°à¤¨à¥‡ à¤¯à¥‹à¤—à¥à¤¯</string>
+    <string name="customctrl_forward_lock">à¤«à¥‰à¤°à¤µà¤°à¥à¤¡ à¤²à¥‰à¤•</string>
+    <string name="customctrl_absolute_tracking">à¤à¤¬à¥à¤¸à¥‹à¤²à¥à¤¯à¥‚à¤Ÿ à¤«à¤¿à¤‚à¤—à¤° à¤Ÿà¥à¤°à¥ˆà¤•à¤¿à¤‚à¤—</string>
+    <string name="memory_warning_msg">à¤®à¥Œà¤œà¥‚à¤¦à¤¾ à¤‰à¤ªà¤²à¤¬à¥à¤§ RAM (%d) à¤†à¤µà¤‚à¤Ÿà¤¿à¤¤ RAM (%d) à¤¸à¥‡ à¤•à¤® à¤¹à¥ˆ, à¤œà¤¿à¤¸à¤¸à¥‡ à¤—à¥‡à¤® à¤•à¥à¤°à¥ˆà¤¶ à¤¹à¥‹ à¤¸à¤•à¤¤à¤¾ à¤¹à¥ˆà¥¤ à¤¯à¤¦à¤¿ à¤—à¥‡à¤® à¤•à¥à¤°à¥ˆà¤¶ à¤¹à¥‹à¤¤à¤¾ à¤¹à¥ˆ, à¤¤à¥‹ à¤†à¤µà¤‚à¤Ÿà¤¨ à¤¬à¤¦à¤²à¥‡à¤‚à¥¤</string>
+    <string name="address_memory_warning_msg">à¤®à¥Œà¤œà¥‚à¤¦à¤¾ à¤‰à¤ªà¤²à¤¬à¥à¤§ à¤à¤¡à¥à¤°à¥‡à¤¸à¥‡à¤¬à¤² RAM à¤¸à¥à¤ªà¥‡à¤¸ (%d) à¤†à¤µà¤‚à¤Ÿà¤¿à¤¤ RAM (%d) à¤¸à¥‡ à¤•à¤® à¤¹à¥ˆ, à¤œà¤¿à¤¸à¤¸à¥‡ à¤—à¥‡à¤® à¤•à¥à¤°à¥ˆà¤¶ à¤¹à¥‹ à¤œà¤¾à¤à¤—à¤¾à¥¤ à¤¯à¤¦à¤¿ à¤—à¥‡à¤® à¤•à¥à¤°à¥ˆà¤¶ à¤¹à¥‹à¤¤à¤¾ à¤¹à¥ˆ, à¤¤à¥‹ à¤†à¤µà¤‚à¤Ÿà¤¨ à¤¬à¤¦à¤²à¥‡à¤‚à¥¤</string>
+    <string name="mcl_memory_allocation">à¤®à¥‡à¤®à¥‹à¤°à¥€ à¤†à¤µà¤‚à¤Ÿà¤¨</string>
+
+    <string name="multirt_runtime_corrupt">à¤–à¤°à¤¾à¤¬ à¤œà¤¾à¤µà¤¾ à¤°à¤¨à¤Ÿà¤¾à¤‡à¤®</string>
+    <string name="multirt_runtime_incompatiblearch">à¤…à¤¸à¤‚à¤—à¤¤ à¤†à¤°à¥à¤•à¤¿à¤Ÿà¥‡à¤•à¥à¤šà¤°: %s</string>
+    <string name="multirt_config_title">à¤œà¤¾à¤µà¤¾ à¤°à¤¨à¤Ÿà¤¾à¤‡à¤®</string>
+    <string name="multirt_config_add">à¤¨à¤¯à¤¾ à¤œà¥‹à¤¡à¤¼à¥‡à¤‚</string>
+    <string name="multirt_title">à¤°à¤¨à¤Ÿà¤¾à¤‡à¤® à¤®à¥ˆà¤¨à¥‡à¤œà¤°</string>
+    <string name="multirt_subtitle">à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤•à¤¿à¤ à¤—à¤ à¤œà¤¾à¤µà¤¾ à¤°à¤¨à¤Ÿà¤¾à¤‡à¤® à¤®à¥ˆà¤¨à¥‡à¤œ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="multirt_progress_caching">à¤•à¥ˆà¤¶à¤¿à¤‚à¤— à¤¹à¥‹ à¤°à¤¹à¥€ à¤¹à¥ˆ...</string>
+    <string name="multirt_config_setdefault">à¤¡à¤¿à¤«à¤¼à¥‰à¤²à¥à¤Ÿ à¤¸à¥‡à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="multirt_config_setdefault_already">à¤¡à¤¿à¤«à¤¼à¥‰à¤²à¥à¤Ÿ</string>
+    <string name="multirt_config_removeerror_last">à¤†à¤ªà¤•à¥‡ à¤ªà¤¾à¤¸ à¤•à¤® à¤¸à¥‡ à¤•à¤® à¤à¤• à¤œà¤¾à¤µà¤¾ à¤°à¤¨à¤Ÿà¤¾à¤‡à¤® à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤¹à¥‹à¤¨à¤¾ à¤šà¤¾à¤¹à¤¿à¤à¥¤</string>
+    <string name="multirt_nocompatiblert">à¤•à¥‹à¤ˆ à¤¸à¤‚à¤—à¤¤ à¤œà¤¾à¤µà¤¾ à¤°à¤¨à¤Ÿà¤¾à¤‡à¤® à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤² à¤°à¤¹à¤¾ à¤¹à¥ˆà¥¤ à¤‡à¤¸ à¤µà¤°à¥à¥›à¤¨ à¤•à¥‡ à¤²à¤¿à¤ à¤œà¤¾à¤µà¤¾ %d à¤¯à¤¾ à¤¨à¤¯à¤¾ à¤šà¤¾à¤¹à¤¿à¤à¥¤</string>
+    <string name="multirt_nojava8rt">à¤œà¤¾à¤µà¤¾ 8 à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤² à¤°à¤¹à¤¾ à¤¹à¥ˆà¥¤ à¤‡à¤¸ à¤µà¤¿à¤•à¤²à¥à¤ª à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤, à¤†à¤ªà¤•à¥‹ à¤œà¤¾à¤µà¤¾ 8 à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤•à¤°à¤¨à¤¾ à¤¹à¥‹à¤—à¤¾à¥¤</string>
+    <string name="multirt_delete_runtime">à¤°à¤¨à¤Ÿà¤¾à¤‡à¤® à¤¡à¤¿à¤²à¥€à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="pvc_gameDirectory">à¤—à¥‡à¤® à¤¡à¤¾à¤¯à¤°à¥‡à¤•à¥à¤Ÿà¤°à¥€</string>
+    <string name="pvc_jvmArgs">JVM à¤†à¤°à¥à¤—à¥à¤¯à¥‚à¤®à¥‡à¤‚à¤Ÿà¥à¤¸</string>
+
+    <string name="preference_mouse_start_title">à¤µà¤°à¥à¤šà¥à¤…à¤² à¤®à¤¾à¤‰à¤¸ à¤‘à¤¨ à¤•à¤°à¤•à¥‡ à¤¶à¥à¤°à¥‚ à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_mouse_start_description">à¤¯à¤¹ à¤µà¤¿à¤•à¤²à¥à¤ª à¤‘à¤¨ à¤¹à¥‹à¤¨à¥‡ à¤ªà¤° à¤µà¤°à¥à¤šà¥à¤…à¤² à¤®à¤¾à¤‰à¤¸ à¤¸à¥à¤Ÿà¤¾à¤°à¥à¤Ÿà¤…à¤ª à¤ªà¤° à¤¦à¤¿à¤–à¤¾à¤ˆ à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="preference_video_title">à¤µà¥€à¤¡à¤¿à¤¯à¥‹ à¤”à¤° à¤°à¥‡à¤‚à¤¡à¤°à¤°</string>
+    <string name="preference_video_description">à¤°à¤¿à¤œà¤¼à¥‰à¤²à¥à¤¯à¥‚à¤¶à¤¨, à¤°à¥‡à¤‚à¤¡à¤°à¤° à¤”à¤° à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨</string>
+    <string name="preference_control_title">à¤¨à¤¿à¤¯à¤‚à¤¤à¥à¤°à¤£ à¤•à¤¸à¥à¤Ÿà¤®à¤¾à¤‡à¤œà¤¼à¥‡à¤¶à¤¨</string>
+    <string name="preference_control_description">à¤œà¥‡à¤¸à¥à¤šà¤°, à¤¬à¤Ÿà¤¨ à¤”à¤° à¤¸à¥à¤•à¥‡à¤²à¤¿à¤‚à¤—</string>
+    <string name="preference_java_title">à¤œà¤¾à¤µà¤¾ à¤Ÿà¥à¤µà¥€à¤•à¥à¤¸</string>
+    <string name="preference_java_description">à¤œà¤¾à¤µà¤¾ à¤°à¤¨à¤Ÿà¤¾à¤‡à¤®, JVM à¤†à¤°à¥à¤—à¥à¤¯à¥‚à¤®à¥‡à¤‚à¤Ÿà¥à¤¸, RAM à¤”à¤° à¤¸à¥ˆà¤‚à¤¡à¤¬à¥‰à¤•à¥à¤¸</string>
+    <string name="preference_misc_title">à¤…à¤¨à¥à¤¯ à¤¸à¥‡à¤Ÿà¤¿à¤‚à¤—à¥à¤¸</string>
+    <string name="preference_misc_description">à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤¸à¥‚à¤šà¥€ à¤”à¤° à¤²à¤¾à¤‡à¤¬à¥à¤°à¥‡à¤°à¥€à¤œà¤¼ à¤œà¤¾à¤à¤š</string>
+    <string name="preference_experimental_title">à¤ªà¥à¤°à¤¾à¤¯à¥‹à¤—à¤¿à¤• à¤šà¥€à¤œà¤¼à¥‡à¤‚</string>
+    <string name="preference_experimental_description">à¤µà¤¹à¤¾à¤‚ à¤•à¥€ à¤šà¥€à¥›à¥‹à¤‚ à¤•à¤¾ à¤¸à¤¾à¤µà¤§à¤¾à¤¨à¥€ à¤¸à¥‡ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¥‡à¤‚, à¤•à¥‹à¤ˆ à¤¸à¤ªà¥‹à¤°à¥à¤Ÿ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆà¥¤</string>
+    <string name="preference_sustained_performance_title">à¤¨à¤¿à¤°à¤‚à¤¤à¤° à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤®à¥‹à¤¡ à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_sustained_performance_description">à¤ªà¥€à¤• à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤•à¥‹ à¤¸à¥€à¤®à¤¿à¤¤ à¤•à¤°à¤•à¥‡ à¤¥à¤°à¥à¤®à¤² à¤¥à¥à¤°à¥‰à¤Ÿà¤²à¤¿à¤‚à¤— à¤•à¥‹ à¤¸à¥€à¤®à¤¿à¤¤ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="preference_force_vsync_title">VSync à¤•à¥‹ à¤¬à¤²à¤ªà¥‚à¤°à¥à¤µà¤• à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_force_vsync_description">à¤ªà¥€à¤• à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤•à¥‹ à¤¸à¥€à¤®à¤¿à¤¤ à¤•à¤°à¤•à¥‡ à¤¥à¤°à¥à¤®à¤² à¤¥à¥à¤°à¥‰à¤Ÿà¤²à¤¿à¤‚à¤— à¤•à¥‹ à¤¸à¥€à¤®à¤¿à¤¤ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="preference_force_english_title">à¤­à¤¾à¤·à¤¾ à¤•à¥‹ à¤¬à¤²à¤ªà¥‚à¤°à¥à¤µà¤• à¤…à¤‚à¤—à¥à¤°à¥‡à¥›à¥€ à¤®à¥‡à¤‚ à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_force_english_description">à¤¯à¤¹ à¤†à¤ªà¤•à¥‹ à¤®à¥‚à¤² à¤¸à¥à¤Ÿà¥à¤°à¤¿à¤‚à¤—à¥à¤¸ à¤¦à¥‡à¤–à¤¨à¥‡ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆ, à¤œà¥ˆà¤¸à¤¾ à¤•à¤¿ à¤¡à¥‡à¤µà¤²à¤ªà¤°à¥à¤¸ à¤•à¤¾ à¤‡à¤°à¤¾à¤¦à¤¾ à¤¥à¤¾à¥¤ à¤°à¥€à¤¸à¥à¤Ÿà¤¾à¤°à¥à¤Ÿ à¤†à¤µà¤¶à¥à¤¯à¤• à¤¹à¥ˆà¥¤</string>
+    <string name="preference_edit_controls_title">à¤•à¤¸à¥à¤Ÿà¤® à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤à¤¡à¤¿à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_edit_controls_summary">à¤…à¤ªà¤¨à¥€ à¤œà¤¼à¤°à¥‚à¤°à¤¤à¥‹à¤‚ à¤•à¥‡ à¤…à¤¨à¥à¤¸à¤¾à¤° à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤² à¤¸à¥à¤•à¥€à¤® à¤•à¥‹ à¤¬à¤¦à¤²à¥‡à¤‚à¥¤</string>
+
+    <string name="preference_category_gyro_controls">à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸</string>
+    <string name="preference_category_virtual_mouse">à¤µà¤°à¥à¤šà¥à¤…à¤² à¤®à¤¾à¤‰à¤¸</string>
+
+    <string name="preference_gyro_invert_x_axis">X-à¤…à¤•à¥à¤· à¤‰à¤²à¤Ÿà¤¾ à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_gyro_invert_y_axis">Y-à¤…à¤•à¥à¤· à¤‰à¤²à¤Ÿà¤¾ à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_gyro_invert_x_axis_description">à¤•à¥à¤·à¥ˆà¤¤à¤¿à¤œ à¤…à¤•à¥à¤· à¤•à¥‹ à¤‰à¤²à¤Ÿà¤¾ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="preference_gyro_invert_y_axis_description">à¤Šà¤°à¥à¤§à¥à¤µà¤¾à¤§à¤° à¤…à¤•à¥à¤· à¤•à¥‹ à¤‰à¤²à¤Ÿà¤¾ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="preference_gyro_smoothing_title">à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤¸à¥à¤®à¥‚à¤¥à¤¿à¤‚à¤— à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_gyro_smoothing_description">à¤²à¥‡à¤Ÿà¥‡à¤‚à¤¸à¥€ à¤•à¥‡ à¤¬à¤¦à¤²à¥‡ à¤œà¤¿à¤Ÿà¤° à¤•à¤® à¤•à¤°à¥‡à¤‚à¥¤</string>
+
+    <string name="preference_back_title">à¤ªà¤¿à¤›à¤²à¥€ à¤¸à¥à¤•à¥à¤°à¥€à¤¨ à¤ªà¤° à¤µà¤¾à¤ªà¤¸ à¤œà¤¾à¤à¤</string>
+    <string name="unnamed">à¤…à¤¨à¤¾à¤®</string>
+    <string name="profiles_latest_snapshot">à¤¨à¤µà¥€à¤¨à¤¤à¤® à¤¸à¥à¤¨à¥ˆà¤ªà¤¶à¥‰à¤Ÿ</string>
+    <string name="profiles_latest_release">à¤¨à¤µà¥€à¤¨à¤¤à¤® à¤°à¥€à¤²à¥€à¥›</string>
+    <string name="profiles_profile_name">à¤¨à¤¾à¤®</string>
+    <string name="profiles_profile_version">à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£</string>
+    <string name="instance_shared_data">à¤¸à¤¾à¤à¤¾ à¤¡à¥‡à¤Ÿà¤¾ (à¤¬à¤¦à¤²à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤Ÿà¥ˆà¤ª à¤•à¤°à¥‡à¤‚)</string>
+    <string name="instance_shared_data_on">à¤—à¥‡à¤® à¤¡à¥‡à¤Ÿà¤¾ à¤•à¥‹ à¤¸à¤¾à¤à¤¾ à¤¡à¤¾à¤¯à¤°à¥‡à¤•à¥à¤Ÿà¤°à¥€ à¤®à¥‡à¤‚ à¤¸à¥à¤Ÿà¥‹à¤° à¤•à¤°à¥‡à¤‚</string>
+    <string name="instance_shared_data_off">à¤—à¥‡à¤® à¤¡à¥‡à¤Ÿà¤¾ à¤•à¥‹ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¡à¤¾à¤¯à¤°à¥‡à¤•à¥à¤Ÿà¤°à¥€ à¤®à¥‡à¤‚ à¤¸à¥à¤Ÿà¥‹à¤° à¤•à¤°à¥‡à¤‚</string>
+    <string name="global_delete">à¤¡à¤¿à¤²à¥€à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="pedit_java_runtime">à¤œà¤¾à¤µà¤¾ à¤°à¤¨à¤Ÿà¤¾à¤‡à¤®</string>
+    <string name="pedit_renderer">à¤°à¥‡à¤‚à¤¡à¤°à¤°</string>
+    <string name="color_default_hex" translatable="false">FFFF0000</string>
+    <string name="notif_channel_name">à¤¸à¤¾à¤®à¤¾à¤¨à¥à¤¯</string>
+    <string name="notif_channel_id" translatable="false">channel_id</string>
+    <string name="lazy_service_default_title">Brix Launcher Service</string>
+    <string name="mcl_setting_veroption_installed">à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤•à¤¿à¤¯à¤¾ à¤—à¤¯à¤¾</string>
+    <string name="use_global_default">(à¤—à¥à¤²à¥‹à¤¬à¤² à¤¡à¤¿à¤«à¤¼à¥‰à¤²à¥à¤Ÿ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¥‡à¤‚)</string>
+    <string name="default_control">à¤¡à¤¿à¤«à¤¼à¥‰à¤²à¥à¤Ÿ à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤®à¥ˆà¤ª</string>
+    <string name="progresslayout_tasks_in_progress">%d à¤•à¤¾à¤°à¥à¤¯ à¤ªà¥à¤°à¤—à¤¤à¤¿ à¤ªà¤° à¤¹à¥ˆà¤‚</string>
+    <string name="notification_terminate">à¤¸à¤®à¤¾à¤ªà¥à¤¤ à¤•à¤°à¥‡à¤‚</string>
+    <string name="notification_game_runs">à¤—à¥‡à¤® à¤šà¤² à¤°à¤¹à¤¾ à¤¹à¥ˆ!</string>
+    <string name="folder_dialog_create">à¤¬à¤¨à¤¾à¤à¤</string>
+    <string name="folder_dialog_insert_name">à¤«à¤¼à¥‹à¤²à¥à¤¡à¤° à¤•à¤¾ à¤¨à¤¾à¤® à¤¡à¤¾à¤²à¥‡à¤‚</string>
+    <string name="folder_fragment_create">à¥žà¥‹à¤²à¥à¤¡à¤° à¤¬à¤¨à¤¾à¤à¤</string>
+    <string name="folder_fragment_select">à¥žà¥‹à¤²à¥à¤¡à¤° à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="main_login_done">à¤²à¥‰à¤—à¤¿à¤¨ à¤¹à¥‹ à¤—à¤¯à¤¾</string>
+    <string name="main_add_account">à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ à¤œà¥‹à¤¡à¤¼à¥‡à¤‚</string>
+    <string name="tasks_ongoing">à¤•à¤¾à¤°à¥à¤¯ à¤ªà¥à¤°à¤—à¤¤à¤¿ à¤ªà¤° à¤¹à¥ˆà¤‚, à¤•à¥ƒà¤ªà¤¯à¤¾ à¤ªà¥à¤°à¤¤à¥€à¤•à¥à¤·à¤¾ à¤•à¤°à¥‡à¤‚</string>
+    <string name="no_saved_accounts">à¤•à¥‹à¤ˆ à¤¸à¥‡à¤µ à¤•à¤¿à¤ à¤—à¤ à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ à¤¨à¤¹à¥€à¤‚</string>
+    <string name="mc_download_failed">à¤¯à¤¹ à¤–à¤°à¤¾à¤¬ à¤¨à¥‡à¤Ÿà¤µà¤°à¥à¤• à¤•à¤¨à¥‡à¤•à¥à¤¶à¤¨, à¤—à¤²à¤¤ à¤¤à¤°à¥€à¤•à¥‡ à¤¸à¥‡ à¤°à¤–à¥€ à¤—à¤ˆ à¥žà¤¾à¤‡à¤²à¥‹à¤‚, à¤†à¤¦à¤¿ à¤•à¥‡ à¤•à¤¾à¤°à¤£ à¤¹à¥‹ à¤¸à¤•à¤¤à¤¾ à¤¹à¥ˆà¥¤ </string>
+    <string name="xerr_unknown">à¤…à¤œà¥à¤žà¤¾à¤¤ Xbox Live API à¤¤à¥à¤°à¥à¤Ÿà¤¿ %d</string>
+
+    <string name="xerr_adult_verification">à¤†à¤ªà¤•à¥‡ à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ à¤•à¥‹ à¤•à¤¿à¤¸à¥€ à¤µà¤¯à¤¸à¥à¤• à¤¦à¥à¤µà¤¾à¤°à¤¾ à¤¸à¤¤à¥à¤¯à¤¾à¤ªà¤¿à¤¤ à¤•à¤¿à¤¯à¤¾ à¤œà¤¾à¤¨à¤¾ à¤œà¤¼à¤°à¥‚à¤°à¥€ à¤¹à¥ˆà¥¤</string>
+    <string name="xerr_child">à¤†à¤ªà¤•à¤¾ à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ à¤à¤• à¤šà¤¾à¤‡à¤²à¥à¤¡ à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ à¤¹à¥ˆ, à¤”à¤° à¤²à¥‰à¤—à¤¿à¤¨ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤‡à¤¸à¥‡ à¤à¤• à¤«à¥ˆà¤®à¤¿à¤²à¥€ à¤®à¥‡à¤‚ à¤œà¥‹à¤¡à¤¼à¤¾ à¤œà¤¾à¤¨à¤¾ à¤šà¤¾à¤¹à¤¿à¤à¥¤</string>
+
+    <string name="xerr_not_available">Xbox Live à¤†à¤ªà¤•à¥‡ à¤¦à¥‡à¤¶ à¤®à¥‡à¤‚ à¤‰à¤ªà¤²à¤¬à¥à¤§ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆ</string>
+    <string name="preference_enable_gyro_title">à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_enable_gyro_description">à¤‡à¤¸à¥‡ à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¤¨à¥‡ à¤¸à¥‡ à¤†à¤ª à¤…à¤ªà¤¨à¥‡ à¤«à¤¼à¥‹à¤¨ à¤•à¥‹ à¤®à¥‹à¤¡à¤¼à¤•à¤° à¤—à¥‡à¤® à¤®à¥‡à¤‚ à¤˜à¥‚à¤® à¤¸à¤•à¥‡à¤‚à¤—à¥‡à¥¤</string>
+    <string name="preference_gyro_sensitivity_title">à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤¸à¤‚à¤µà¥‡à¤¦à¤¨à¤¶à¥€à¤²à¤¤à¤¾</string>
+    <string name="preference_gyro_sensitivity_description">à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤•à¥€ à¤¸à¤‚à¤µà¥‡à¤¦à¤¨à¤¶à¥€à¤²à¤¤à¤¾ à¤¸à¤®à¤¾à¤¯à¥‹à¤œà¤¿à¤¤ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="toast_turn_on_gyro">à¤‡à¤¸à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤ªà¤¹à¤²à¥‡ à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¥‡à¤‚!</string>
+    <string name="preference_gyro_sample_rate_title">à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤¸à¥ˆà¤‚à¤ªà¤²à¤¿à¤‚à¤— à¤°à¥‡à¤Ÿ</string>
+    <string name="preference_gyro_sample_rate_description">à¤…à¤—à¤° à¤†à¤ªà¤•à¥‹ à¤—à¤¾à¤‡à¤°à¥‹à¤¸à¥à¤•à¥‹à¤ª à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤•à¥‡ à¤¸à¤¾à¤¥ à¤ªà¥à¤°à¤¦à¤°à¥à¤¶à¤¨ à¤¸à¤‚à¤¬à¤‚à¤§à¥€ à¤¸à¤®à¤¸à¥à¤¯à¤¾à¤à¤ à¤†à¤¤à¥€ à¤¹à¥ˆà¤‚, à¤¤à¥‹ à¤‡à¤¸à¥‡ à¤¬à¤¢à¤¼à¤¾à¤à¤à¥¤</string>
+    <string name="microsoft_login_retry_later">à¤¬à¤¹à¥à¤¤ à¤œà¤¼à¥à¤¯à¤¾à¤¦à¤¾ à¤°à¤¿à¤•à¥à¤µà¥‡à¤¸à¥à¤Ÿ à¤¹à¥ˆà¤‚, à¤•à¥ƒà¤ªà¤¯à¤¾ à¤¬à¤¾à¤¦ à¤®à¥‡à¤‚ à¤«à¤¿à¤° à¤¸à¥‡ à¤ªà¥à¤°à¤¯à¤¾à¤¸ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="storage_required">Brix Launcher à¤•à¥‹ à¤¬à¤¾à¤¹à¤°à¥€ à¤¸à¥à¤Ÿà¥‹à¤°à¥‡à¤œ à¤…à¤Ÿà¥ˆà¤š à¤¹à¥‹à¤¨à¤¾ à¤œà¤¼à¤°à¥‚à¤°à¥€ à¤¹à¥ˆà¥¤ à¤•à¥ƒà¤ªà¤¯à¤¾ à¤‡à¤¸à¥‡ à¤«à¤¿à¤° à¤¸à¥‡ à¤•à¤¨à¥‡à¤•à¥à¤Ÿ à¤•à¤°à¥‡à¤‚ à¤”à¤° à¤à¤ª à¤°à¥€à¤¸à¥à¤Ÿà¤¾à¤°à¥à¤Ÿ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="mcl_setting_title_buttonallcaps">à¤¬à¤Ÿà¤¨ à¤²à¥‡à¤¬à¤² à¤®à¥‡à¤‚ à¤•à¥‡à¤µà¤² à¤¬à¤¡à¤¼à¥‡ à¤…à¤•à¥à¤·à¤°à¥‹à¤‚ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¥‡à¤‚</string>
+    <string name="mcl_setting_subtitle_buttonallcaps">à¤¯à¤¦à¤¿ à¤†à¤ª à¤…à¤ªà¤¨à¥‡ à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¥à¤¸ à¤®à¥‡à¤‚ à¤›à¥‹à¤Ÿà¥‡ à¤…à¤•à¥à¤·à¤°à¥‹à¤‚ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¤¾ à¤šà¤¾à¤¹à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤¤à¥‹ à¤‡à¤¸à¥‡ à¤¡à¤¿à¤¸à¥‡à¤¬à¤² à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="create_instance">à¤¨à¤¯à¤¾ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¬à¤¨à¤¾à¤à¤</string>
+    <string name="preference_shader_dump_title">à¤¶à¥‡à¤¡à¤° à¤¡à¤‚à¤ªà¤¿à¤‚à¤— à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_shader_dump_description">à¤•à¤¨à¥à¤µà¤°à¥à¤Ÿà¥‡à¤¡ à¤¶à¥‡à¤¡à¤°à¥à¤¸ à¤•à¥‹ à¤²à¥‰à¤— à¥žà¤¾à¤‡à¤² à¤®à¥‡à¤‚ à¤²à¥‰à¤— à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="percent_format">%d%%</string>
+    <string name="millisecond_format">%d ms</string>
+    <string name="customctrl_editor_exit_title">à¤•à¥à¤¯à¤¾ à¤†à¤ª à¤œà¤¾ à¤°à¤¹à¥‡ à¤¹à¥ˆà¤‚?</string>
+    <string name="customctrl_editor_exit_msg">à¤•à¥à¤¯à¤¾ à¤†à¤ª à¤µà¤¾à¤•à¤ˆ à¤¬à¤¾à¤¹à¤° à¤¨à¤¿à¤•à¤²à¤¨à¤¾ à¤šà¤¾à¤¹à¤¤à¥‡ à¤¹à¥ˆà¤‚?</string>
+    <string name="customctrl_editor_exit">à¤à¤¡à¤¿à¤Ÿà¤° à¤¸à¥‡ à¤¬à¤¾à¤¹à¤° à¤¨à¤¿à¤•à¤²à¥‡à¤‚</string>
+    <string name="global_save_and_exit">à¤¸à¥‡à¤µ à¤•à¤°à¥‡à¤‚ à¤”à¤° à¤¬à¤¾à¤¹à¤° à¤¨à¤¿à¤•à¤²à¥‡à¤‚</string>
+    <string name="global_yes">à¤¹à¤¾à¤</string>
+    <string name="global_no">à¤¨à¤¹à¥€à¤‚</string>
+
+    <string name="preference_controller_map_wiped">à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤° à¤•à¥‰à¤¨à¥à¤«à¤¼à¤¿à¤— à¤®à¤¿à¤Ÿà¤¾ à¤¦à¤¿à¤¯à¤¾ à¤—à¤¯à¤¾ à¤¹à¥ˆà¥¤</string>
+      <string name="preference_category_controller_settings">à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤° à¤¸à¥‡à¤Ÿà¤¿à¤‚à¤—à¥à¤¸ </string>
+    <string name="preference_wipe_controller_title">à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤° à¤®à¥ˆà¤ªà¤¿à¤‚à¤— à¤°à¥€à¤¸à¥‡à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_wipe_controller_description">à¤¯à¤¹ à¤†à¤ªà¤•à¥‹ à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤° à¤¬à¤Ÿà¤¨ à¤•à¥‹ à¤«à¤¿à¤° à¤¸à¥‡ à¤®à¥ˆà¤ª à¤•à¤°à¤¨à¥‡ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="preference_deadzone_scale_title">à¤œà¥‰à¤¯à¤¸à¥à¤Ÿà¤¿à¤• à¤¡à¥‡à¤¡à¤œà¤¼à¥‹à¤¨ à¤¸à¥à¤•à¥‡à¤²</string>
+    <string name="preference_deadzone_scale_description">à¤…à¤—à¤° à¤œà¥‰à¤¯à¤¸à¥à¤Ÿà¤¿à¤• à¤¡à¥à¤°à¤¿à¤«à¥à¤Ÿ à¤•à¤°à¤¤à¥€ à¤¹à¥ˆ à¤¤à¥‹ à¤‡à¤¸à¥‡ à¤¬à¤¢à¤¼à¤¾à¤à¤à¥¤</string>
+
+
+    <string name="preference_force_big_core_title">à¤°à¥‡à¤‚à¤¡à¤°à¤° à¤•à¥‹ à¤¬à¤¡à¤¼à¥‡ à¤•à¥‹à¤° à¤ªà¤° à¤šà¤²à¤¾à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¬à¤² à¤¦à¥‡à¤‚</string>
+
+    <string name="version_select_hint">à¤à¤• à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="forge_dl_progress">%s à¤•à¥‡ à¤²à¤¿à¤ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤²à¤° à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ</string>
+    <string name="forge_dl_searching">à¤«à¥‹à¤°à¥à¤œ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤¨à¤‚à¤¬à¤° à¤–à¥‹à¤œà¤¾ à¤œà¤¾ à¤°à¤¹à¤¾ à¤¹à¥ˆ</string>
+    <string name="modloader_dl_failed_to_load_list">à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤¸à¥‚à¤šà¥€ à¤²à¥‹à¤¡ à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²!</string>
+    <string name="forge_dl_no_installer">à¤®à¤¾à¤«à¤¼ à¤•à¤°à¥‡à¤‚, à¤²à¥‡à¤•à¤¿à¤¨ à¤«à¥‹à¤°à¥à¤œ à¤•à¥‡ à¤‡à¤¸ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤®à¥‡à¤‚ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤²à¤° à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆ, à¤œà¥‹ à¤…à¤­à¥€ à¤¤à¤• à¤¸à¤®à¤°à¥à¤¥à¤¿à¤¤ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆà¥¤</string>
+    <string name="forge_dl_select_version">à¤«à¥‹à¤°à¥à¤œ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="fabric_dl_progress">%s à¤²à¥‹à¤¡à¤° à¤®à¥‡à¤Ÿà¤¾à¤¡à¥‡à¤Ÿà¤¾ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ</string>
+    <string name="fabric_dl_loader_version">%s à¤²à¥‹à¤¡à¤° à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£</string>
+
+    <string name="fabric_dl_install">à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤•à¤°à¥‡à¤‚</string>
+    <string name="fabric_dl_cant_read_meta">%s à¤²à¥‹à¤¡à¤° à¤®à¥‡à¤Ÿà¤¾à¤¡à¥‡à¤Ÿà¤¾ à¤ªà¤¢à¤¼à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²à¥¤ à¤•à¥ƒà¤ªà¤¯à¤¾ à¤¬à¤¾à¤¦ à¤®à¥‡à¤‚ à¤«à¤¿à¤° à¤¸à¥‡ à¤ªà¥à¤°à¤¯à¤¾à¤¸ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="fabric_dl_cant_read_meta2">à¤«à¥ˆà¤¬à¥à¤°à¤¿à¤• à¤²à¥‹à¤¡à¤° à¤®à¥‡à¤Ÿà¤¾à¤¡à¥‡à¤Ÿà¤¾ à¤ªà¤¢à¤¼à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²à¥¤ à¤•à¥ƒà¤ªà¤¯à¤¾ à¤¬à¤¾à¤¦ à¤®à¥‡à¤‚ à¤«à¤¿à¤° à¤¸à¥‡ à¤ªà¥à¤°à¤¯à¤¾à¤¸ à¤•à¤°à¥‡à¤‚à¥¤</string>
+    <string name="modloader_dl_install_fabric_instance">à¤«à¥ˆà¤¬à¥à¤°à¤¿à¤• à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¬à¤¨à¤¾à¤à¤</string>
+    <string name="modloader_dl_install_quilt_instance">à¤•à¥à¤µà¤¿à¤²à¥à¤Ÿ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¬à¤¨à¤¾à¤à¤</string>
+    <string name="modloader_dl_install_forge_instance">à¤«à¥‹à¤°à¥à¤œ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¬à¤¨à¤¾à¤à¤</string>
+    <string name="create_instance_vanilla">à¤µà¥ˆà¤¨à¤¿à¤²à¤¾ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¬à¤¨à¤¾à¤à¤</string>
+    <string name="create_profile_vanilla_like_versions">à¤µà¥ˆà¤¨à¤¿à¤²à¤¾ à¤œà¥ˆà¤¸à¥€ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£</string>
+    <string name="create_profile_modded_versions">à¤®à¥‰à¤¡ à¤•à¥€ à¤—à¤ˆ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£</string>
+    <string name="fabric_dl_loader_title">à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="of_dl_select_version">à¤‘à¤ªà¥à¤Ÿà¤¿à¤«à¤¾à¤‡à¤¨ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="of_dl_failed_to_scrape">à¤‘à¤ªà¥à¤Ÿà¤¿à¤«à¤¾à¤‡à¤¨ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤²à¥‡à¤¶à¤¨ à¤•à¥‡ à¤²à¤¿à¤ à¤¡à¥‡à¤Ÿà¤¾ à¤à¤•à¤¤à¥à¤° à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²à¥¤</string>
+    <string name="of_dl_progress">%s à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ</string>
+    <string name="mod_dl_install_optifine">à¤‘à¤ªà¥à¤Ÿà¤¿à¤«à¤¾à¤‡à¤¨ à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤•à¤°à¥‡à¤‚</string>
+
+
+    <string name="hint_search_modpack">à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤–à¥‹à¤œà¥‡à¤‚</string>
+
+    <string name="preference_vulkan_driver_system_title">à¤¸à¤¿à¤¸à¥à¤Ÿà¤® à¤µà¤²à¥à¤•à¤¨ à¤¡à¥à¤°à¤¾à¤‡à¤µà¤° à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_vulkan_driver_system_description">à¤²à¥‰à¤¨à¥à¤šà¤° à¤•à¥‹ à¤à¤¡à¥à¤°à¥‡à¤¨à¥‹ GPU à¤ªà¤° à¤Ÿà¤°à¥à¤¨à¤¿à¤ª à¤•à¥‡ à¤¬à¤œà¤¾à¤¯ à¤¸à¤¿à¤¸à¥à¤Ÿà¤® à¤µà¤²à¥à¤•à¤¨ à¤¡à¥à¤°à¤¾à¤‡à¤µà¤° à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¬à¤¾à¤§à¥à¤¯ à¤•à¤°à¥‡à¤‚à¥¤ à¤¯à¤¹ à¤•à¥‡à¤µà¤² à¤œà¤¼à¤¿à¤‚à¤• à¤”à¤° à¤µà¤²à¥à¤•à¤¨ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¥‡ à¤µà¤¾à¤²à¥‡ à¤®à¥‰à¤¡à¥à¤¸ à¤•à¥‹ à¤ªà¥à¤°à¤­à¤¾à¤µà¤¿à¤¤ à¤•à¤°à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+
+    <string name="generic_install">à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤•à¤°à¥‡à¤‚</string>
+    <string name="generic_apply">à¤²à¤¾à¤—à¥‚ à¤•à¤°à¥‡à¤‚</string>
+    <string name="generic_debug">à¤¡à¥€à¤¬à¤— à¤•à¤°à¥‡à¤‚</string>
+
+    <string name="search_modpack_no_result">à¤•à¥‹à¤ˆ à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤¨à¤¹à¥€à¤‚ à¤®à¤¿à¤²à¤¾</string>
+    <string name="search_modpack_error">à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤–à¥‹à¤œà¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²</string>
+    <string name="search_modpack_download_error">à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤®à¥‡à¤Ÿà¤¾à¤¡à¥‡à¤Ÿà¤¾ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²</string>
+
+    <string name="modpack_download_downloading_metadata">à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤®à¥‡à¤Ÿà¤¾à¤¡à¥‡à¤Ÿà¤¾ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods">à¤®à¥‰à¤¡à¥à¤¸ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¥‡ à¤¹à¥ˆà¤‚ (%.2f MB / %.2f MB)</string>
+    <string name="modpack_download_downloading_mods_fc">à¤®à¥‰à¤¡à¥à¤¸ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¥‡ à¤¹à¥ˆà¤‚ (à¥žà¤¾à¤‡à¤² %d/%d)</string>
+    <string name="modpack_download_applying_overrides">à¤“à¤µà¤°à¤°à¤¾à¤‡à¤¡à¥à¤¸ à¤²à¤¾à¤—à¥‚ à¤¹à¥‹ à¤°à¤¹à¥‡ à¤¹à¥ˆà¤‚ (%d/%d)</string>
+    <string name="modpack_install_notification_title">Brix Modpack Installer</string>
+    <string name="modpack_install_notification_success">à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤²à¥‡à¤¶à¤¨ à¤ªà¥‚à¤°à¤¾ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¯à¤¹à¤¾à¤‚ à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¥‡à¤‚</string>
+    <string name="modpack_install_notification_data_not_available">à¤®à¥‰à¤¡ à¤²à¥‹à¤¡à¤° à¤œà¤¾à¤¨à¤•à¤¾à¤°à¥€ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²</string>
+    <string name="modpack_install_modloader_download_failed">à¤®à¥‰à¤¡ à¤²à¥‹à¤¡à¤° à¥žà¤¾à¤‡à¤²à¥‡à¤‚ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²</string>
+    <string name="modpack_install_download_failed">à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¥žà¤¾à¤‡à¤²à¥‡à¤‚ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²</string>
+    <string name="modpack_install_instance_button">à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¬à¤¨à¤¾à¤à¤</string>
+
+    <string name="notif_error_occured">à¤à¤• à¤¤à¥à¤°à¥à¤Ÿà¤¿ à¤¹à¥à¤ˆ à¤¹à¥ˆ</string>
+    <string name="notif_error_occured_desc">à¤…à¤§à¤¿à¤• à¤œà¤¾à¤¨à¤•à¤¾à¤°à¥€ à¤¦à¥‡à¤–à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¥‡à¤‚</string>
+    <string name="fabric_dl_only_stable">à¤•à¥‡à¤µà¤² à¤¸à¥à¤¥à¤¿à¤° à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤¦à¤¿à¤–à¤¾à¤à¤</string>
+    <string name="dl_tampered_manifest_title">à¥žà¤¾à¤‡à¤² à¤¸à¤¤à¥à¤¯à¤¾à¤ªà¤¨ à¤šà¥‡à¤¤à¤¾à¤µà¤¨à¥€</string>
+    <string name="dl_tampered_manifest"><![CDATA[à¤®à¤¿à¤°à¤° à¤ªà¤° à¤—à¥‡à¤® à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤®à¥ˆà¤¨à¤¿à¤«à¥‡à¤¸à¥à¤Ÿ à¤†à¤§à¤¿à¤•à¤¾à¤°à¤¿à¤• à¤®à¥‹à¤œà¤¾à¤‚à¤— à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤®à¥ˆà¤¨à¤¿à¤«à¥‡à¤¸à¥à¤Ÿ à¤¸à¥‡ à¤®à¥‡à¤² à¤¨à¤¹à¥€à¤‚ à¤–à¤¾à¤¤à¤¾ à¤¹à¥ˆ, à¤œà¤¿à¤¸à¤•à¤¾ à¤…à¤°à¥à¤¥ à¤¹à¥ˆ à¤•à¤¿ à¤‡à¤¸à¤®à¥‡à¤‚ à¤›à¥‡à¤¡à¤¼à¤›à¤¾à¤¡à¤¼ à¤•à¥€ à¤—à¤ˆ à¤¹à¥‹ à¤¸à¤•à¤¤à¥€ à¤¹à¥ˆà¥¤<br/><b>à¤¯à¤¹ à¤¸à¥à¤°à¤•à¥à¤·à¤¿à¤¤ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆà¥¤ à¤¯à¤¦à¤¿ à¤†à¤ª à¤œà¤¾à¤°à¥€ à¤°à¤–à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤¤à¥‹ à¤†à¤ªà¤•à¥€ à¤µà¥à¤¯à¤•à¥à¤¤à¤¿à¤—à¤¤ à¤œà¤¾à¤¨à¤•à¤¾à¤°à¥€ à¤–à¤¤à¤°à¥‡ à¤®à¥‡à¤‚ à¤ªà¤¡à¤¼ à¤¸à¤•à¤¤à¥€ à¤¹à¥ˆà¥¤</b><br/>à¤¯à¤¦à¤¿ à¤†à¤ª à¤…à¤­à¥€ à¤­à¥€ à¤®à¤¿à¤°à¤° à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¤¾ à¤šà¤¾à¤¹à¤¤à¥‡ à¤¹à¥ˆà¤‚, à¤¤à¥‹ "à¤®à¥ˆà¤¨à¤¿à¤«à¥‡à¤¸à¥à¤Ÿ à¤œà¤¾à¤‚à¤š à¤¬à¤‚à¤¦ à¤•à¤°à¥‡à¤‚" à¤¦à¤¬à¤¾à¤à¤‚ à¤”à¤° à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤«à¤¿à¤° à¤¸à¥‡ à¤¶à¥à¤°à¥‚ à¤•à¤°à¥‡à¤‚à¥¤<br/>à¤¯à¤¦à¤¿ à¤†à¤ª à¤†à¤§à¤¿à¤•à¤¾à¤°à¤¿à¤• à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¸à¥à¤°à¥‹à¤¤ à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¤¾ à¤šà¤¾à¤¹à¤¤à¥‡ à¤¹à¥ˆà¤‚, à¤¤à¥‹ "à¤†à¤§à¤¿à¤•à¤¾à¤°à¤¿à¤• à¤¸à¤¾à¤‡à¤Ÿ à¤ªà¤° à¤¸à¥à¤µà¤¿à¤š à¤•à¤°à¥‡à¤‚" à¤¦à¤¬à¤¾à¤à¤‚ à¤”à¤° à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤«à¤¿à¤° à¤¸à¥‡ à¤¶à¥à¤°à¥‚ à¤•à¤°à¥‡à¤‚à¥¤<br/>]]>
+    </string>
+    <string name="dl_turn_off_manifest_checks">à¤®à¥ˆà¤¨à¤¿à¤«à¥‡à¤¸à¥à¤Ÿ à¤œà¤¾à¤‚à¤š à¤¬à¤‚à¤¦ à¤•à¤°à¥‡à¤‚</string>
+    <string name="dl_switch_to_official_site">à¤†à¤§à¤¿à¤•à¤¾à¤°à¤¿à¤• à¤¸à¤¾à¤‡à¤Ÿ à¤ªà¤° à¤¸à¥à¤µà¤¿à¤š à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_download_source_title">à¤—à¥‡à¤® à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¸à¥à¤°à¥‹à¤¤</string>
+    <string name="preference_download_source_description">à¤†à¤§à¤¿à¤•à¤¾à¤°à¤¿à¤• à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¸à¤°à¥à¤µà¤° à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤¬à¤œà¤¾à¤¯ à¤à¤• à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤®à¤¿à¤°à¤° à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="preference_verify_manifest_title">à¤—à¥‡à¤® à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤®à¥ˆà¤¨à¤¿à¤«à¥‡à¤¸à¥à¤Ÿ à¤¸à¤¤à¥à¤¯à¤¾à¤ªà¤¿à¤¤ à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_verify_manifest_description">à¤¸à¤•à¥à¤·à¤® à¤¹à¥‹à¤¨à¥‡ à¤ªà¤°, à¤²à¥‰à¤¨à¥à¤šà¤° à¤²à¤¾à¤‡à¤¬à¥à¤°à¥‡à¤°à¥€à¤œà¤¼ à¤•à¥‡ à¤¸à¤¾à¤¥ à¤—à¥‡à¤® à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤®à¥ˆà¤¨à¤¿à¤«à¥‡à¤¸à¥à¤Ÿ à¤•à¥€ à¤œà¤¾à¤‚à¤š à¤•à¤°à¥‡à¤—à¤¾à¥¤</string>
+    <string name="notif_download_finished">à¤—à¥‡à¤® à¤²à¥‰à¤¨à¥à¤š à¤¹à¥‹à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¤à¥ˆà¤¯à¤¾à¤° à¤¹à¥ˆ</string>
+    <string name="notif_download_finished_desc">à¤‡à¤¸à¥‡ à¤¶à¥à¤°à¥‚ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤¯à¤¹à¤¾à¤‚ à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¥‡à¤‚!</string>
+    <string name="preference_category_gestures">à¤œà¥‡à¤¸à¥à¤šà¤°</string>
+    <string name="preference_category_buttons">à¤¬à¤Ÿà¤¨</string>
+    <string name="preference_category_experimental_settings">à¤ªà¥à¤°à¤¾à¤¯à¥‹à¤—à¤¿à¤• à¤—à¤¡à¤¼à¤¬à¤¡à¤¼à¤¿à¤¯à¤¾à¤</string>
+    <string name="preference_category_java_tweaks">à¤œà¤¾à¤µà¤¾ à¤Ÿà¥à¤µà¥€à¤•à¥à¤¸</string>
+    <string name="preference_category_main_categories">à¤¶à¥à¤°à¥‡à¤£à¤¿à¤¯à¤¾à¤</string>
+    <string name="preference_category_miscellaneous">à¤…à¤¨à¥à¤¯ à¤¸à¥‡à¤Ÿà¤¿à¤‚à¤—à¥à¤¸</string>
+    <string name="preference_category_video">à¤µà¥€à¤¡à¤¿à¤¯à¥‹ à¤¸à¥‡à¤Ÿà¤¿à¤‚à¤—à¥à¤¸</string>
+    <string name="notification_permission_dialog_title">à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤…à¤¨à¥à¤°à¥‹à¤§</string>
+    <string name="notification_permission_dialog_text">à¤œà¤¬ à¤†à¤ª à¤à¤ª à¤¸à¥‡ à¤¬à¤¾à¤¹à¤° à¤¨à¤¿à¤•à¤²à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤¤à¥‹ à¤—à¥‡à¤®/à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡à¥à¤¸ à¤•à¥‹ à¤°à¥à¤•à¤¨à¥‡ à¤¸à¥‡ à¤°à¥‹à¤•à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ Brix Launcher à¤•à¥‹ à¤¨à¥‹à¤Ÿà¤¿à¤«à¤¿à¤•à¥‡à¤¶à¤¨à¥à¤¸ à¤ªà¥‹à¤¸à¥à¤Ÿ à¤•à¤°à¤¨à¥‡ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤šà¤¾à¤¹à¤¿à¤à¥¤ à¤‡à¤¸ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤•à¥‡ à¤¬à¤¿à¤¨à¤¾, à¤œà¤¬ à¤†à¤ª Brix Launcher à¤•à¥‹ à¤¬à¥ˆà¤•à¤—à¥à¤°à¤¾à¤‰à¤‚à¤¡ à¤®à¥‹à¤¡ à¤®à¥‡à¤‚ à¤¡à¤¾à¤²à¤¤à¥‡ à¤¹à¥ˆà¤‚ à¤¤à¥‹ Android à¤†à¤ªà¤•à¥‡ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡à¥à¤¸ à¤•à¥‹ à¤¬à¤‚à¤¦ à¤•à¤° à¤¸à¤•à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="notification_permission_toast">à¤†à¤ª à¤¸à¥‡à¤Ÿà¤¿à¤‚à¤—à¥à¤¸ à¤®à¥‡à¤‚ à¤œà¤¾à¤•à¤° à¤¬à¤¾à¤¦ à¤®à¥‡à¤‚ à¤•à¤­à¥€ à¤­à¥€ à¤…à¤ªà¤¨à¤¾ à¤®à¤¨ à¤¬à¤¦à¤² à¤¸à¤•à¤¤à¥‡ à¤¹à¥ˆà¤‚à¥¤</string>
+    <string name="preference_ask_for_notification_title">à¤¨à¥‹à¤Ÿà¤¿à¤«à¤¿à¤•à¥‡à¤¶à¤¨à¥à¤¸ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤‚</string>
+    <string name="preference_ask_for_notification_description">à¤¨à¥‹à¤Ÿà¤¿à¤«à¤¿à¤•à¥‡à¤¶à¤¨ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤•à¥‹ à¤«à¤¿à¤° à¤¸à¥‡ à¤°à¤¿à¤•à¥à¤µà¥‡à¤¸à¥à¤Ÿ à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¥‡à¤‚, à¤—à¥‡à¤®/à¤®à¥‰à¤¡à¤ªà¥ˆà¤• à¤¬à¥ˆà¤•à¤—à¥à¤°à¤¾à¤‰à¤‚à¤¡ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡à¥à¤¸ à¤•à¥‡ à¤¸à¤¹à¥€ à¤¢à¤‚à¤— à¤¸à¥‡ à¤•à¤¾à¤® à¤•à¤°à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤‡à¤¸à¤•à¥€ à¤†à¤µà¤¶à¥à¤¯à¤•à¤¤à¤¾ à¤¹à¥ˆà¥¤</string>
+    <string name="preference_vsync_in_zink_title">à¤œà¤¼à¤¿à¤‚à¤• à¤•à¥‡ à¤¸à¤¾à¤¥ V-Sync à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤‚</string>
+    <string name="preference_vsync_in_zink_description">à¤²à¥‰à¤¨à¥à¤šà¤° à¤•à¥‹ à¤œà¤¼à¤¿à¤‚à¤• à¤•à¥‡ à¤²à¤¿à¤ V-Sync à¤¸à¤•à¥à¤·à¤® à¤•à¤°à¤¨à¥‡ à¤¹à¥‡à¤¤à¥ à¤‡à¤‚à¤Ÿà¤°à¤¨à¤² à¤¸à¤¿à¤¸à¥à¤Ÿà¤® API à¤•à¤¾ à¤‰à¤ªà¤¯à¥‹à¤— à¤•à¤°à¤¨à¥‡ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆà¥¤ à¤¯à¤¦à¤¿ à¤¸à¤¿à¤¸à¥à¤Ÿà¤® à¤…à¤ªà¤¡à¥‡à¤Ÿ à¤•à¥‡ à¤¬à¤¾à¤¦ à¤œà¤¼à¤¿à¤‚à¤• à¤•à¥‡ à¤¸à¤¾à¤¥ à¤†à¤ªà¤•à¤¾ à¤²à¥‰à¤¨à¥à¤šà¤° à¤…à¤šà¤¾à¤¨à¤• à¤•à¥à¤°à¥ˆà¤¶ à¤¹à¥‹ à¤œà¤¾à¤¤à¤¾ à¤¹à¥ˆ, à¤¤à¥‹ à¤‡à¤¸à¥‡ à¤¬à¤‚à¤¦ à¤•à¤° à¤¦à¥‡à¤‚à¥¤</string>
+    <string name="exception_failed_to_unpack_jre17">JRE 17 à¤‡à¤‚à¤¸à¥à¤Ÿà¥‰à¤² à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²</string>
+    <string name="newdl_starting">à¤—à¥‡à¤® à¤®à¥‡à¤Ÿà¤¾à¤¡à¥‡à¤Ÿà¤¾ à¤ªà¤¢à¤¼à¤¾ à¤œà¤¾ à¤°à¤¹à¤¾ à¤¹à¥ˆâ€¦</string>
+    <string name="newdl_downloading_metadata">à¤—à¥‡à¤® à¤®à¥‡à¤Ÿà¤¾à¤¡à¥‡à¤Ÿà¤¾ à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆ (%s)</string>
+    <string name="newdl_downloading_game_files">à¤—à¥‡à¤® à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆâ€¦ (%d/%d, %.2f MB/s)</string>
+    <string name="newdl_downloading_game_files_size">à¤—à¥‡à¤® à¤¡à¤¾à¤‰à¤¨à¤²à¥‹à¤¡ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆâ€¦ (%.2f/%.2f MB, %.2f MB/s)</string>
+    <string name="cropper_title">à¤›à¤µà¤¿ à¤•à¥à¤·à¥‡à¤¤à¥à¤° à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="cropper_lock_vertical">V. à¤²à¥‰à¤•</string>
+    <string name="cropper_lock_horizontal">H. à¤²à¥‰à¤•</string>
+    <string name="cropper_reset">à¤°à¥€à¤¸à¥‡à¤Ÿ à¤•à¤°à¥‡à¤‚</string>
+    <string name="cropper_select_cancelled">à¤šà¤¯à¤¨ à¤°à¤¦à¥à¤¦ à¤•à¤¿à¤¯à¤¾ à¤—à¤¯à¤¾</string>
+    <string name="log_view_button_scroll_off">à¤‘à¤Ÿà¥‹à¤¸à¥à¤•à¥à¤°à¥‰à¤²\nà¤šà¤¾à¤²à¥‚</string>
+    <string name="log_view_button_scroll_on">à¤†à¤‰à¤Ÿà¤ªà¥à¤Ÿ\nà¤¬à¤‚à¤¦</string>
+    <string name="log_view_button_output_off">à¤†à¤‰à¤Ÿà¤ªà¥à¤Ÿ\nà¤šà¤¾à¤²à¥‚</string>
+    <string name="log_view_button_output_on">à¤†à¤‰à¤Ÿà¤ªà¥à¤Ÿ\nà¤šà¤¾à¤²à¥‚</string>
+    <string name="log_view_label_log_output">à¤²à¥‰à¤— à¤†à¤‰à¤Ÿà¤ªà¥à¤Ÿ:</string>
+    <string name="execute_jar_failed_to_read_file">.jar à¥žà¤¾à¤‡à¤² à¤ªà¤¢à¤¼à¤¨à¥‡ à¤®à¥‡à¤‚ à¤µà¤¿à¤«à¤²</string>
+    <string name="execute_jar_incompatible_runtime">.jar à¤¨à¤¿à¤·à¥à¤ªà¤¾à¤¦à¤¨ à¤¸à¥à¤µà¤¿à¤§à¤¾ à¤œà¤¾à¤µà¤¾ %d à¤•à¥‡ à¤¸à¤¾à¤¥ à¤¸à¤‚à¤—à¤¤ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆ</string>
+    <string name="controller_button_a">A</string>
+    <string name="controller_button_b">B</string>
+    <string name="controller_button_x">X</string>
+    <string name="controller_button_y">Y</string>
+    <string name="controller_button_start">à¤¸à¥à¤Ÿà¤¾à¤°à¥à¤Ÿ</string>
+    <string name="controller_button_select">à¤¸à¥‡à¤²à¥‡à¤•à¥à¤Ÿ</string>
+    <string name="controller_button_trigger_left">à¤²à¥‡à¤«à¥à¤Ÿ à¤Ÿà¥à¤°à¤¿à¤—à¤°</string>
+    <string name="controller_button_trigger_right">à¤°à¤¾à¤‡à¤Ÿ à¤Ÿà¥à¤°à¤¿à¤—à¤°</string>
+    <string name="controller_button_shoulder_left">à¤²à¥‡à¤«à¥à¤Ÿ à¤¶à¥‹à¤²à¥à¤¡à¤°</string>
+    <string name="controller_button_shoulder_right">à¤°à¤¾à¤‡à¤Ÿ à¤¶à¥‹à¤²à¥à¤¡à¤°</string>
+    <string name="controller_direction_forward">à¤¸à¥à¤Ÿà¤¿à¤• à¤Šà¤ªà¤°</string>
+    <string name="controller_direction_backward">à¤¸à¥à¤Ÿà¤¿à¤• à¤¨à¥€à¤šà¥‡</string>
+    <string name="controller_direction_left">à¤¸à¥à¤Ÿà¤¿à¤• à¤¬à¤¾à¤à¤</string>
+    <string name="controller_direction_right">à¤¸à¥à¤Ÿà¤¿à¤• à¤¦à¤¾à¤à¤</string>
+    <string name="controller_stick_press_l">à¤²à¥‡à¤«à¥à¤Ÿ à¤¥à¤‚à¤¬à¤¸à¥à¤Ÿà¤¿à¤• (à¤•à¥à¤²à¤¿à¤•)</string>
+    <string name="controller_stick_press_r">à¤°à¤¾à¤‡à¤Ÿ à¤¥à¤‚à¤¬à¤¸à¥à¤Ÿà¤¿à¤• (à¤•à¥à¤²à¤¿à¤•)</string>
+    <string name="controller_dpad_up">à¤¡à¥€-à¤ªà¥ˆà¤¡ à¤Šà¤ªà¤°</string>
+    <string name="controller_dpad_down">à¤¡à¥€-à¤ªà¥ˆà¤¡ à¤¨à¥€à¤šà¥‡</string>
+    <string name="controller_dpad_left">à¤¡à¥€-à¤ªà¥ˆà¤¡ à¤¬à¤¾à¤à¤</string>
+    <string name="controller_dpad_right">à¤¡à¥€-à¤ªà¥ˆà¤¡ à¤¦à¤¾à¤à¤</string>
+    <string name="controller_remapper_exit_part1">à¤ªà¤•à¤¡à¤¼à¥‡</string>
+    <string name="controller_remapper_exit_part2">à¤¬à¤¾à¤¹à¤° à¤¨à¤¿à¤•à¤²à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤</string>
+    <string name="controller_remapper_operating_mode">à¤µà¤°à¥à¤¤à¤®à¤¾à¤¨ à¤®à¥‹à¤¡</string>
+    <string name="customctrl_visibility_title">à¤¦à¥ƒà¤¶à¥à¤¯à¤¤à¤¾</string>
+    <string name="customctrl_visibility_ingame">à¤—à¥‡à¤® à¤®à¥‡à¤‚</string>
+    <string name="customctrl_visibility_in_menus">à¤®à¥‡à¤¨à¥à¤¯à¥‚ à¤®à¥‡à¤‚</string>
+    <string name="controller_remapper_expand_entry">à¤•à¥€à¤•à¥‹à¤¡ à¤¬à¤¦à¤²à¤¨à¥‡ à¤•à¥‡ à¤²à¤¿à¤ à¤µà¤¿à¤¸à¥à¤¤à¤¾à¤° à¤•à¤°à¥‡à¤‚</string>
+    <string name="preference_remap_controller_title">à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤° à¤•à¥€ à¤¬à¤¾à¤‡à¤‚à¤¡à¤¿à¤‚à¤— à¤¬à¤¦à¤²à¥‡à¤‚</string>
+    <string name="preference_remap_controller_description">à¤¯à¤¹ à¤†à¤ªà¤•à¥‹ à¤ªà¥à¤°à¤¤à¥à¤¯à¥‡à¤• à¤•à¤‚à¤Ÿà¥à¤°à¥‹à¤²à¤° à¤¬à¤Ÿà¤¨ à¤¸à¥‡ à¤¬à¤¾à¤‰à¤‚à¤¡ à¤•à¥€à¤¬à¥‹à¤°à¥à¤¡ à¤•à¥à¤‚à¤œà¤¿à¤¯à¥‹à¤‚ à¤•à¥‹ à¤¸à¤‚à¤¶à¥‹à¤§à¤¿à¤¤ à¤•à¤°à¤¨à¥‡ à¤•à¥€ à¤…à¤¨à¥à¤®à¤¤à¤¿ à¤¦à¥‡à¤¤à¤¾ à¤¹à¥ˆ</string>
+    <string name="mcl_button_social_media">à¤¡à¤¿à¤¸à¥à¤•à¥‰à¤°à¥à¤¡</string>
+    <string name="ltw_render_distance_warning_msg">à¤†à¤ªà¤•à¤¾ GPU à¤¸à¥‹à¤¡à¤¿à¤¯à¤® à¤¯à¤¾ à¤…à¤¨à¥à¤¯ à¤¸à¤®à¤¾à¤¨ à¤®à¥‰à¤¡à¥à¤¸ à¤•à¥‡ à¤¬à¤¿à¤¨à¤¾ 7 à¤¸à¥‡ à¤œà¤¼à¥à¤¯à¤¾à¤¦à¤¾ à¤°à¥‡à¤‚à¤¡à¤° à¤¦à¥‚à¤°à¥€ à¤ªà¤° à¤°à¥‡à¤‚à¤¡à¤° à¤•à¤°à¤¨à¥‡ à¤®à¥‡à¤‚ à¤¸à¤•à¥à¤·à¤® à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆà¥¤ à¤œà¤¬ à¤†à¤ª "à¤ à¥€à¤• à¤¹à¥ˆ" à¤ªà¤° à¤•à¥à¤²à¤¿à¤• à¤•à¤°à¥‡à¤‚à¤—à¥‡ à¤¤à¥‹ à¤°à¥‡à¤‚à¤¡à¤° à¤¦à¥‚à¤°à¥€ à¤…à¤ªà¤¨à¥‡ à¤†à¤ª à¤•à¤® à¤¹à¥‹ à¤œà¤¾à¤à¤—à¥€à¥¤</string>
+    <string name="mcl_button_open_directory">à¤—à¥‡à¤® à¤¡à¤¾à¤¯à¤°à¥‡à¤•à¥à¤Ÿà¤°à¥€ à¤–à¥‹à¤²à¥‡à¤‚</string>
+    <string name="local_login_bad_username_title">à¤…à¤¨à¥à¤ªà¤¯à¥à¤•à¥à¤¤ à¤¯à¥‚à¤œà¤¼à¤°à¤¨à¥‡à¤®</string>
+    <string name="local_login_bad_username_text">à¤¯à¥‚à¤œà¤¼à¤°à¤¨à¥‡à¤® 3â€“16 à¤…à¤•à¥à¤·à¤°à¥‹à¤‚ à¤•à¤¾ à¤¹à¥‹à¤¨à¤¾ à¤šà¤¾à¤¹à¤¿à¤, à¤”à¤° à¤‡à¤¸à¤®à¥‡à¤‚ à¤•à¥‡à¤µà¤² à¤²à¥ˆà¤Ÿà¤¿à¤¨ à¤…à¤•à¥à¤·à¤°, 0â€“9 à¤…à¤‚à¤• à¤”à¤° à¤…à¤‚à¤¡à¤°à¤¸à¥à¤•à¥‹à¤° à¤¹à¥‹à¤¨à¥‡ à¤šà¤¾à¤¹à¤¿à¤à¥¤</string>
+    <string name="quick_setting_title">à¤¤à¥à¤µà¤°à¤¿à¤¤ à¤¸à¥‡à¤Ÿà¤¿à¤‚à¤—à¥à¤¸</string>
+    <string name="create_bta_instance">à¤¬à¥‡à¤Ÿà¤° à¤¦à¥ˆà¤¨ à¤à¤¡à¤µà¥‡à¤‚à¤šà¤°!" à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤¬à¤¨à¤¾à¤à¤!"</string>
+    <string name="select_bta_version">à¤¬à¥‡à¤Ÿà¤° à¤¦à¥ˆà¤¨ à¤à¤¡à¤µà¥‡à¤‚à¤šà¤°!" à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤šà¥à¤¨à¥‡à¤‚</string>
+    <string name="bta_installer_available_versions">à¤¸à¤®à¤°à¥à¤¥à¤¿à¤¤ BTA à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£</string>
+    <string name="bta_installer_untested_versions">à¤…à¤ªà¤°à¤¿à¤•à¥à¤·à¤¿à¤¤ BTA à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£</string>
+    <string name="bta_installer_nightly_versions">à¤¨à¤¾à¤‡à¤Ÿà¤²à¥€ BTA à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£</string>
+    <string name="newdl_extracting_native_libraries">à¤¨à¥‡à¤Ÿà¤¿à¤µ à¤²à¤¾à¤‡à¤¬à¥à¤°à¥‡à¤°à¥€à¤œà¤¼ à¤¨à¤¿à¤•à¤¾à¤²à¥€ à¤œà¤¾ à¤°à¤¹à¥€ à¤¹à¥ˆà¤‚ (%d/%d)</string>
+    <string name="compat_version_not_supported">à¤†à¤ªà¤•à¤¾ à¤¡à¤¿à¤µà¤¾à¤‡à¤¸ à¤¯à¤¹ à¤¸à¤‚à¤¸à¥à¤•à¤°à¤£ à¤¨à¤¹à¥€à¤‚ à¤šà¤²à¤¾ à¤¸à¤•à¤¤à¤¾ à¤•à¥à¤¯à¥‹à¤‚à¤•à¤¿ LTW à¤†à¤ªà¤•à¥‡ à¤¡à¤¿à¤µà¤¾à¤‡à¤¸ à¤ªà¤° à¤¸à¤®à¤°à¥à¤¥à¤¿à¤¤ à¤¨à¤¹à¥€à¤‚ à¤¹à¥ˆà¥¤</string>
+    <string name="oauth_unknown_error">à¤…à¤œà¥à¤žà¤¾à¤¤ à¤ªà¥à¤°à¤®à¤¾à¤£à¥€à¤•à¤°à¤£ à¤¤à¥à¤°à¥à¤Ÿà¤¿</string>
+    <string name="oauth_web_complete">à¤ªà¥à¤°à¤®à¤¾à¤£à¥€à¤•à¤°à¤£ à¤¹à¥‹ à¤°à¤¹à¤¾ à¤¹à¥ˆâ€¦</string>
+    <string name="auth_select_microsoft">à¤®à¤¾à¤‡à¤•à¥à¤°à¥‹à¤¸à¥‰à¤«à¥à¤Ÿ à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ</string>
+    <string name="auth_select_elyby">Ely.by à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ</string>
+    <string name="auth_select_local">à¤¸à¥à¤¥à¤¾à¤¨à¥€à¤¯ à¤…à¤•à¤¾à¤‰à¤‚à¤Ÿ</string>
+    <string name="instance_dir_missing">à¤‡à¤‚à¤¸à¥à¤Ÿà¥‡à¤‚à¤¸ à¤—à¤¾à¤¯à¤¬ à¤¹à¥ˆ</string>
+</resources>
+
